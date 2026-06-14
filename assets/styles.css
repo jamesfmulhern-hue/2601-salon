@@ -611,3 +611,57 @@ footer .sig {
   .hero { background: #fff; color: #000; border: 2px solid #000; }
   .hero h1, .hero .subtitle { color: #000 !important; }
 }
+
+/* ===== Notices & Announcements band (Art of Telling style) ===== */
+.notices-band {
+  background: #F5EBC9;
+  border-top: 2px solid var(--gold);
+  border-bottom: 2px solid var(--gold);
+  margin: -28px -20px 30px;  /* extend slightly beyond page padding for full-bleed feel */
+  padding: 22px 28px 26px;
+}
+.notices-heading {
+  font-family: "Lora", Georgia, serif;
+  text-transform: uppercase;
+  letter-spacing: 0.28em;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--maroon);
+  text-align: center;
+  margin: 0 auto 18px;
+}
+.notice-card {
+  background: #FFFDF8;
+  border: 1px solid #E6D9B0;
+  border-left: 5px solid var(--maroon);
+  border-radius: 6px;
+  padding: 16px 20px 18px;
+  margin: 0 auto 14px;
+  max-width: 820px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+.notice-card:last-child { margin-bottom: 0; }
+.notice-card .date {
+  font-family: "Lora", Georgia, serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #8B8268;
+  margin-bottom: 8px;
+}
+.notice-card .body {
+  font-family: "Lora", Georgia, serif;
+  color: var(--navy);
+  line-height: 1.55;
+  font-size: 1.0rem;
+}
+.notice-card .body p { margin: 0 0 10px; }
+.notice-card .body p:last-child { margin-bottom: 0; }
+.notice-card .body a { color: var(--maroon); }
+
+@media (max-width: 720px) {
+  .notices-band { margin: -16px -14px 22px; padding: 18px 16px 20px; }
+  .notices-heading { letter-spacing: 0.20em; font-size: 0.74rem; }
+  .notice-card { padding: 14px 16px; }
+}

@@ -85,6 +85,8 @@ COURSES = [
 
 
 def build():
+    from _announcements import render_notice_block
+    notices_band = render_notice_block()
     cards = []
     for c in COURSES:
         cards.append(f"""
@@ -96,6 +98,7 @@ def build():
 """.strip())
 
     body = f"""
+{notices_band}
 <div class="notice">
   <div class="label">A NOTE TO MY NEIGHBORS</div>
   <p style="margin-bottom:0;">Professor Mulhern — your neighbor in A Tower, and a novelist, short story writer, poet, and essayist — is willing to teach the following eleven free courses for the residents of 2601. Each meets weekly in the community room. Each is built around close reading and generous conversation.</p>

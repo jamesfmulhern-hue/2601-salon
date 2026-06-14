@@ -256,11 +256,10 @@ def build_course(slug):
     ) if readings_inner else ""
 
     # -------- Compose page body --------
+    from _announcements import render_notice_block
+    notices_band = render_notice_block()
     body = f"""
-<div class="notice">
-  <div class="label">Notices &amp; Announcements</div>
-  <p style="margin-bottom:0;text-align:center;color:var(--muted);font-style:italic;">No notices at this time.</p>
-</div>
+{notices_band}
 
 <div class="hero">
   <h1>{meta['title']}</h1>
