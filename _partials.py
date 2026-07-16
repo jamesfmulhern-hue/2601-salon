@@ -15,6 +15,7 @@ def topnav(path_prefix=""):
     <div class="links">
       <a href="{path_prefix}index.html#courses">Courses</a>
       <a href="{path_prefix}index.html#about">About</a>
+      <a href="{path_prefix}philosophy-of-writing.html">Philosophy</a>
       <a href="{path_prefix}index.html#contact">Contact</a>
     </div>
   </div>
