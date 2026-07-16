@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "2601-salon",
+  "name": "icy-cherry-d79c",
   "compatibility_date": "2026-07-01",
   "observability": {
     "enabled": true
