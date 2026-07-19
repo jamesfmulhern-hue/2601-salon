@@ -2025,7 +2025,7 @@ Were the text substitutions in Sessions 9 and 10 successful — did Jewett, Free
 
 Consider the balance of lyric and prophetic across the term. Did the deliberate pairing of Plath and Sexton with King in Session 15 illuminate the two strains, or did the join feel forced? Would the course gain from naming the lyric/prophetic distinction earlier — perhaps in the Recurring Threads essay — so students hold it from the first night?
 
-What did the residents of 2601 bring to the capstone that surprised you? Which writer, of all sixteen weeks, did this particular room claim as its own? Record it; the answer will differ each year, and the differences are the truest measure of the course.
+What did this particular group bring to the capstone that surprised you? Which writer, of all sixteen weeks, did this particular room claim as its own? Record it; the answer will differ each year, and the differences are the truest measure of the course.
 
 Texts to consider adding or rotating in future years; pacing changes; a guest reader; a field trip to the Free Library's special collections; an evening given over entirely to reading aloud. Write freely below.
 
