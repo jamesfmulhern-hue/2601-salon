@@ -883,9 +883,9 @@ Beyond my editorial work, I have served as an **AP Consultant**, training teache
 
 I am a **published writer** myself, which means I know what it feels like to hand pages to an editor, to receive notes in the margins of something you worked hard on, to revise something three times and then revise it again. I know what it costs. I also know what it gives back.
 
-I live in Philadelphia, which is why the chance to run this workshop for adult writers means something to me. I have run workshops in university classrooms and professional development settings. I have never run one in a the room for the people who live down the hall. I intend to bring the same rigor to this room that I brought to every editorial meeting I was ever part of — and I intend to enjoy it more.
+I live in Philadelphia, which is why the chance to run this workshop for adult writers means something to me. I have run workshops in university classrooms and professional development settings. I intend to bring the same rigor to this course that I brought to every editorial meeting I was ever part of — and I intend to enjoy it more.
 
-If you are a resident of 2601 with pages you want to make better, this workshop is for you. I look forward to reading your work.
+If you have pages you want to make better, this workshop is for you. I look forward to reading your work.
 
 ---
 

@@ -16,7 +16,7 @@ This course is an open door. Walk through it at whatever pace you need. You do n
 
 ## Welcome
 
-Welcome to *The Personal Essay & Memoir: Writing From a Life* — a free sixteen-week course meeting for adult readers and writers, for residents who want to explore the craft of true personal writing.
+Welcome to *The Personal Essay & Memoir: Writing From a Life* — a free sixteen-week course for adult readers and writers who want to explore the craft of true personal writing.
 
 Over sixteen weeks we will read some of the finest essayists and memoirists working in English, talk about what makes their writing work, and then do a little writing of our own — by hand, on paper, in the room together. No screens. No keyboards. Just a pen, a blank page, and whatever you decide to bring to it.
 
@@ -876,7 +876,7 @@ I am a Professor of English and a former Department Chair, and I am the recipien
 
 I am a published memoirist. My own writing is concerned with memory, family, working-class experience, and the ordinary tragedies and joys that make up most of a life. I believe memoir is one of the most democratic of literary forms — it requires no specialized knowledge, no particular credential, no extraordinary life. It requires only the willingness to look honestly at what you have lived and to try, with care and patience, to put it into words.
 
-I live in Philadelphia. I am glad to be teaching here,, for these readers.
+I live in Philadelphia. I am glad to be teaching this course.
 
 If you have questions, or if you want to talk about a piece of writing you are already working on, please email me at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).
 

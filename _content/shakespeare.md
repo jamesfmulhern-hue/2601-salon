@@ -1,7 +1,7 @@
 # Shakespeare's Sonnets and Famous Speeches
 
 **A Free 16-Week Community Course for adult readers and writers**
-Taught by James F. Mulhern · the room · 90 Minutes Weekly
+Taught by James F. Mulhern · In person or on Zoom · 90 Minutes Weekly
 
 ---
 
@@ -158,7 +158,7 @@ Read Sonnet 18 twice — once by the instructor, once passed line by line around
 6. Is there a difference between reading a poem silently and hearing it read aloud? What changed for you in this session?
 
 ### Homework
-Write one sentence — just one — completing this: *"When I read Shakespeare, I feel..."* Save it; we will return to it in Session 16. Then read next week's two texts aloud once before class.
+Write one sentence — just one — completing this: *"When I read Shakespeare, I feel."* Save it; we will return to it in Session 16. Then read next week's two texts aloud once before class.
 
 ---
 
@@ -167,7 +167,7 @@ Write one sentence — just one — completing this: *"When I read Shakespeare, 
 ### Main Points of the Lesson
 1. **Sonnet 116 defines love by negation.** Its whole rhetorical strategy is to say what love is *not* — "not love / Which alters when it alteration finds." By ruling out everything fickle, the poem builds an ideal of constancy through exclusion rather than description.
 2. **Love becomes a fixed point for the lost.** The sonnet's central image, "the star to every wand'ring bark," makes love the navigational constant by which the wandering ship steers. The thematic stake is that love's value lies in steadiness, not intensity.
-3. **Love is set explicitly against time.** "Love's not Time's fool, though rosy lips and cheeks / Within his bending sickle's compass come" insists true love survives the decay of beauty. The closing couplet stakes everything on this claim — "if this be error... I never writ."
+3. **Love is set explicitly against time.** "Love's not Time's fool, though rosy lips and cheeks / Within his bending sickle's compass come" insists true love survives the decay of beauty. The closing couplet stakes everything on this claim — "if this be error. I never writ."
 4. **Romeo's balcony speech is rapture caught in the moment.** This is blank verse spoken as overheard soliloquy, escalating through images — Juliet as the sun, as stars, as an angel. Its rhetorical engine is hyperbole piling on hyperbole, dramatizing infatuation that arrives without warning.
 5. **The speech is overheard, not addressed.** Romeo speaks before Juliet knows he is there, which complicates the romance: he adores an image of her, not yet a person in dialogue. That gap raises the session's quiet question about the difference between adoring someone and being in relationship with them.
 6. **Both texts reach for the cosmos.** Sonnet and speech alike turn to stars, light, and navigation, suggesting Shakespeare treats love as a force that reorders the universe around the beloved — though one text is calm and definitional, the other breathless and particular.
@@ -202,7 +202,7 @@ Write two or three sentences describing love using a comparison that has nothing
 ### Main Points of the Lesson
 1. **Sonnet 73 builds through three shrinking images of fading.** Its three quatrains move from autumn boughs ("yellow leaves, or none, or few") to fading twilight to a dying fire — season, then day, then hour. Each contraction of the time-frame intensifies the felt nearness of an ending, a textbook use of the sonnet's quatrain structure to stage a deepening argument.
 2. **The couplet turns mortality into a reason for love.** "This thou perceiv'st, which makes thy love more strong, / To love that well which thou must leave ere long" claims that knowing something will end can deepen our devotion to it. The stake is consoling but unproven, and the session tests whether we believe it.
-3. **Macbeth's "Tomorrow" speech is Shakespeare at his most nihilistic.** This blank-verse soliloquy makes time itself a meaningless crawl — days "creep" in a "petty pace" — and reduces life to a "brief candle," "a walking shadow," a tale "told by an idiot... signifying nothing." Its rhetorical move is relentless deflation, image after image draining meaning away.
+3. **Macbeth's "Tomorrow" speech is Shakespeare at his most nihilistic.** This blank-verse soliloquy makes time itself a meaningless crawl — days "creep" in a "petty pace" — and reduces life to a "brief candle," "a walking shadow," a tale "told by an idiot. signifying nothing." Its rhetorical move is relentless deflation, image after image draining meaning away.
 4. **Context reframes the speech entirely.** Macbeth speaks just after learning his wife has died, so the question is whether we hear genuine grief, exhaustion, or a murderer's self-justification dressed as cosmic despair.
 5. **Two endings, two emotional temperatures.** The sonnet meets mortality with tenderness and resignation; the speech meets it with hollow fury. Reading them together shows the same fact — everything ends — answered in opposite emotional weather.
 6. **Meter carries the meaning in both.** Each text uses the weight and breaks of iambic pentameter to slow time down or let it run out, rewarding close attention to exactly where the rhythm falters.
@@ -248,7 +248,7 @@ Write three sentences about something you know won't last — a season, a relati
 
 ### Critical Reception
 - *Learning the Sonnet* — [Poetry Foundation](https://www.poetryfoundation.org/articles/70051/learning-the-sonnet) — free article reading Sonnet 130 as a deliberate send-up of poems that compare women to the sun, roses, and music.
-- *Shakespeare's Sonnets* — [Royal Shakespeare Company](https://www.rsc.org.uk/shakespeares-sonnets) — free RSC overview noting that Sonnet 130 shows the "traditional forms of beauty... are unnecessary to provoke desire."
+- *Shakespeare's Sonnets* — [Royal Shakespeare Company](https://www.rsc.org.uk/shakespeares-sonnets) — free RSC overview noting that Sonnet 130 shows the "traditional forms of beauty. are unnecessary to provoke desire."
 - *Article — About Cleopatra* — [Royal Shakespeare Company](https://www.rsc.org.uk/antony-and-cleopatra/about-the-play/article-about-cleopatra) — free RSC essay on Cleopatra's "infinite variety," and how Shakespeare synthesized Plutarch's contradictory portraits into one entrancing queen.
 
 ### In-Class Practice
@@ -388,7 +388,7 @@ Write about a person in your life whose memory, when you call it up, restores yo
 
 ### Critical Reception
 - *Othello (Shakespeare Learning Zone)* — [Royal Shakespeare Company](https://www.rsc.org.uk/shakespeare-learning-zone/othello) — free RSC resource with leveled breakdowns of character, language, and the play's themes of jealousy and manipulation.
-- *Shakespeare's Sonnets* — [Royal Shakespeare Company](https://www.rsc.org.uk/shakespeares-sonnets) — free overview paraphrasing Sonnet 57: "I am entirely subservient to you... but I am aware that you may be fooling around."
+- *Shakespeare's Sonnets* — [Royal Shakespeare Company](https://www.rsc.org.uk/shakespeares-sonnets) — free overview paraphrasing Sonnet 57: "I am entirely subservient to you. but I am aware that you may be fooling around."
 - *Othello* — [Folger Shakespeare Library](https://www.folger.edu/explore/shakespeares-works/othello/) — free scholarly edition with context for Iago's asides and the "green-eyed monster" scene.
 
 ### In-Class Practice
@@ -480,7 +480,7 @@ Write two sentences about a time you suppressed a feeling because you thought it
 ### Session 11 — The Power of Imagination
 
 ### Main Points of the Lesson
-1. **Sonnet 27 shows a mind that won't rest.** "Weary with toil, I haste me to my bed," the body lies down exhausted but the thoughts "intend a zealous pilgrimage to thee." As the RSC paraphrases, "I cannot sleep... because my mind sees you in the darkness."
+1. **Sonnet 27 shows a mind that won't rest.** "Weary with toil, I haste me to my bed," the body lies down exhausted but the thoughts "intend a zealous pilgrimage to thee." As the RSC paraphrases, "I cannot sleep. because my mind sees you in the darkness."
 2. **Imagination travels where the body cannot.** Even in total dark the speaker "sees" the beloved, suggesting thought has its own restless mobility, indifferent to fatigue or distance. The sonnet's quiet stake is whether this involuntary inner travel is a gift or an affliction.
 3. **Theseus links lover, lunatic, and poet.** His blank-verse speech declares all three "of imagination all compact" — people who perceive what is not literally there. The rhetorical move is provocative grouping: the madman and the artist set side by side.
 4. **The poet transmutes nothing into something.** "Gives to airy nothing / A local habitation and a name" is one of Shakespeare's most famous descriptions of what writing actually does — fixing the formless into shape and word. It reads almost as a definition of his own craft.
@@ -551,7 +551,7 @@ Write about a time when you chose mercy over justice — or justice over mercy. 
 
 ### Main Points of the Lesson
 1. **Sonnet 71 asks to be forgotten.** "No longer mourn for me when I am dead / Than you shall hear the surly sullen bell" frames a request to be released from grief quickly — what the RSC calls "a plea for oblivion."
-2. **The plea may be love or hidden martyrdom.** "I... would be forgot, / If thinking on me then should make you sad" can read as pure selflessness — or as a guilt-laden bid that produces more grief by asking for none. The session weighs which reading the poem invites.
+2. **The plea may be love or hidden martyrdom.** "I. would be forgot, / If thinking on me then should make you sad" can read as pure selflessness — or as a guilt-laden bid that produces more grief by asking for none. The session weighs which reading the poem invites.
 3. **Constance makes grief a physical presence.** "Grief fills the room up of my absent child, / Lies in his bed, walks up and down with me" turns sorrow into an occupant of space — a body where a body is missing. This blank-verse speech gives mourning an almost tangible weight.
 4. **She refuses to be consoled.** "Then have I reason to be fond of grief" insists that mourning is the last way of keeping the lost child near, not a wound to be hurried closed. The thematic stake is grief defended as fidelity.
 5. **Madness is imagined as mercy.** "I am not mad; I would to heaven I were! / For then 'tis like I should forget myself" reveals Constance envying the forgetting that madness would bring — a measure of how unbearable lucid grief has become.
@@ -623,7 +623,7 @@ Complete this sentence in as many ways as you can: *"What a piece of work is a _
 1. **Sonnet 87 frames loss as logic.** "Farewell, thou art too dear for my possessing" treats the beloved as a treasure that was never truly the speaker's to keep, so the parting is presented as only reasonable. As the RSC puts it, the poet "relinquishes his claim on the young man."
 2. **A legal metaphor distances the pain.** "The cause of this fair gift in me is wanting, / And so my patent back again is swerving" recasts heartbreak as the lawful return of something merely lent. The rhetorical move is composure laid carefully over grief.
 3. **The dream image admits the ache.** "Thus have I had thee as a dream doth flatter — / In sleep a king, but waking no such matter" reveals that the rationalized loss still wakes the speaker to emptiness. The cool argument cannot fully cover the wound.
-4. **Prospero dissolves the world into air.** "These our actors... / Are melted into air, into thin air" — this blank-verse speech shows the theatrical illusion, and perhaps the world itself, to be insubstantial, a pageant that fades.
+4. **Prospero dissolves the world into air.** "These our actors. / Are melted into air, into thin air" — this blank-verse speech shows the theatrical illusion, and perhaps the world itself, to be insubstantial, a pageant that fades.
 5. **Life is bracketed by sleep.** "We are such stuff / As dreams are made on, and our little life / Is rounded with a sleep" offers a serene, almost consoling view of impermanence, often heard as Shakespeare's own valediction to his art.
 6. **Both texts release with composure.** Each describes an ending with unusual calm, leaving open the session's question: whether that calm is genuine equanimity or grief wearing a composed face.
 
@@ -660,7 +660,7 @@ Write about something you have let go of — willingly or not — that turned ou
 3. **Sonnet 18 frames the whole course.** Returning together to "Shall I compare thee to a summer's day?" closes the loop opened in Session 1 and puts its central wager to the test: whether a poem can, in fact, outlast time and keep something alive.
 4. **Recognition, not mastery, is the goal.** The capstone asks not what you learned to define, but what you recognized — in the language, and in your own life — honoring the course's promise that no credentials were ever required, only attention.
 5. **Reading aloud completes the sonnet's and speech's form.** Both verse and blank verse were built for the speaking voice; the final group reading of Sonnet 18, line by line around the room, enacts the very claim the poem makes about endurance.
-6. **The reflection measures change.** Comparing your Session 1 sentence — "When I read Shakespeare, I feel..." — to how you feel now makes the course's effect visible in your own words, the truest assessment in an ungraded class.
+6. **The reflection measures change.** Comparing your Session 1 sentence — "When I read Shakespeare, I feel." — to how you feel now makes the course's effect visible in your own words, the truest assessment in an ungraded class.
 
 ### Reading
 - Your choice — any sonnet or speech from across the course · [Poetry Foundation](https://www.poetryfoundation.org/poets/william-shakespeare) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/)
@@ -680,7 +680,7 @@ Each participant is invited — not required — to read a sonnet or speech from
 3. What surprised you most about Shakespeare — about the language, the subjects, the experience of reading aloud?
 4. What would you tell a neighbor who is nervous about coming to a Shakespeare reading group?
 5. What would you want to read next?
-6. If you wrote the sentence that began *"When I read Shakespeare, I feel..."* in Session 1 — read it again. Would you write it differently now?
+6. If you wrote the sentence that began *"When I read Shakespeare, I feel."* in Session 1 — read it again. Would you write it differently now?
 
 ### Homework
 Take one sonnet or speech you loved and read it aloud to someone outside the course this week. Notice what they hear in it that you didn't — and bring that, in spirit, into your next reading. *Instructor's closing remarks to be offered by James Mulhern.*

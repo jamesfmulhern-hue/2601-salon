@@ -1,6 +1,6 @@
 # Jewish Writers: A Literary Tradition
 
-**A Free Community Course | the room**
+**A Free Community Course · In person or on Zoom**
 Taught by James F. Mulhern
 Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford
 
@@ -8,11 +8,11 @@ Professor of English · Former Department Chair · Writing Fellow, Exeter Colleg
 
 ## An Invitation
 
-You do not need to know anything about Jewish history to take this course. You do not need to practice any faith, speak any language beyond English, or have read a single word of Jewish literature before you walk through that the room door. What you need — what every good reader has always needed — is a willingness to sit with a story, to ask why a sentence moves you, and to share what you notice with the people sitting beside you.
+You do not need to know anything about Jewish history to take this course. You do not need to practice any faith, speak any language beyond English, or have read a single word of Jewish literature before you begin. What you need — what every good reader has always needed — is a willingness to sit with a story, to ask why a sentence moves you, and to share what you notice with the people sitting beside you.
 
 Jewish writers have been telling stories for a very long time. Longer than empires. Longer than most of the literary traditions we call "classic." And within that vast inheritance lives every kind of human experience: exile and belonging, faith and doubt, humor so dark it becomes its own form of courage, grief that insists on also being beautiful. This course is an introduction to that inheritance, spanning ancient texts and living voices, from the streets of a Polish shtetl to the apartments of New York to the ruins of Auschwitz to a Tel Aviv café.
 
-Sixteen weekly. Ninety minutes each. No tests, no grades, no prerequisites. Just books, neighbors, and conversation.
+Sixteen weekly meetings. Ninety minutes each. No tests, no grades, no prerequisites. Just books, fellow readers, and conversation.
 
 I hope you'll join us.
 
@@ -80,7 +80,7 @@ Each 90-minute session follows a loose but reliable shape:
 
 - **Read before you come.** The readings are short — in most cases under thirty pages. The conversation is richer when everyone has spent time with the text.
 - **Bring your copy.** Mark it up. Dog-ear it. Write in the margins. A marked text is a read text.
-- **Arrive a few minutes early.** The the room has limited seating; we'll arrange chairs in a circle.
+- **Arrive a few minutes early.** Seating is limited; we'll arrange chairs in a circle.
 - **Be patient with silence.** A good question sometimes needs a moment before anyone answers. That silence is part of the work.
 - **Know that your life is relevant.** This is a discussion course. If a story reminds you of something you lived, that belongs in the room.
 
@@ -785,9 +785,9 @@ This course is an invitation to that kind of reading. Come as you are.
 
 I'm James Mulhern. I have a PhD in English literature, and I've spent my career teaching writing and literature at the college level — most recently as a professor and former department chair. Some years ago I was awarded a fully funded Writing Fellowship at Exeter College, University of Oxford — a grant that brought together writers selected from around the world — where I spent a very happy year surrounded by books, bad weather, and good conversation. Both of those places taught me what I think any good education teaches: that literature is not an ornament on a well-lived life. It is one of the central ways that human beings have made sense of being alive.
 
-I live here,, in Philadelphia.
+I live here, in Philadelphia.
 
-I offer free courses because I believe — and I know how earnest this sounds, but I mean it — that a the room with a circle of chairs, a few good books, and a hour and a half of honest conversation is one of the best things a city has to offer. No exams. No grades. No stakes except the ones the stories themselves create.
+I offer free courses because I believe — and I know how earnest this sounds, but I mean it — that a room with a circle of chairs, a few good books, and an hour and a half of honest conversation is one of the best things a city has to offer. No exams. No grades. No stakes except the ones the stories themselves create.
 
 I'm looking forward to sixteen evenings with you.
 

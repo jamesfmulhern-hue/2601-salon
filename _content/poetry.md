@@ -2,7 +2,7 @@
 
 **A free 16-week course for adult readers and writers**
 **Taught by James F. Mulhern**
-**the room · 90 minutes · Weekly**
+**In person or on Zoom · 90 minutes · Weekly**
 
 ---
 
@@ -32,7 +32,7 @@ No prior knowledge is required. No literary background is assumed. All readings 
 
 ## What This Course Is
 
-This course is a **reading salon** — a guided conversation about poetry, held among neighbors, led by an instructor who believes that literature belongs to everyone.
+This course is a **reading salon** — a guided conversation about poetry, held among adult readers, led by an instructor who believes that literature belongs to everyone.
 
 Each session begins with a poem read aloud. We discuss it. We read it again. We ask questions — not to arrive at the "correct" answer, but to notice what the poem is doing and how it makes us feel. We do a short in-class exercise, usually in writing, though nothing you write is ever collected or evaluated. In the final weeks, you are invited to write and, if you wish, share something of your own.
 
@@ -395,7 +395,7 @@ Finish the dramatic monologue you began in class. Read it back and write one sen
 
 1. **A sonnet is fourteen lines with a turn.** Traditionally in iambic pentameter, it pivots on a *volta* near or at the end. The form's brevity forces compression and decision.
 2. **The Shakespearean sonnet has a distinctive architecture.** Three quatrains build an argument and a closing couplet sums up, revises, or undercuts it. The structure is a small machine for thinking.
-3. **Iambic pentameter mirrors English speech.** Five unstressed-stressed pairs (da-*DUM* da-*DUM*...) approximate the natural pulse of the language. That is why the meter can sound both heightened and familiar at once.
+3. **Iambic pentameter mirrors English speech.** Five unstressed-stressed pairs (da-*DUM* da-*DUM*.) approximate the natural pulse of the language. That is why the meter can sound both heightened and familiar at once.
 4. **Shakespeare's sonnets contend with time and mortality.** They obsess over aging, beauty's decay, and art's power to preserve what life destroys. The poems are arguments against oblivion.
 5. **The closing couplet lands like a verdict.** It often arrives with the force of an argument just won — or with an irony that quietly undermines everything before it. Where the couplet's weight falls determines the poem's final meaning.
 
@@ -832,7 +832,7 @@ No one is required to read. Coming and listening is its own kind of participatio
 2. Did any poem change your mind about something — your own life, your city, a feeling you thought you understood?
 3. What is the most useful thing you learned about how to read?
 4. What would you read next?
-5. If you were to recommend one poem from this course to a neighbor who never came, which would it be — and what would you say about it?
+5. If you were to recommend one poem from this course to a friend who never came, which would it be — and what would you say about it?
 
 ### Homework
 
@@ -1002,7 +1002,7 @@ You are smart enough. You have always been smart enough. The poems are waiting.
 
 I look forward to reading with you.
 
-**Contact:** Please feel free to speak with me before or after any session, or to reach me through the building management if you have questions.
+**Contact:** Please feel free to speak with me before or after any session, or to reach me by email at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com) if you have questions.
 
 ---
 

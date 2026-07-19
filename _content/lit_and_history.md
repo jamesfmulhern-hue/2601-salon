@@ -9,7 +9,7 @@ Professor of English | Former Department Chair, English | Former Department Chai
 
 ## An Invitation
 
-You live in a building full of people who have read things — novels stuffed into bookshelves, news articles skimmed at breakfast, history absorbed in high school and half-remembered ever since. This course is an invitation to bring all of that into a room together, once a week, and look at it more carefully.
+Most of us have already read a great deal — novels stuffed into bookshelves, news articles skimmed at breakfast, history absorbed in high school and half-remembered ever since. This course is an invitation to bring all of that into a room together, once a week, and look at it more carefully.
 
 We will read American history and American literature side by side — not as two separate subjects that happen to share a timeline, but as two disciplines that have been in active conversation across every generation of this country's life. A great document and a great literary work set in the same moment, read together in the same ninety minutes, will tell you something that neither can tell you alone.
 
@@ -75,7 +75,7 @@ The architecture is simple: a primary source and a literary text. A speech and a
 **Cost:** Free
 **Credit:** None
 **Prerequisites:** None
-**Class size:** Open to all residents
+**Class size:** Open enrollment
 **Materials:** All readings distributed as printed packets or linked PDFs — at no cost
 
 ---
@@ -109,7 +109,7 @@ This is the heart of the course. The cross-reading is where the two disciplines 
 
 - Come having done the reading. Even one close reading is enough; deep familiarity is not required.
 - Bring a pencil and mark the text. Underline a sentence that surprises you. Circle a word that does not fit. Put a question mark in the margin. These marks are the beginning of discussion.
-- Speak up, even uncertainly. The best questions in a seminar are the ones that begin: *I may be wrong about this, but...*
+- Speak up, even uncertainly. The best questions in a seminar are the ones that begin: *I may be wrong about this, but.*
 - Listen as actively as you speak.
 - Leave partisan certainties at the door. The texts will surprise you if you let them.
 
@@ -800,7 +800,7 @@ This is the double correction at the heart of this course. We read primary histo
 
 I have been asked, in designing this course, whether it is appropriate to pair a presidential address with a poem — whether the two forms are so different that the comparison is unfair to one or the other. My answer is that the comparison is not only appropriate but necessary. Both the presidential address and the poem are language. Both are made by human beings with intentions, limitations, and blind spots. Both have audiences they are trying to persuade or move. Both have formal constraints that shape what they can say and what they must leave unsaid. Reading them together does not reduce either to the level of the other — it elevates the conversation between them.
 
-And that conversation, I have found, is more alive than either discipline alone. The history student who reads Lincoln's Second Inaugural with Whitman's "The Wound-Dresser" comes away understanding the war differently. The English student who reads "The Wound-Dresser" alongside the Inaugural comes away understanding the poem differently. The resident of this building who reads both, in ninety minutes, on a weekday evening, in a room with neighbors — that person, I hope, comes away understanding something about what it means to live in the country that produced both.
+And that conversation, I have found, is more alive than either discipline alone. The history student who reads Lincoln's Second Inaugural with Whitman's "The Wound-Dresser" comes away understanding the war differently. The English student who reads "The Wound-Dresser" alongside the Inaugural comes away understanding the poem differently. The adult reader who sits down with both, in ninety minutes, alongside other readers — that person, I hope, comes away understanding something about what it means to live in the country that produced both.
 
 That is what I have tried to teach, in two disciplines, for thirty years. It is what I intend to teach here.
 
@@ -816,14 +816,14 @@ I did not plan it that way when I began teaching. It happened because I was will
 
 This course is the direct expression of that belief. It is not a literature course that happens to include some history, nor a history course that uses literature as illustration. It is a course built on the premise that the two disciplines need each other — that they are, at their deepest level, both trying to answer the same question: *What happened to us, and what does it mean?*
 
-I am glad to be teaching it here,, for this room. I have studied at Oxford during my Exeter College Writing Fellowship and taught in university lecture halls and in high school classrooms. I do not think any of those settings is more important than this one. The conversation that happens when fellow readers who have lived different versions of American history sit down together to read the documents and literature of that history — that conversation is the one I have most wanted to be in.
+I am glad to be teaching this course. I have studied at Oxford during my Exeter College Writing Fellowship and taught in university lecture halls and in high school classrooms. I do not think any of those settings is more important than this one. The conversation that happens when adult readers who have lived different versions of American history sit down together to read the documents and literature of that history — that conversation is the one I have most wanted to be in.
 
 Come as you are. Bring the text. Bring your questions.
 
-The the room is open.
+The room is open.
 
 ---
 
-*Course materials are provided free of charge. All readings are either in the public domain or available as free digital borrows through the [Internet Archive](https://archive.org) — no library card or purchase required. For questions, contact Mr. Mulhern through the building management office.*
+*Course materials are provided free of charge. All readings are either in the public domain or available as free digital borrows through the [Internet Archive](https://archive.org) — no library card or purchase required. For questions, contact Mr. Mulhern at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).*
 
 *See also: [art-of-telling.com](https://art-of-telling.com)*

@@ -2,7 +2,7 @@
 ### A Free Community Course for adult readers and writers
 **Instructor:** James F. Mulhern
 Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford
-**Meeting:** Weekly, 90 minutes · the room · Non-graded · Discussion-Based
+**Meeting:** Weekly, 90 minutes · In person or on Zoom · Non-graded · Discussion-Based
 
 ---
 
@@ -12,7 +12,7 @@ Professor of English · Former Department Chair · Writing Fellow, Exeter Colleg
 
 You are invited to a free literary conversation — sixteen sessions, one evening a week, right here in the building you already live in.
 
-No enrollment form. No tuition. No credential required. The only thing you need to bring is a willingness to read carefully and to speak honestly about what you find on the page. The the room will do the rest.
+No enrollment form. No tuition. No credential required. The only thing you need to bring is a willingness to read carefully and to speak honestly about what you find on the page. The reading will do the rest.
 
 This course has grown out of a simple observation: some of the most powerful writing in the American tradition was produced by women, and that writing is still not as widely read, as deeply discussed, or as generously praised as it deserves. We are going to fix that, at least in this room, over sixteen weeks.
 
@@ -941,7 +941,7 @@ I have no agenda here beyond the texts themselves. I am not trying to convince y
 
 The writers on this syllabus changed how I read and how I think. I hope they do the same for you.
 
-Come to the the room. Bring the poem. Bring your questions. Sixteen weeks is not very long, but it is long enough for something to happen.
+Come as you are. Bring the poem. Bring your questions. Sixteen weeks is not very long, but it is long enough for something to happen.
 
 I'll see you there.
 

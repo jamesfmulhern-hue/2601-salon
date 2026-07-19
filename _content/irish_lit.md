@@ -2,7 +2,7 @@
 
 **A Free Community Course for adult readers and writers**
 Taught by James F. Mulhern
-16 Sessions · the room · 90 Minutes · Weekly · Non-Graded
+16 Sessions · In person or on Zoom · 90 Minutes · Weekly · Non-Graded
 
 ---
 
@@ -356,7 +356,7 @@ Write a paragraph in close third person that ends with a moment of sudden, defla
 
 ### In-Class Practice
 
-Read the final paragraph aloud twice — "His soul swooned slowly as he heard the snow falling faintly through the universe..." The first reading is for the sense; the second, the group listens only for sound and rhythm, then describes how the music of the prose produces its effect.
+Read the final paragraph aloud twice — "His soul swooned slowly as he heard the snow falling faintly through the universe." The first reading is for the sense; the second, the group listens only for sound and rhythm, then describes how the music of the prose produces its effect.
 
 ### Discussion Questions
 
@@ -672,7 +672,7 @@ Write a poem — or a very short prose piece — about a skill or labor that som
 
 ### In-Class Practice
 
-Read the opening lines of Heaney's *Beowulf* aloud — "So. The Spear-Danes in days gone by..." As a group, try replacing that first "So" with "Lo," "Listen," or "Behold," reading each version aloud, and discuss what Heaney's flat Ulster "So" does that the alternatives do not.
+Read the opening lines of Heaney's *Beowulf* aloud — "So. The Spear-Danes in days gone by." As a group, try replacing that first "So" with "Lo," "Listen," or "Behold," reading each version aloud, and discuss what Heaney's flat Ulster "So" does that the alternatives do not.
 
 ### Discussion Questions
 

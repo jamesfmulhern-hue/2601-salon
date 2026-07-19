@@ -283,7 +283,7 @@ Rewrite Jefferson's second paragraph — keeping the sentence structure, changin
 
 1. **The counter-narrative is the moral center, not a footnote.** While Jefferson drafted rights he did not extend, others wrote from the position of those rights withheld. We treat this literature as central to the American story, not as a supplement to it.
 2. **Restraint can be more devastating than outrage.** Equiano describes the hold of the slave ship with clinical precision. Writing for a white readership, he chooses controlled detail over fury — and the control is itself a rhetorical strategy that compels belief.
-3. **Wheatley writes on at least two levels at once.** "On Being Brought from Africa to America" thanks God for conversion while quietly reminding white Christians that "Negroes... may be refin'd, and join th' angelic train." Sincerity, irony, and strategy are not mutually exclusive here.
+3. **Wheatley writes on at least two levels at once.** "On Being Brought from Africa to America" thanks God for conversion while quietly reminding white Christians that "Negroes. may be refin'd, and join th' angelic train." Sincerity, irony, and strategy are not mutually exclusive here.
 4. **Address is an act of risk.** When Wheatley speaks directly to the students of Cambridge — educated white men — she claims standing to instruct them. For an enslaved poet, that posture carried real danger, and reading the poem means feeling that danger.
 5. **Form is a choice with consequences.** Wheatley's polished Augustan couplets and Equiano's plain narrative prose are deliberate. Each form opens certain possibilities and forecloses others; comparing them shows two routes to the same audience.
 
@@ -961,6 +961,6 @@ I am James F. Mulhern — a Philadelphia writer and teacher. I taught English at
 
 I offer free courses because I believe that literary education should not end when formal schooling ends — and because the best literary conversations I have had in my life have not happened in classrooms. They have happened in rooms like this one, among people who have no obligation to be there except their own curiosity.
 
-You can reach me through the building's community board, or through the course site at [art-of-telling.com](https://art-of-telling.com).
+You can reach me by email at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com), or through the course site at [art-of-telling.com](https://art-of-telling.com).
 
 I look forward to reading with you.
