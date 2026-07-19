@@ -787,7 +787,7 @@ I'm James Mulhern. I have a PhD in English literature, and I've spent my career 
 
 I live here, in Philadelphia.
 
-I offer free courses because I believe — and I know how earnest this sounds, but I mean it — that a room with a circle of chairs, a few good books, and an hour and a half of honest conversation is one of the best things a city has to offer. No exams. No grades. No stakes except the ones the stories themselves create.
+I offer this course because I believe — and I know how earnest this sounds, but I mean it — that a room with a circle of chairs, a few good books, and an hour and a half of honest conversation is one of the best things a city has to offer. No exams. No grades. No stakes except the ones the stories themselves create.
 
 I'm looking forward to sixteen evenings with you.
 

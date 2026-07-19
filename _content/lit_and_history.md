@@ -76,7 +76,7 @@ The architecture is simple: a primary source and a literary text. A speech and a
 **Credit:** None
 **Prerequisites:** None
 **Class size:** Open enrollment
-**Materials:** All readings distributed as printed packets or linked PDFs — at no cost
+**Materials:** All readings distributed as printed packets or linked PDFs — no purchase required
 
 ---
 
@@ -746,7 +746,7 @@ Write a letter addressed to the next cohort of residents who will take this cour
 | 15 | Morrison, Nobel Lecture (1993) | [Nobel Prize Organization](https://www.nobelprize.org/prizes/literature/1993/morrison/lecture/) |
 | 16 | TBD — chosen by class | TBD |
 
-*All printed packets will be provided at no cost. All copyrighted titles are available as free digital borrows through the [Internet Archive](https://archive.org) — no library card or purchase required.*
+*All printed packets are supplied by the instructor. Copyrighted titles are available as free digital borrows through the [Internet Archive](https://archive.org) — no library card or purchase required.*
 
 ---
 

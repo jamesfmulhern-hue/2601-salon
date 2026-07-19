@@ -1,6 +1,6 @@
 # Survey of American Literature
 
-**A free sixteen-week course for adult readers and writers**
+**A sixteen-week course for adult readers and writers**
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
 Weekly · 90 minutes · in person or on Zoom
 
@@ -959,7 +959,7 @@ I am glad you are here. Let us begin.
 
 I am James F. Mulhern — a Philadelphia writer and teacher. I taught English at the secondary and college levels for more than thirty years and served as Department Chair. I was awarded a fully funded Writing Fellowship at Exeter College, University of Oxford — a grant that brought together writers selected from around the world — and have written fiction and essays that have appeared in literary journals in the United States and abroad.
 
-I offer free courses because I believe that literary education should not end when formal schooling ends — and because the best literary conversations I have had in my life have not happened in classrooms. They have happened in rooms like this one, among people who have no obligation to be there except their own curiosity.
+I offer this course because I believe that literary education should not end when formal schooling ends — and because the best literary conversations I have had in my life have not happened in classrooms. They have happened in rooms like this one, among people who have no obligation to be there except their own curiosity.
 
 You can reach me by email at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com), or through the course site at [art-of-telling.com](https://art-of-telling.com).
 

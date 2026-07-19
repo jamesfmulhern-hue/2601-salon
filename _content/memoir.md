@@ -16,7 +16,7 @@ This course is an open door. Walk through it at whatever pace you need. You do n
 
 ## Welcome
 
-Welcome to *The Personal Essay & Memoir: Writing From a Life* — a free sixteen-week course for adult readers and writers who want to explore the craft of true personal writing.
+Welcome to *The Personal Essay & Memoir: Writing From a Life* — a sixteen-week course for adult readers and writers who want to explore the craft of true personal writing.
 
 Over sixteen weeks we will read some of the finest essayists and memoirists working in English, talk about what makes their writing work, and then do a little writing of our own — by hand, on paper, in the room together. No screens. No keyboards. Just a pen, a blank page, and whatever you decide to bring to it.
 

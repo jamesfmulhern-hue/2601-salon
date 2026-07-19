@@ -10,9 +10,9 @@ Professor of English · Former Department Chair · Writing Fellow, Exeter Colleg
 
 ### Welcome
 
-You are invited to a free literary conversation — sixteen sessions, one evening a week, right here in the building you already live in.
+You are invited to a literary conversation — sixteen sessions of ninety minutes each, weekly, in person or on Zoom.
 
-No enrollment form. No tuition. No credential required. The only thing you need to bring is a willingness to read carefully and to speak honestly about what you find on the page. The reading will do the rest.
+No enrollment form. No credential required. The only thing you need to bring is a willingness to read carefully and to speak honestly about what you find on the page. The reading will do the rest.
 
 This course has grown out of a simple observation: some of the most powerful writing in the American tradition was produced by women, and that writing is still not as widely read, as deeply discussed, or as generously praised as it deserves. We are going to fix that, at least in this room, over sixteen weeks.
 
