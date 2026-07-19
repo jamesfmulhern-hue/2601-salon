@@ -8,12 +8,12 @@
   --bg-card:        #FFFFFF;
   --bg-notice:      #FBF1CF;
   --navy:           #0F1E3D;
-  --navy-soft:      #1B2D55;
-  --gold:           #C9A24B;
-  --maroon:         #7B1F35;
-  --maroon-dark:    #621729;
-  --text:           #1E2947;
-  --muted:          #5A6478;
+  --navy-soft:      #14224A;
+  --gold:           #6E4A0E;
+  --maroon:         #5A0F22;
+  --maroon-dark:    #3D0916;
+  --text:           #10182E;
+  --muted:          #3F485E;
   --border:         #DBE2EF;
   --shadow:         0 1px 3px rgba(15,30,61,0.08), 0 4px 12px rgba(15,30,61,0.06);
   --radius:         12px;
@@ -181,8 +181,8 @@ li { margin-bottom: 0.4em; }
   border-radius: var(--radius-lg);
   padding: 38px 28px;
   text-align: center;
-  border-top: 4px solid var(--gold);
-  border-bottom: 4px solid var(--gold);
+  border-top: 6px solid var(--gold);
+  border-bottom: 6px solid var(--gold);
   box-shadow: var(--shadow);
   margin: 0 0 36px;
 }
@@ -258,7 +258,7 @@ details.topbar[open] > summary .chev { transform: rotate(180deg); }
   background: var(--bg-card);
   color: var(--text);
   padding: 22px 28px 28px;
-  border-top: 2px solid var(--gold);
+  border-top: 3px solid var(--gold);
 }
 
 /* Inner info collapsibles (Welcome, About the Course, Syllabus, etc.) */
@@ -294,7 +294,7 @@ details.info-item[open] > summary .chev { transform: rotate(180deg); }
   background: var(--bg-card);
   color: var(--text);
   padding: 18px 24px 22px;
-  border-top: 1px solid var(--gold);
+  border-top: 2px solid var(--gold);
 }
 .info-body > :first-child { margin-top: 0; }
 .info-body > :last-child  { margin-bottom: 0; }
@@ -321,7 +321,7 @@ a.session-btn {
   font-weight: 600;
   letter-spacing: 0.01em;
   border: 1px solid #1d3160;
-  border-bottom: 2px solid var(--gold);
+  border-bottom: 3px solid var(--gold);
   transition: transform 0.12s ease, background 0.18s ease;
   line-height: 1.25;
 }
@@ -336,7 +336,7 @@ a.session-btn:hover {
   display: none;
   background: var(--bg-card);
   border: 1px solid var(--border);
-  border-left: 4px solid var(--gold);
+  border-left: 6px solid var(--gold);
   border-radius: 10px;
   margin-top: 16px;
   box-shadow: var(--shadow);
@@ -364,7 +364,7 @@ a.session-close:hover { color: var(--maroon-dark); }
   gap: 10px;
   margin: 18px 0 4px;
   padding-bottom: 16px;
-  border-bottom: 1px solid var(--gold);
+  border-bottom: 2px solid var(--gold);
 }
 button.tab-btn {
   background: var(--navy);
@@ -395,8 +395,8 @@ button.tab-btn.active {
   font-weight: 700;
   margin: 4px 0 18px;
   padding-bottom: 10px;
-  border-bottom: 1px solid var(--gold);
-  border-top: 1px solid var(--gold);
+  border-bottom: 2px solid var(--gold);
+  border-top: 2px solid var(--gold);
   padding-top: 10px;
 }
 .tab-panel p, .tab-panel ul, .tab-panel ol { color: var(--text); }
@@ -445,7 +445,7 @@ a.toc-item.toc-flat:hover { background: var(--navy-soft); }
 a.toc-item.toc-whiteboard {
   background: var(--maroon);
   margin-top: 14px;
-  border-top: 2px solid var(--gold);
+  border-top: 3px solid var(--gold);
 }
 a.toc-item.toc-whiteboard:hover { background: var(--maroon-dark); }
 
@@ -537,7 +537,7 @@ a.toc-item.toc-whiteboard:hover { background: var(--maroon-dark); }
   font-weight: 700;
   margin: 18px 0 0;
   box-shadow: var(--shadow);
-  border-top: 2px solid var(--gold);
+  border-top: 3px solid var(--gold);
   transition: background 0.18s ease, transform 0.12s ease;
 }
 .cta-btn:hover { background: var(--maroon-dark); transform: translateY(-1px); }
@@ -615,8 +615,8 @@ footer .sig {
 /* ===== Notices & Announcements band (Art of Telling style) ===== */
 .notices-band {
   background: #F5EBC9;
-  border-top: 2px solid var(--gold);
-  border-bottom: 2px solid var(--gold);
+  border-top: 3px solid var(--gold);
+  border-bottom: 3px solid var(--gold);
   margin: -28px -20px 30px;  /* extend slightly beyond page padding for full-bleed feel */
   padding: 22px 28px 26px;
 }
@@ -688,3 +688,44 @@ footer .sig {
 @media (max-width: 720px) {
   .partner-band { margin: -8px -14px 20px; padding: 12px 16px; border-radius: 0; font-size: 0.88rem; }
 }
+
+/* ---- Deeper darker literary palette: heavier weight on all accent text ---- */
+.hero .subtitle,
+.notices-heading,
+details.topbar > summary,
+.section-kicker,
+.eyebrow,
+.subtitle {
+  font-weight: 700;
+  letter-spacing: 0.07em;
+}
+/* Body copy also slightly darker for maximum readability */
+body { color: var(--text); }
+
+/* ---- Site-wide thickening pass ---- */
+/* Body text bumped from 400 to 500 for solidity across the whole site */
+body, p, li, dd, dt {
+  font-weight: 500;
+}
+/* Headings all get heavier */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important;
+}
+/* Notices, kickers, small-caps labels — heaviest weight */
+.notices-heading,
+.hero .subtitle,
+.subtitle,
+.eyebrow,
+.kicker,
+.section-kicker,
+[class*="kicker"],
+[class*="eyebrow"],
+details.topbar > summary,
+details.info-item > summary,
+.session-btn {
+  font-weight: 800 !important;
+}
+/* Links slightly heavier so they stand out */
+a { font-weight: 600; }
+/* Table headers and important labels */
+th, dt, strong, b { font-weight: 800 !important; }
