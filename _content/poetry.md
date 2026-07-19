@@ -56,7 +56,7 @@ It is **not** intimidating. I promise.
 
 ## About the Instructor
 
-**James F. Mulhern** is a Professor of English and a former Department Chair. He was awarded a **fully funded Writing Fellowship at Exeter College, University of Oxford** — a grant that brought together writers selected from around the world — and has taught literature and writing at every level, from first-year undergraduates to senior seminars. He is also your neighbor. He believes that the best literary conversations he has ever had took place not in seminar rooms but in kitchens, hallways, and community spaces — wherever people gather and speak honestly about what they have read. This course is an extension of that belief.
+**James F. Mulhern** is a Professor of English and a former Department Chair. He was awarded a **fully funded Writing Fellowship at Exeter College, University of Oxford** — a grant that brought together writers selected from around the world — and has taught literature and writing at every level, from first-year undergraduates to senior seminars. He believes that the best literary conversations he has ever had took place not in seminar rooms but in kitchens, at kitchen tables, and in community spaces — wherever people gather and speak honestly about what they have read. This course is an extension of that belief.
 
 ---
 
@@ -990,7 +990,7 @@ That is the best thing a poem can do.
 
 My name is James F. Mulhern. I am a Professor of English and a former Department Chair. I was the recipient of a fully funded Writing Fellowship at Exeter College, University of Oxford, and I have spent the better part of my professional life thinking about the relationship between careful reading and good writing.
 
-I am also your neighbor.
+
 
 I live, like you. I walk the same hallways, use the same elevators, see the same slice of Philadelphia sky from my window. I started this course because I believe that one of the most important things a community can do is read together — not because it is improving, or because it builds résumés, but because literature is how human beings have always said to each other: *here is what it felt like to be alive.*
 

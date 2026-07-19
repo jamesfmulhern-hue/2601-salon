@@ -283,7 +283,7 @@ def build_course(slug):
   <h1>{meta['title']}</h1>
   <span class="subtitle">{meta['subtitle']}</span>
   <p style="color:#E9D8A6;margin:14px auto 0;max-width:540px;font-size:1.0rem;">
-    A free literary course for adult readers and writers · taught by James F. Mulhern
+    A literary course for adult readers and writers · taught by James F. Mulhern
   </p>
 </div>
 

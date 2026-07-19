@@ -861,7 +861,7 @@ And I have been the **writer**, sealing the envelopes. I have published novels �
 
 I run a small press of my own, **Silver Current Press**, which has taught me what an author-run imprint can and cannot do — knowledge I will share with you honestly, once, as an example and never as a sales pitch. Beyond all of this I am a **Professor of English**, a former Department Chair, an AP Consultant, and the recipient of a **fully funded Writing Fellowship at Exeter College, University of Oxford** — but it is the dual experience, editor and submitting writer both, that makes this particular course possible.
 
-No one else can teach this, and the residents asked. The work of becoming a published writer is a craft adjacent to writing itself but genuinely distinct from it — and almost no one is ever taught it. I would like to teach it to you. Not as a gatekeeper. As a neighbor who has walked the whole road and is still walking it.
+No one else can teach this, and readers keep asking. The work of becoming a published writer is a craft adjacent to writing itself but genuinely distinct from it — and almost no one is ever taught it. I would like to teach it to you. Not as a gatekeeper. As a fellow writer who has walked the whole road and is still walking it.
 
 ---
 

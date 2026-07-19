@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>For Program Partners · The 2601 Salon</title>
+<meta name="description" content="An instructor portfolio and course catalog for program directors, librarians, festival curators, and other venue partners considering James F. Mulhern — Kirkus-starred novelist, Oxford Writing Fellow, and Professor Emeritus of English — for a literary course.">
+<meta property="og:title" content="For Program Partners · The 2601 Salon">
+<meta property="og:description" content="An instructor portfolio and course catalog for program directors, librarians, festival curators, and other venue partners considering James F. Mulhern — Kirkus-starred novelist, Oxford Writing Fellow, and Professor Emeritus of English — for a literary course.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<nav class="topnav">
+  <div class="topnav-inner">
+    <a class="brand" href="index.html">The 2601 Salon</a>
+    <div class="links">
+      <a href="index.html#toc">Table of Contents</a>
+      <a href="index.html#courses">Courses</a>
+      <a href="index.html#formats">Formats</a>
+      <a href="index.html#about">About</a>
+      <a href="philosophy-of-writing.html">Philosophy</a>
+      <a href="index.html#contact">Enroll or Book</a>
+    </div>
+  </div>
+</nav>
+<main class="wrap">
+
+<style>
+  .partners-hero {
+    background: #FBF7EC;
+    border: 1px solid rgba(184,137,58,0.35);
+    border-radius: 3px;
+    padding: 42px 46px;
+    margin: 24px 0 30px;
+    text-align: center;
+  }
+  .partners-hero .eyebrow {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 14px;
+    display: block;
+  }
+  .partners-hero h1 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(1.8rem, 2.4vw, 2.6rem);
+    color: var(--navy);
+    font-weight: 600;
+    margin: 0 0 14px;
+    line-height: 1.15;
+  }
+  .partners-hero p {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-style: italic;
+    font-size: 1.15rem;
+    color: var(--muted);
+    max-width: 60ch;
+    margin: 0 auto;
+    line-height: 1.55;
+  }
+  .partners-hero .dedication {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 0.94rem;
+    font-style: italic;
+    color: var(--gold);
+    margin-top: 22px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(184,137,58,0.35);
+    max-width: 55ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .partners-section { margin: 40px 0; }
+  .partners-section h2 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.65rem;
+    color: var(--navy);
+    font-weight: 600;
+    margin: 0 0 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(184,137,58,0.35);
+  }
+  .partners-section h2 .kicker {
+    display: block;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 500;
+    margin-bottom: 6px;
+  }
+  .partners-section p { font-family: 'Cormorant Garamond', Georgia, serif; line-height: 1.65; }
+  .partners-section p, .partners-section li { font-size: 1.03rem; }
+
+  .credentials {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    gap: 16px;
+    margin: 20px 0;
+  }
+  .cred {
+    background: #FBF7EC;
+    border: 1px solid rgba(184,137,58,0.3);
+    padding: 18px 20px;
+    border-radius: 2px;
+  }
+  .cred .label {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 6px;
+    display: block;
+  }
+  .cred .value {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.05rem;
+    color: var(--navy);
+    font-weight: 600;
+    line-height: 1.35;
+  }
+  .cred .note {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 0.92rem;
+    font-style: italic;
+    color: var(--muted);
+    margin-top: 4px;
+    display: block;
+  }
+
+  .catalog {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+  .catalog th, .catalog td {
+    text-align: left;
+    padding: 12px 16px;
+    border-bottom: 1px solid rgba(184,137,58,0.25);
+    vertical-align: top;
+  }
+  .catalog th {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    border-bottom: 1px solid var(--gold);
+  }
+  .catalog td a {
+    color: var(--maroon);
+    text-decoration: none;
+    border-bottom: 1px dotted rgba(107,31,42,0.35);
+  }
+  .catalog td a:hover { color: var(--gold); border-color: var(--gold); }
+  .catalog .genre {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .format-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 14px;
+    margin: 16px 0;
+  }
+  .format-list .fmt {
+    background: #FBF7EC;
+    border-left: 3px solid var(--gold);
+    padding: 14px 18px;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 0.98rem;
+  }
+  .format-list .fmt strong { color: var(--navy); }
+
+  .cta-row {
+    background: var(--navy);
+    color: #F5EFE0;
+    padding: 26px 30px;
+    border-radius: 3px;
+    margin: 40px 0;
+    text-align: center;
+  }
+  .cta-row h2 {
+    color: #F5EFE0;
+    border: none;
+    margin: 0 0 12px;
+    padding: 0;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+  }
+  .cta-row p {
+    color: #E9D8A6;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.05rem;
+    max-width: 58ch;
+    margin: 0 auto 16px;
+    line-height: 1.55;
+  }
+  .cta-row a.btn {
+    display: inline-block;
+    background: var(--gold);
+    color: var(--navy);
+    padding: 10px 22px;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.82rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 2px;
+    margin: 4px 6px;
+  }
+  .cta-row a.btn:hover { background: #F5EFE0; color: var(--navy); }
+
+  .samples { list-style: none; padding: 0; margin: 12px 0; }
+  .samples li {
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(184,137,58,0.2);
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.02rem;
+  }
+  .samples li a { color: var(--maroon); border-bottom: 1px dotted rgba(107,31,42,0.35); text-decoration: none; }
+  .samples li a:hover { color: var(--gold); border-color: var(--gold); }
+  .samples li .sample-note {
+    display: block;
+    font-style: italic;
+    color: var(--muted);
+    font-size: 0.92rem;
+    margin-top: 3px;
+  }
+</style>
+
+<section class="partners-hero">
+  <span class="eyebrow">For Program Partners</span>
+  <h1>An Invitation to Bring a Literary Course<br>to Your Community</h1>
+  <p>A page for the program director, librarian, festival curator, community-college dean, bookstore events coordinator, or continuing-education office who is considering a working writer as an instructor.</p>
+  <div class="dedication">For Blue Stoop, for the Free Library of Philadelphia, for the Rosenbach — and for every partner I have not yet met.</div>
+</section>
+
+<div class="partners-section">
+  <h2><span class="kicker">Section I</span>What I Can Do for Your Audience</h2>
+  <p>I am a Philadelphia novelist and professor emeritus of English with more than three decades of classroom experience — undergraduate seminars, graduate-level workshops, secondary-school classes for AP students, and a fully funded Writing Fellowship at Exeter College, University of Oxford. I have chaired departments in both English and Social Studies. My novel <em>Give Them Unquiet Dreams</em> received a <strong>Kirkus starred review</strong> and was named a <strong>Kirkus Best Book of 2019</strong>. I am the founder of Silver Current Press, a literary imprint based here in Philadelphia.</p>
+  <p>What I bring to a partnership is a body of literature-and-craft courses designed for adult readers who are not looking for a degree. Every course is discussion-based, generous, close in its reading, and non-competitive. I do not lecture; I open the material and let the room work with it. The best sessions I have ever taught — including the ones that led directly to the salon you are reading — have not happened in seminar rooms. They have happened wherever a serious group of adults sat down together with a shared text.</p>
+  <p>When a course lands well at a new venue, I am glad to offer the first offering without charge as a proof of concept for both of us. Ongoing terms are shaped to fit the host. This is intended to make it easy for a program partner to say yes.</p>
+</div>
+
+<div class="partners-section">
+  <h2><span class="kicker">Section II</span>Credentials at a Glance</h2>
+  <div class="credentials">
+    <div class="cred">
+      <span class="label">Trade Review</span>
+      <span class="value">Kirkus Starred Review</span>
+      <span class="note">Give Them Unquiet Dreams · Kirkus Best Book of 2019</span>
+    </div>
+    <div class="cred">
+      <span class="label">Fellowship</span>
+      <span class="value">Exeter College, Oxford</span>
+      <span class="note">Fully funded creative-writing fellowship</span>
+    </div>
+    <div class="cred">
+      <span class="label">Nomination</span>
+      <span class="value">Pushcart Prize</span>
+      <span class="note">Fiction, 2017</span>
+    </div>
+    <div class="cred">
+      <span class="label">Recognition</span>
+      <span class="value">Aesthetica Shortlist</span>
+      <span class="note">Creative Writing Award, poetry, 2021</span>
+    </div>
+    <div class="cred">
+      <span class="label">Teaching</span>
+      <span class="value">30+ Years, All Levels</span>
+      <span class="note">College and secondary; former Department Chair (English &amp; Social Studies)</span>
+    </div>
+    <div class="cred">
+      <span class="label">Publishing</span>
+      <span class="value">Silver Current Press</span>
+      <span class="note">Founder; Philadelphia literary imprint</span>
+    </div>
+  </div>
+</div>
+
+<div class="partners-section">
+  <h2><span class="kicker">Section III</span>The Courses I Can Teach</h2>
+  <p>Any course in the salon can be adapted to a partner venue's calendar and audience — full sixteen-week series, four-session workshops, single evening talks, or one-day masterclasses. Course descriptions and sample sessions are on this site; click any title to see a syllabus.</p>
+  <table class="catalog">
+    <thead>
+      <tr>
+        <th>Course</th>
+        <th>Focus</th>
+        <th>Sessions</th>
+        <th>Genre</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="courses/american_lit.html">Survey of American Literature</a></td><td>From Indigenous voices and Puritan sermons to contemporary writing</td><td>16</td><td class="genre">Literary Survey</td></tr>
+      <tr><td><a href="courses/women_writers.html">Women in American Literature</a></td><td>Bradstreet to Morrison; the writers who make the canon whole</td><td>16</td><td class="genre">Literary Survey</td></tr>
+      <tr><td><a href="courses/minority_voices.html">Minority Voices in American Literature</a></td><td>Douglass to Ocean Vuong; Black, Latinx, Asian American, Native American voices</td><td>16</td><td class="genre">Literary Survey</td></tr>
+      <tr><td><a href="courses/jewish_writers.html">Jewish Writers: A Literary Tradition</a></td><td>Sholem Aleichem, Kafka, Bellow, Malamud, Ozick, Amichai, and more</td><td>16</td><td class="genre">Literary Survey</td></tr>
+      <tr><td><a href="courses/irish_lit.html">The Irish Literary Imagination</a></td><td>From the Táin and Swift to Yeats, Joyce, Heaney, Boland</td><td>16</td><td class="genre">Literary Survey</td></tr>
+      <tr><td><a href="courses/lit_and_history.html">Literature &amp; American History — A Cross-Reading</a></td><td>Each week pairs a primary historical document with a literary work answering it</td><td>16</td><td class="genre">Interdisciplinary</td></tr>
+      <tr><td><a href="courses/poetry.html">Reading Poetry: A Beginner's Welcome</a></td><td>An unhurried introduction for anyone who has ever felt locked out of poetry</td><td>16</td><td class="genre">Reading Workshop</td></tr>
+      <tr><td><a href="courses/shakespeare.html">Shakespeare's Sonnets &amp; Famous Speeches</a></td><td>Sixteen sonnets paired with sixteen monologues — short, self-contained texts</td><td>16</td><td class="genre">Reading Workshop</td></tr>
+      <tr><td><a href="courses/memoir.html">The Personal Essay &amp; Memoir</a></td><td>Writing from a life — read and write across sixteen weeks</td><td>16</td><td class="genre">Writing Workshop</td></tr>
+      <tr><td><a href="courses/revision_workshop.html">The Craft of Revision</a></td><td>Bring pages; read them aloud; cut, sharpen, send out</td><td>16</td><td class="genre">Writing Workshop</td></tr>
+      <tr><td><a href="courses/writing_life.html">The Writing Life: Getting Published</a></td><td>Literary magazines, cover letters, queries, agents, small presses</td><td>16</td><td class="genre">Writing Workshop</td></tr>
+      <tr><td><a href="courses/art_of_telling.html">The Art of Telling</a></td><td>A salon in short story, poetry, and memoir — three genres in ten sessions</td><td>10</td><td class="genre">Writing Workshop</td></tr>
+    </tbody>
+  </table>
+  <p>Beyond these twelve, I have taught close-reading weekends on specific writers (Chekhov, Joyce, O'Connor, Trevor) and can build a bespoke course from any part of the tradition for a partner with a specific audience in mind — for example, a Bloomsday weekend for a museum or library holding Joyce material, or a memoir intensive for a lifelong-learning program.</p>
+</div>
+
+<div class="partners-section">
+  <h2><span class="kicker">Section IV</span>How I Can Deliver a Course</h2>
+  <div class="format-list">
+    <div class="fmt"><strong>In person.</strong> At libraries, bookstores, community centers, universities, retirement communities, and literary nonprofits — anywhere in the Philadelphia region, and, on request, elsewhere in the Northeast.</div>
+    <div class="fmt"><strong>Online.</strong> By Zoom or a comparable platform. Works equally well for a small circle of committed readers or a larger open enrollment.</div>
+    <div class="fmt"><strong>Hybrid.</strong> A combination of in-person sessions and online continuation, tailored to the host's calendar.</div>
+    <div class="fmt"><strong>Formats.</strong> Full sixteen-session series, four-session workshops, single evening author talks, or one-day masterclasses.</div>
+  </div>
+  <p><strong>What I supply.</strong> Syllabus, discussion questions, close-reading passages, revision checklists, and — if useful — a live classroom whiteboard at <a href="https://whiteboard.silvercurrentpress.com">whiteboard.silvercurrentpress.com</a> for shared writing during sessions. All readings are drawn from the public domain or open-access sources; students never need to buy a book.</p>
+  <p><strong>What the host supplies.</strong> A room and its promotion, or the equivalent online platform. Everything else is on my side.</p>
+</div>
+
+<div class="partners-section">
+  <h2><span class="kicker">Section V</span>Sample Materials at a Glance</h2>
+  <ul class="samples">
+    <li>
+      <a href="courses/art_of_telling.html">A course page — The Art of Telling</a>
+      <span class="sample-note">A ten-session salon in short story, poetry, and memoir. Representative of how every course on the site is shaped: welcome, syllabus, session-by-session breakdown, prompts, and craft takeaways.</span>
+    </li>
+    <li>
+      <a href="courses/lit_and_history.html">A cross-disciplinary syllabus — Literature &amp; American History</a>
+      <span class="sample-note">Sixteen sessions pairing a primary historical document with a literary work from the same moment — Jefferson with Douglass, Lincoln with Whitman, the Pentagon Papers with Tim O'Brien.</span>
+    </li>
+    <li>
+      <a href="https://shortstories.silvercurrentpress.com">The Mulhern Library — Short Stories</a>
+      <span class="sample-note">A curated companion library of canonical short stories, with reading notes and discussion guides. What partner venues can offer readers between and after sessions.</span>
+    </li>
+    <li>
+      <a href="philosophy-of-writing.html">Philosophy of Writing</a>
+      <span class="sample-note">The author statement that sits under every course on this site. Two pages; it explains, in plain language, how I think about reading and writing and what students take from the room.</span>
+    </li>
+    <li>
+      <a href="https://companion.art-of-telling.com"><em>Because There Wasn't Time to Tell Everything</em></a>
+      <span class="sample-note">The companion site to The Art of Telling — a demonstration of what a course leaves behind when it is done: expanded biographies, close readings, historical context, and a downloadable sixty-eight-page Word booklet.</span>
+    </li>
+    <li>
+      <a href="https://jamesfmulhern-hue.github.io/press-kit/">Press Kit</a>
+      <span class="sample-note">For your marketing or communications team: high-resolution author photo, Kirkus starred review language, cover images, bio in three lengths, and contact information.</span>
+    </li>
+  </ul>
+</div>
+
+<div class="cta-row">
+  <h2>How to Say Yes</h2>
+  <p>The simplest way to explore a partnership is a short email — the venue, an approximate audience size, and a proposed date window. I will reply within two business days with a shape that fits, a proposed syllabus, and the details of what a first offering would look like.</p>
+  <a class="btn" href="mailto:jamesfmulhern@gmail.com?subject=Course%20partnership%20inquiry">Email Professor Mulhern</a>
+  <a class="btn" href="Program_Partners_One_Pager.pdf">Download the One-Pager (PDF)</a>
+</div>
+
+<div class="partners-section">
+  <h2><span class="kicker">Section VI</span>About the Use of These Materials</h2>
+  <p>Everything on this site was written and designed by James F. Mulhern for Silver Current Press. Individual readers are always welcome to enjoy, print, and share these materials for personal use. Teachers, program directors, and institutions considering the use of syllabi, reading lists, discussion questions, or course design in a classroom, syllabus, publication, or paid program are asked to write first. A short email is enough; the answer will almost always be a warm yes, with a note on attribution. Please contact <a href="mailto:jamesfmulhern@gmail.com">jamesfmulhern@gmail.com</a>.</p>
+</div>
+
+</main>
+<footer>
+  <div class="sig">— James F. Mulhern</div>
+  <div>Literary courses for adult readers and writers · Philadelphia</div>
+  <div style="margin-top:14px;padding-top:12px;border-top:1px solid rgba(184,137,58,0.25);font-size:0.78rem;line-height:1.55;max-width:780px;margin-left:auto;margin-right:auto;color:var(--muted);">
+    &copy; James F. Mulhern &amp; Silver Current Press. All rights reserved.
+    Individual readers are welcome to enjoy, print, and share these materials for personal use.
+    For classroom, institutional, or commercial use — including reuse of syllabi, reading lists, discussion questions, or course design —
+    please write to <a href="mailto:jamesfmulhern@gmail.com" style="color:var(--gold);">jamesfmulhern@gmail.com</a> for permission.
+  </div>
+</footer>
+</body>
+</html>

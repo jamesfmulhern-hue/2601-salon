@@ -11,12 +11,12 @@ def topnav(path_prefix=""):
     return f"""
 <nav class="topnav">
   <div class="topnav-inner">
-    <a class="brand" href="{path_prefix}index.html">2601 · Free Courses</a>
+    <a class="brand" href="{path_prefix}index.html">The 2601 Salon</a>
     <div class="links">
+      <a href="{path_prefix}partners.html">For Partners</a>
       <a href="{path_prefix}index.html#toc">Table of Contents</a>
       <a href="{path_prefix}index.html#courses">Courses</a>
       <a href="{path_prefix}index.html#formats">Formats</a>
-      <a href="{path_prefix}index.html#about">About</a>
       <a href="{path_prefix}philosophy-of-writing.html">Philosophy</a>
       <a href="{path_prefix}index.html#contact">Enroll or Book</a>
     </div>
@@ -49,7 +49,7 @@ def page(title, body_html, course_running_head=None, og_desc=""):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{title} · 2601 Free Courses</title>
+<title>{title} · The 2601 Salon</title>
 <meta name="description" content="{og_desc}">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{og_desc}">
