@@ -22,7 +22,7 @@ Come as you are.
 
 If you have opened this page, you are already the kind of person this course is for. You are curious. You have noticed that good writing does something to you — slows you down, or speeds your pulse, or makes you feel less alone — and you want to understand why.
 
-This is a free, non-graded, discussion-based course meeting once a week in the room. It asks nothing of you except a willingness to read a modest amount beforehand and to say what you think once you get here. There are no quizzes, no papers, no grades. Nothing said in this room is repeated outside it. You may not agree with your fellow readers, and I hope you do not always agree with me.
+This is a non-graded, discussion-based course meeting once a week in the room. It asks nothing of you except a willingness to read a modest amount beforehand and to say what you think once you get here. There are no quizzes, no papers, no grades. Nothing said in this room is repeated outside it. You may not agree with your fellow readers, and I hope you do not always agree with me.
 
 Over sixteen weeks we will move through American literature from its earliest surviving voices to writers working in our own era. We will read poems, short stories, essays, speeches, and — if the group is willing — one longer work together. Every text we read is either in the public domain or available free through a linked public source; all links are provided below.
 
@@ -84,7 +84,7 @@ There are no wrong answers. There are only answers you cannot yet support.
 **Instructor:** James F. Mulhern, Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
 **Format:** In person or on Zoom
 **Schedule:** Weekly, 90 minutes
-**Cost:** Free
+**Cost:** Contact for current terms
 **Credits:** None
 **Grading:** None
 **Prerequisites:** None

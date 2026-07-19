@@ -211,6 +211,19 @@ def build_course(slug):
             f'<div class="info-body">{inner_html}</div>'
             f'</details>'
         )
+
+    # Always-present final entry in Important Information: use-of-materials.
+    info_inner.append(
+        '<details class="info-item" id="use-of-materials">'
+        '<summary><span>About the Use of These Materials</span><span class="chev">▾</span></summary>'
+        '<div class="info-body">'
+        '<p>These materials — course descriptions, reading lists, syllabi, discussion questions, session pages, and prompts — were written and designed by James F. Mulhern for Silver Current Press. '
+        '<strong>Readers are welcome</strong> to read, print, share, and quote them for personal use and study. </p>'
+        '<p>Teachers, program directors, and institutions who would like to use any of this material in a classroom, syllabus, publication, or paid program are asked to write first — a short email is enough. The answer will almost always be a warm yes, with a note on attribution. Please contact Professor Mulhern at <a href="mailto:jamesfmulhern@gmail.com">jamesfmulhern@gmail.com</a>.</p>'
+        '</div>'
+        '</details>'
+    )
+
     info_block = (
         '<details class="topbar" id="topbar-info">'
         '<summary><span>Important Information & Course Materials</span>'

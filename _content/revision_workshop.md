@@ -1,8 +1,8 @@
 # The Craft of Revision: A Writers' Workshop
 
-**A Free Community Course for adult readers and writers | Philadelphia**
+**A Community Course for adult readers and writers**
 **Instructor: James F. Mulhern**
-**16 Weeks | 90 Minutes per Session | the room**
+**16 Weeks · 90 Minutes per Session · In person or on Zoom**
 
 ---
 
@@ -18,7 +18,7 @@ That ends here, in the room, on weekly.
 
 I have spent the better part of forty years helping writers make their work better — as an editor at Houghton Mifflin and Clark Boardman Callaghan, as an AP Consultant and as a Writing Fellow at Exeter College, University of Oxford, as a professor and department chair, as a manuscript evaluator, and as a writer who has had his own work improved by editors who were willing to be honest. I am bringing all of that to this room — not as a gatekeeper, not as a judge, but as a fellow writer who has learned, mostly through error, what revision actually requires.
 
-This course is free. It is for you. Let's get to work.
+It is for you. Let's get to work.
 
 — James F. Mulhern
 
@@ -60,9 +60,9 @@ By the end of the term, you will have a substantially revised piece of writing. 
 |---|---|
 | **Instructor** | James F. Mulhern |
 | **Format** | In person or on Zoom |
-| **Day & Time** | Weekly, 90 minutes — day and time to be set by the group |
+
 | **Duration** | 16 sessions |
-| **Cost** | Free |
+| **Cost** | Contact for current terms |
 | **Enrollment** | Open to interested residents |
 | **Prerequisites** | At least 1–3 pages of a draft in progress |
 | **Grading** | None |
@@ -889,6 +889,6 @@ If you have pages you want to make better, this workshop is for you. I look forw
 
 ---
 
-*The Craft of Revision: A Writers' Workshop is offered free of charge to adult readers and writers, Philadelphia. No prior publication history is required or expected. To express interest, please email Professor Mulhern at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).*
+*The Craft of Revision: A Writers' Workshop is open to adult readers and writers. No prior publication history is required or expected. To express interest, please email Professor Mulhern at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).*
 
 *Instructor website companion reference: [art-of-telling.com](https://art-of-telling.com)*

@@ -1,8 +1,8 @@
 # The Writing Life: Getting Published
 
-**A Free Community Course for adult readers and writers | Philadelphia**
+**A Community Course for adult readers and writers**
 **Instructor: James F. Mulhern**
-**16 Weeks | 90 Minutes per Session | the room**
+**16 Weeks · 90 Minutes per Session · In person or on Zoom**
 
 ---
 
@@ -18,7 +18,7 @@ This is not a course about how to write. We have other courses for that. This is
 
 I cannot promise you publication. No one honest can. What I can promise you is that you will leave this room knowing exactly how the machine works, where the doors are, how to knock on them, and how to keep knocking after they have been shut in your face. That knowledge is not a substitute for talent or for luck. But it is the thing almost no one teaches, and the lack of it has stopped more good writers than bad writing ever has.
 
-This course is free. It is for you. Let's get to work.
+It is for you. Let's get to work.
 
 — James F. Mulhern
 
@@ -62,9 +62,9 @@ I will teach this from authority, because I have done all of it. But I will teac
 |---|---|
 | **Instructor** | James F. Mulhern |
 | **Format** | In person or on Zoom |
-| **Day & Time** | Weekly, 90 minutes — day and time to be set by the group |
+
 | **Duration** | 16 sessions |
-| **Cost** | Free — no enrollment cap |
+| **Cost** | Contact for current terms |
 | **Materials** | None to purchase; no library card required |
 | **Prerequisites** | A piece of writing you consider finished, or nearly so |
 | **Grading** | None |

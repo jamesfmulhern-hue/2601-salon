@@ -1,5 +1,5 @@
 # Minority Voices in American Literature
-### A Free Community Course for adult readers and writers
+### A Community Course for adult readers and writers
 **Instructor:** James F. Mulhern — Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
 **Format:** In person or on Zoom
 **Format:** Weekly, 90 minutes, non-graded, discussion-based
@@ -70,7 +70,7 @@ It is not a space for performance. No one will be called on. No one will be grad
 | **Instructor** | James F. Mulhern |
 | **Meetings** | Weekly, 90 minutes |
 | **Format** | In person or on Zoom |
-| **Cost** | Free |
+| **Cost** | Contact for current terms |
 | **Credit** | None |
 | **Grades** | None |
 | **Required text** | None to purchase — see reading notes per session |

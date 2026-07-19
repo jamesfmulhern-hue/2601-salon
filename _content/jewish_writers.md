@@ -1,6 +1,6 @@
 # Jewish Writers: A Literary Tradition
 
-**A Free Community Course · In person or on Zoom**
+**A Community Course · In person or on Zoom**
 Taught by James F. Mulhern
 Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford
 
@@ -91,10 +91,10 @@ Each 90-minute session follows a loose but reliable shape:
 | | |
 |---|---|
 | **Format** | In person or on Zoom |
-| **Day & Time** | Weekly, 90 minutes — day and time to be confirmed |
+
 | **Duration** | 16 sessions |
 | **Format** | Discussion-based, non-graded |
-| **Cost** | Free |
+| **Cost** | Contact for current terms |
 | **Instructor** | James F. Mulhern |
 | **Readings** | Printed handouts provided for public-domain texts; all others freely available via Internet Archive (free 1-hour borrow, no library card required) — links in each session below |
 

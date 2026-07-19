@@ -1,5 +1,5 @@
 # The Personal Essay & Memoir: Writing From a Life
-### A Free Sixteen-Week Community Course for adult readers and writers
+### A Sixteen-Week Community Course for adult readers and writers
 **Taught by James F. Mulhern**
 
 ---
@@ -20,7 +20,7 @@ Welcome to *The Personal Essay & Memoir: Writing From a Life* — a free sixteen
 
 Over sixteen weeks we will read some of the finest essayists and memoirists working in English, talk about what makes their writing work, and then do a little writing of our own — by hand, on paper, in the room together. No screens. No keyboards. Just a pen, a blank page, and whatever you decide to bring to it.
 
-Every session runs ninety minutes. The course is free, non-graded, and non-competitive. Nothing you write is collected or evaluated. Nothing leaves the room unless you choose to take it home.
+Every session runs ninety minutes. The course is non-graded and non-competitive. Nothing you write is collected or evaluated. Nothing leaves the room unless you choose to take it home.
 
 I am glad you are here.
 
@@ -67,9 +67,9 @@ He lives in Philadelphia.
 | **Course Title** | The Personal Essay & Memoir: Writing From a Life |
 | **Instructor** | James F. Mulhern |
 | **Format** | In person or on Zoom |
-| **Day & Time** | Weekly, 90 minutes |
+
 | **Duration** | Sixteen weeks |
-| **Cost** | Free |
+| **Cost** | Contact for current terms |
 | **Class Size** | Open enrollment |
 | **Materials** | Pen and paper (provided if needed) |
 | **Grading** | None |

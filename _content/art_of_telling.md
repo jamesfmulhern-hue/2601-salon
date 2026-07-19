@@ -1,5 +1,5 @@
 # The Art of Telling: A Salon in Short Story, Poetry, and Memoir
-### A Free Ten-Session Community Course
+### A Ten-Session Community Course
 **Taught by James F. Mulhern**
 
 ---
@@ -16,11 +16,11 @@ You do not need to have been in the original room to take this course. Everythin
 
 ## Welcome
 
-Welcome to *The Art of Telling* — a free ten-session course for adult readers and writers who want to read, and write, across the three great narrative forms.
+Welcome to *The Art of Telling* — a ten-session course for adult readers and writers who want to read, and write, across the three great narrative forms.
 
 Over ten weeks we will read one story a week, then move to poetry, then to memoir. We will read aloud. We will slow down. We will ask, of every text, the same set of small honest questions: What is happening in this sentence? What is the writer withholding? What is the last paragraph doing? And what would happen if we tried a paragraph of our own in that mode?
 
-Every session runs ninety minutes. The course is free, non-graded, and non-competitive. Nothing you write is collected or evaluated. Nothing leaves the room unless you choose to take it home.
+Every session runs ninety minutes. The course is non-graded and non-competitive. Nothing you write is collected or evaluated. Nothing leaves the room unless you choose to take it home.
 
 ---
 
@@ -69,7 +69,7 @@ He lives in Philadelphia.
 | **Format** | In person or on Zoom |
 | **Meeting Length** | 90 minutes |
 | **Duration** | Ten sessions |
-| **Cost** | Free |
+| **Cost** | Contact for current terms |
 | **Class Size** | Open enrollment |
 | **Materials** | Pen and paper |
 | **Grading** | None |

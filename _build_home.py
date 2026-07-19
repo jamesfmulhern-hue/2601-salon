@@ -390,6 +390,15 @@ def build():
 
 <hr class="rule">
 
+<div class="card" id="use-of-materials">
+  <h2>About the Use of These Materials</h2>
+  <p>Everything on this site — course descriptions, reading lists, syllabi, discussion questions, session pages, revision checklists, and The Mulhern Library — was written and designed by James F. Mulhern for Silver Current Press.</p>
+  <p><strong>Readers are always welcome</strong> to read, print, share, and quote these pages for their own study and enjoyment. That is what the site is for.</p>
+  <p>Teachers, program directors, and institutions who would like to use any of it in a classroom, syllabus, publication, or paid program are asked to write first — a short email is enough. The answer will almost always be a warm yes, with a note on attribution. Please contact Professor Mulhern at <a href="mailto:jamesfmulhern@gmail.com">jamesfmulhern@gmail.com</a>.</p>
+</div>
+
+<hr class="rule">
+
 <div class="card" style="text-align:center;background:transparent;border:none;box-shadow:none;">
   <p style="font-family:'Cormorant Garamond',serif;font-size:1.4rem;color:var(--navy);font-style:italic;">"A book is a heart that only beats in the chest of another."</p>
   <p style="color:var(--muted);font-size:0.92rem;">— Rebecca Solnit</p>

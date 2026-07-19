@@ -1,6 +1,6 @@
 # Reading Poetry: A Beginner's Welcome
 
-**A free 16-week course for adult readers and writers**
+**A 16-week course for adult readers and writers**
 **Taught by James F. Mulhern**
 **In person or on Zoom · 90 minutes · Weekly**
 
@@ -12,7 +12,7 @@ Come as you are.
 
 You do not need to have read much poetry. You do not need to have liked the poetry you were assigned in school. You do not need a notebook, a reading background, or any opinion about what poetry is supposed to do. You need only to be curious — or, at minimum, willing to be curious for ninety minutes a week.
 
-This course is free. It meets in our own the room. It is for us, for the people who live, who pass each other in hallways and elevators and share a city and a season. Poetry, it turns out, is one of the oldest ways human beings have ever said: *I notice this. Do you notice it too?*
+It meets in our own the room. It is for us, for the people who live, who pass each other in hallways and elevators and share a city and a season. Poetry, it turns out, is one of the oldest ways human beings have ever said: *I notice this. Do you notice it too?*
 
 Come and notice things together.
 
@@ -67,7 +67,7 @@ It is **not** intimidating. I promise.
 - **Location:** in person or on Zoom
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 16 weeks
-- **Cost:** Free
+- **Cost:** Contact for current terms
 - **Enrollment:** Open to all residents
 - **Grading:** None
 - **Required texts:** None to purchase. All readings are free and linked in this document.
@@ -1006,4 +1006,4 @@ I look forward to reading with you.
 
 ---
 
-*Reading Poetry: A Beginner's Welcome is a free course for adult readers and writers, Philadelphia. All readings are in the public domain or freely available at the linked sources. No materials need to be purchased. Course content © James F. Mulhern. All rights reserved.*
+*Reading Poetry: A Beginner's Welcome — a course for adult readers and writers. All readings are in the public domain or freely available at the linked sources. Course content © James F. Mulhern. All rights reserved.*

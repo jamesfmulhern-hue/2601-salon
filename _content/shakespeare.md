@@ -80,7 +80,7 @@ All texts are freely available online. Nothing to buy, nothing to print unless y
 | **Texts** | Shakespeare's Sonnets + Famous Speeches and Soliloquies |
 | **Format** | In person or on Zoom |
 | **Duration** | 16 weeks · 90 minutes per session |
-| **Cost** | Free |
+| **Cost** | Contact for current terms |
 | **Instructor** | James F. Mulhern — Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford |
 | **Format** | Discussion + read-aloud; no grades |
 | **Readings** | All public domain; free online links provided below |

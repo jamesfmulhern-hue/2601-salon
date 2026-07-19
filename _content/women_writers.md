@@ -1,5 +1,5 @@
 # Women in American Literature
-### A Free Community Course for adult readers and writers
+### A Community Course for adult readers and writers
 **Instructor:** James F. Mulhern
 Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford
 **Meeting:** Weekly, 90 minutes · In person or on Zoom · Non-graded · Discussion-Based
@@ -51,7 +51,7 @@ Questions of gender, race, class, and historical context will arise naturally �
 **Total sessions:** 16
 **Grading:** None. This is a non-graded course. There are no quizzes, no papers, no tests. You will not be evaluated.
 **Prerequisites:** None. No prior literary study is assumed or required.
-**Cost:** Free. Nothing here is for sale.
+**Cost:** Contact for current terms. Nothing here is for sale.
 
 ---
 
@@ -949,6 +949,6 @@ I'll see you there.
 
 ---
 
-*This course is free. Nothing here is for sale. All public domain texts are linked above. All copyrighted texts are available as free digital borrows through the [Internet Archive](https://archive.org) — no library card, subscription, or purchase required. If you have any difficulty accessing any reading, let me know before the session and we will find a way.*
+*Nothing here is for sale. All public domain texts are linked above. All copyrighted texts are available as free digital borrows through the [Internet Archive](https://archive.org) — no library card, subscription, or purchase required. If you have any difficulty accessing any reading, let me know before the session and we will find a way.*
 
 *Course materials developed for adult readers and writers, Philadelphia. See also: [art-of-telling.com](https://art-of-telling.com)*

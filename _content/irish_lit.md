@@ -1,6 +1,6 @@
 # The Irish Literary Imagination
 
-**A Free Community Course for adult readers and writers**
+**A Community Course for adult readers and writers**
 Taught by James F. Mulhern
 16 Sessions · In person or on Zoom · 90 Minutes · Weekly · Non-Graded
 
@@ -22,7 +22,7 @@ Come.
 
 Welcome to **The Irish Literary Imagination**.
 
-This course is free for adult readers and writers. It meets once a week in the room. It lasts ninety minutes. There are no grades, no papers, no quizzes, and nothing required of you beyond showing up and engaging with the reading.
+This is a discussion-based course for adult readers and writers. Sessions run ninety minutes. There are no grades, no papers, no quizzes, and nothing required of you beyond showing up and engaging with the reading.
 
 What I ask is that you read — not always a great deal, but carefully. That you come with at least one thought. That you be willing to listen to the thoughts of others, including thoughts that differ from your own. And that you trust, over sixteen weeks, a body of literature that is worthy of your trust.
 
@@ -57,7 +57,7 @@ Nor is this a political course, though Irish literature is inextricably politica
 **Format:** In person or on Zoom
 **Format:** Weekly, 90 minutes, discussion-based
 **Length:** 16 sessions
-**Cost:** Free for adult readers and writers
+**Cost:** Contact for current terms for adult readers and writers
 **Grading:** None
 **Required text:** None — all readings provided via public domain links or free Internet Archive borrows
 
@@ -880,6 +880,6 @@ If you have questions, or if you want to reach me, please write to [jamesfmulher
 
 ---
 
-*The Irish Literary Imagination is offered free of charge to all adult readers and writers. No grades. No papers. No prior experience required. Just the reading, the room, and the conversation.*
+*The Irish Literary Imagination is open to adult readers and writers. No grades. No papers. No prior experience required. Just the reading and the conversation.*
 
 *— James F. Mulhern*
