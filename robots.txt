@@ -1,0 +1,12 @@
+# Robots directives for The 2601 Salon
+# Silver Current Press · Philadelphia
+
+User-agent: *
+Allow: /
+
+# Point every search engine at the sitemap
+Sitemap: https://salon.silvercurrentpress.com/sitemap.xml
+
+# Politeness: no crawl-delay needed on a small static site.
+# All content is public. Personal use is welcome.
+# Classroom or institutional use requires permission — see /partners.html.

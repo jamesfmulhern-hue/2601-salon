@@ -348,6 +348,7 @@ if (hash) {{
         body,
         course_running_head=meta["title"],
         og_desc=meta["desc"],
+        slug=slug,
     )
     out_path = os.path.join(OUT_DIR, f"{slug}.html")
     with open(out_path, "w") as f:
