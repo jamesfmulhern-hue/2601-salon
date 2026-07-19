@@ -1,8 +1,8 @@
 # Survey of American Literature
 
-**A free sixteen-week course for the residents of 2601**
+**A free sixteen-week course for adult readers and writers**
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
-Weekly · 90 minutes · Community Room, 2601
+Weekly · 90 minutes · in person or on Zoom
 
 ---
 
@@ -22,7 +22,7 @@ Come as you are.
 
 If you have opened this page, you are already the kind of person this course is for. You are curious. You have noticed that good writing does something to you — slows you down, or speeds your pulse, or makes you feel less alone — and you want to understand why.
 
-This is a free, non-graded, discussion-based course meeting once a week in the community room. It asks nothing of you except a willingness to read a modest amount beforehand and to say what you think once you get here. There are no quizzes, no papers, no grades. Nothing said in this room is repeated outside it. You may not agree with your neighbors, and I hope you do not always agree with me.
+This is a free, non-graded, discussion-based course meeting once a week in the room. It asks nothing of you except a willingness to read a modest amount beforehand and to say what you think once you get here. There are no quizzes, no papers, no grades. Nothing said in this room is repeated outside it. You may not agree with your fellow readers, and I hope you do not always agree with me.
 
 Over sixteen weeks we will move through American literature from its earliest surviving voices to writers working in our own era. We will read poems, short stories, essays, speeches, and — if the group is willing — one longer work together. Every text we read is either in the public domain or available free through a linked public source; all links are provided below.
 
@@ -82,7 +82,7 @@ There are no wrong answers. There are only answers you cannot yet support.
 
 **Title:** Survey of American Literature
 **Instructor:** James F. Mulhern, Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
-**Location:** Community Room, 2601
+**Format:** In person or on Zoom
 **Schedule:** Weekly, 90 minutes
 **Cost:** Free
 **Credits:** None
@@ -120,7 +120,7 @@ Readings for each session are short — typically one to three poems, a brief es
 
 - Read the assigned texts before class, even if only once.
 - Come with at least one thing you noticed — a line, an image, a question.
-- Give your neighbors the same generosity you would want in return.
+- Give your fellow readers the same generosity you would want in return.
 - Disagree out loud. Polite silence is the enemy of a good seminar.
 - Leave your phone in your pocket.
 
@@ -435,7 +435,7 @@ Read the Gettysburg Address together aloud — the whole room, quietly, at the s
 
 ### Homework
 
-Write a one-page speech addressed to your neighbors about something this country has not yet kept its promise on. You may borrow from Jefferson, Douglass, or Lincoln. Keep it short — closer to Lincoln's 272 words than to Douglass's ten thousand. Bring it next week.
+Write a one-page speech addressed to your fellow readers about something this country has not yet kept its promise on. You may borrow from Jefferson, Douglass, or Lincoln. Keep it short — closer to Lincoln's 272 words than to Douglass's ten thousand. Bring it next week.
 
 ---
 
@@ -959,7 +959,7 @@ I am glad you are here. Let us begin.
 
 I am James F. Mulhern — a Philadelphia writer and teacher. I taught English at the secondary and college levels for more than thirty years and served as Department Chair. I was awarded a fully funded Writing Fellowship at Exeter College, University of Oxford — a grant that brought together writers selected from around the world — and have written fiction and essays that have appeared in literary journals in the United States and abroad.
 
-I have been offering free courses for the residents of 2601 because I believe that literary education should not end when formal schooling ends — and because the best literary conversations I have had in my life have not happened in classrooms. They have happened in rooms like this one, among people who have no obligation to be there except their own curiosity.
+I offer free courses because I believe that literary education should not end when formal schooling ends — and because the best literary conversations I have had in my life have not happened in classrooms. They have happened in rooms like this one, among people who have no obligation to be there except their own curiosity.
 
 You can reach me through the building's community board, or through the course site at [art-of-telling.com](https://art-of-telling.com).
 

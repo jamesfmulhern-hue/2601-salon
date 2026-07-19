@@ -1,8 +1,8 @@
 # Reading Poetry: A Beginner's Welcome
 
-**A free 16-week course for residents of 2601**
+**A free 16-week course for adult readers and writers**
 **Taught by James F. Mulhern**
-**Community Room · 90 minutes · Weekly**
+**the room · 90 minutes · Weekly**
 
 ---
 
@@ -12,7 +12,7 @@ Come as you are.
 
 You do not need to have read much poetry. You do not need to have liked the poetry you were assigned in school. You do not need a notebook, a reading background, or any opinion about what poetry is supposed to do. You need only to be curious — or, at minimum, willing to be curious for ninety minutes a week.
 
-This course is free. It meets in our own community room. It is for us, for the people who live in this building, who pass each other in hallways and elevators and share a city and a season. Poetry, it turns out, is one of the oldest ways human beings have ever said: *I notice this. Do you notice it too?*
+This course is free. It meets in our own the room. It is for us, for the people who live, who pass each other in hallways and elevators and share a city and a season. Poetry, it turns out, is one of the oldest ways human beings have ever said: *I notice this. Do you notice it too?*
 
 Come and notice things together.
 
@@ -64,7 +64,7 @@ It is **not** intimidating. I promise.
 
 - **Course title:** Reading Poetry: A Beginner's Welcome
 - **Instructor:** James F. Mulhern
-- **Location:** Community Room, 2601
+- **Location:** in person or on Zoom
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 16 weeks
 - **Cost:** Free
@@ -624,7 +624,7 @@ Choose an emotion you have been carrying this week. Find a physical object or na
 
 ### In-Class Practice
 
-Write four lines in the voice of an inanimate object in this building — the elevator, the mailroom, the lobby door. What has it witnessed? What does it want? What does it know about us? (5–10 minutes.)
+Write four lines in the voice of an inanimate object — the elevator, the mailroom, the lobby door. What has it witnessed? What does it want? What does it know about us? (5–10 minutes.)
 
 ### Discussion Questions
 
@@ -992,7 +992,7 @@ My name is James F. Mulhern. I am a Professor of English and a former Department
 
 I am also your neighbor.
 
-I live at 2601, like you. I walk the same hallways, use the same elevators, see the same slice of Philadelphia sky from my window. I started this course because I believe that one of the most important things a community can do is read together — not because it is improving, or because it builds résumés, but because literature is how human beings have always said to each other: *here is what it felt like to be alive.*
+I live, like you. I walk the same hallways, use the same elevators, see the same slice of Philadelphia sky from my window. I started this course because I believe that one of the most important things a community can do is read together — not because it is improving, or because it builds résumés, but because literature is how human beings have always said to each other: *here is what it felt like to be alive.*
 
 Poetry, more than any other form, says it in the fewest possible words.
 
@@ -1006,4 +1006,4 @@ I look forward to reading with you.
 
 ---
 
-*Reading Poetry: A Beginner's Welcome is a free course for residents of 2601, Philadelphia. All readings are in the public domain or freely available at the linked sources. No materials need to be purchased. Course content © James F. Mulhern. All rights reserved.*
+*Reading Poetry: A Beginner's Welcome is a free course for adult readers and writers, Philadelphia. All readings are in the public domain or freely available at the linked sources. No materials need to be purchased. Course content © James F. Mulhern. All rights reserved.*

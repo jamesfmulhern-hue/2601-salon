@@ -1,9 +1,9 @@
 # Minority Voices in American Literature
-### A Free Community Course for Residents of 2601
+### A Free Community Course for adult readers and writers
 **Instructor:** James F. Mulhern — Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
-**Location:** Community Room, 2601
+**Format:** In person or on Zoom
 **Format:** Weekly, 90 minutes, non-graded, discussion-based
-**Enrollment:** Open to all adult residents; no application required
+**Enrollment:** Open to all adults; no application required
 
 ---
 
@@ -25,9 +25,9 @@ I hope to see you.
 
 ## Welcome
 
-Hello, neighbor.
+Hello.
 
-I live in this building. I have taught English literature at the university level for many years, chaired a department, and spent time at Oxford working on writing and narrative. I have also spent my whole adult life believing that the best conversations about books happen not in lecture halls but in rooms where people know each other — or are willing to get to know each other.
+I live. I have taught English literature at the university level for many years, chaired a department, and spent time at Oxford working on writing and narrative. I have also spent my whole adult life believing that the best conversations about books happen not in lecture halls but in rooms where people know each other — or are willing to get to know each other.
 
 This is that kind of room.
 
@@ -47,7 +47,7 @@ This course is:
 - A place to practice close, attentive reading
 - A forum for honest conversation about history, identity, and language
 - An invitation to revisit stories from American life that may mirror your own
-- Free, non-graded, and open to every adult in this building
+- Free, non-graded, and open to every adult 
 
 ---
 
@@ -69,7 +69,7 @@ It is not a space for performance. No one will be called on. No one will be grad
 |---|---|
 | **Instructor** | James F. Mulhern |
 | **Meetings** | Weekly, 90 minutes |
-| **Location** | Community Room, 2601 |
+| **Format** | In person or on Zoom |
 | **Cost** | Free |
 | **Credit** | None |
 | **Grades** | None |
@@ -750,7 +750,7 @@ Lahiri's characters reveal secrets to each other in the dark. Write about someth
 1. **The room belongs to you.** You have spent fifteen weeks reading writers who had to fight — sometimes across centuries, sometimes literally — to be heard. Today we turn that long act of listening into an act of speaking. The capstone is the course's argument made personal.
 2. **Bring a voice that matters to you.** Each participant chooses one piece of writing by an underrepresented American voice; it need not come from our reading list and may come from your own community, family history, or a tradition you feel connected to. The choice itself is a small act of canon-making. Be ready to say why it matters.
 3. **This is a sharing, not a performance.** There is no grade, no evaluation, and no criticism — we go around the room, each person reading a short passage and naming one thing about why it speaks to them. The discipline is listening, not judging. We practice receiving each other's choices with care.
-4. **Choosing and reading aloud is the lesson.** The act of selecting a passage and speaking it in a shared room enacts the course's central claim: that these voices belong in a community room as fully as in any classroom. The practice makes the argument tangible. What you choose to read is itself an interpretation.
+4. **Choosing and reading aloud is the lesson.** The act of selecting a passage and speaking it in a shared room enacts the course's central claim: that these voices belong in a the room as fully as in any classroom. The practice makes the argument tangible. What you choose to read is itself an interpretation.
 5. **We close by looking back and forward.** We reflect on the course as a whole — what surprised you, what stayed with you, what you want to read next — and send everyone off with a reading life rather than a final exam. The end of the course is meant to be a beginning. The last question is always: what next?
 
 ### Reading
@@ -784,7 +784,7 @@ We will go around the room. Each person reads their passage. Each person says on
 
 There is no homework after the final session — only an invitation. Keep one writer from this course close. Read more of them this year, and pass the book to a neighbor.
 
-**A closing note from the instructor:** It has been my privilege to read these texts with you. The writers in this course were not assigned to this building's community room by accident. They belong here — in a building where people from many backgrounds live side by side — more than they belong in almost any classroom I have taught in. Thank you for reading with me.
+**A closing note from the instructor:** It has been my privilege to read these texts with you. The writers in this course were not assigned to this room by accident. They belong here — in a building where people from many backgrounds live side by side — more than they belong in almost any classroom I have taught in. Thank you for reading with me.
 
 ---
 
@@ -872,7 +872,7 @@ There is a version of American literary history that begins with the Puritans, r
 
 The writers in this course did not fail to make the original list because they were minor talents. Frederick Douglass was writing in the 1840s with a command of rhetoric and argument that any American essayist of his era would have been proud to match. Zora Neale Hurston was, by almost any measure, among the finest prose stylists of the twentieth century. Zitkala-Ša's account of the boarding school system is one of the most important firsthand testimonies in American literature. These writers were not absent from the canon because their work was insufficient. They were absent because the people who built the canon, for most of American history, did not think their experience was the kind of experience that literature was supposed to be about.
 
-What we are doing in this course — sixteen weeks, ninety minutes, a community room in Philadelphia — is not remediation. We are not filling in gaps in a deficient education. We are reading some of the best American literature ever written, literature that happens to have been systematically undercelebrated for reasons that had nothing to do with its quality.
+What we are doing in this course — sixteen weeks, ninety minutes, a the room in Philadelphia — is not remediation. We are not filling in gaps in a deficient education. We are reading some of the best American literature ever written, literature that happens to have been systematically undercelebrated for reasons that had nothing to do with its quality.
 
 That distinction matters. If you come to Harriet Jacobs thinking you are being asked to read a historical document about people less fortunate than yourself, you will read her wrong. She is not asking for your pity. She is a writer of extraordinary intelligence and strategic cunning, navigating an audience she did not trust, telling the truth about her life in a way that could not be dismissed. The same is true of every writer in this course. They are not here because they represent something. They are here because they wrote something.
 
@@ -888,15 +888,15 @@ Come ready to be surprised.
 
 ## About Me
 
-I am a professor of English who has spent most of his professional life teaching literature and writing. I have chaired a department, taught at the university level for many years, and spent time as a Writing Fellow at Oxford. I am also a neighbor — I live in this building, and I believe the best conversations about books happen between people who know each other, or are in the process of getting to know each other.
+I am a professor of English who has spent most of his professional life teaching literature and writing. I have chaired a department, taught at the university level for many years, and spent time as a Writing Fellow at Oxford. I am also a neighbor — I live, and I believe the best conversations about books happen between people who know each other, or are in the process of getting to know each other.
 
-I run [Silver Current Press](https://art-of-telling.com), which grew out of a belief that literary culture does not belong exclusively in universities. I have run community writing and reading courses at 2601, and this course is the next one.
+I run [Silver Current Press](https://art-of-telling.com), which grew out of a belief that literary culture does not belong exclusively in universities. I have run community writing and reading courses, and this course is the next one.
 
 I do not run these courses because I think residents of this building need improving. I run them because I want a room where good books get read and honestly discussed — and because this building, with its mix of backgrounds and histories and decades, is one of the best rooms I know for doing that.
 
 If you have questions, or want to talk about the course, please email me at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).
 
-I will see you in the community room.
+I will see you in the room.
 
 *— James F. Mulhern*
 *Professor of English | Former Department Chair | Writing Fellow, Exeter College, University of Oxford*

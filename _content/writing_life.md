@@ -1,8 +1,8 @@
 # The Writing Life: Getting Published
 
-**A Free Community Course for Residents of 2601 | Philadelphia**
+**A Free Community Course for adult readers and writers | Philadelphia**
 **Instructor: James F. Mulhern**
-**16 Weeks | 90 Minutes per Session | Community Room**
+**16 Weeks | 90 Minutes per Session | the room**
 
 ---
 
@@ -12,7 +12,7 @@ You have written something good. Now what?
 
 That question — *now what?* — is the one this course exists to answer. It is the question that arrives after the drafting is done and the revising is done, when you are holding a finished story or a finished poem or a finished manuscript and you have no idea what the world expects you to do with it. Where does it go? Who reads it? How do you find them? What do you say when you write to them? What happens when they say no, as they will, again and again?
 
-I have spent my life on both sides of that question. I have been the editor opening the envelope — at Houghton Mifflin in Boston and at Clark Boardman Callaghan in New York — deciding which manuscripts moved forward and which went back with a form letter. And I have been the writer sealing the envelope, sending my own work out into the world, where it has been accepted a few hundred times and rejected many thousands of times more. I know what the desk looks like from the editor's chair, and I know what the mailbox feels like from the writer's kitchen. Very few people have sat in both seats, and almost no one in this building has. That is the only reason I am qualified to teach this, and it is the reason I want to.
+I have spent my life on both sides of that question. I have been the editor opening the envelope — at Houghton Mifflin in Boston and at Clark Boardman Callaghan in New York — deciding which manuscripts moved forward and which went back with a form letter. And I have been the writer sealing the envelope, sending my own work out into the world, where it has been accepted a few hundred times and rejected many thousands of times more. I know what the desk looks like from the editor's chair, and I know what the mailbox feels like from the writer's kitchen. Very few people have sat in both seats, and almost no one has. That is the only reason I am qualified to teach this, and it is the reason I want to.
 
 This is not a course about how to write. We have other courses for that. This is a course about the strange, often unromantic, frequently humbling business of becoming a *published* writer — the literary magazines, the cover letters, the agents, the small presses, the contests, the residencies, and above all the long, honest, patient work of sending your work out and being told no until, one day, somebody says yes.
 
@@ -26,7 +26,7 @@ This course is free. It is for you. Let's get to work.
 
 ## Welcome
 
-The Writing Life: Getting Published meets sixteen times over sixteen weeks in the community room at 2601. It is designed for adult residents who have written something — a story, a group of poems, an essay, a novel, a memoir — and who want to understand, in practical and unsentimental terms, how to send that work into the world and pursue publication.
+The Writing Life: Getting Published meets sixteen times over sixteen weeks in the room. It is designed for adults who have written something — a story, a group of poems, an essay, a novel, a memoir — and who want to understand, in practical and unsentimental terms, how to send that work into the world and pursue publication.
 
 There is no charge, no grade, no library card required, and nothing to buy. What you will have at the end is a working knowledge of the contemporary publishing landscape and, more concretely, a piece chosen for submission, a cover letter drafted, target venues researched, a tracking system in place, and a six-month plan for the submission year ahead.
 
@@ -61,7 +61,7 @@ I will teach this from authority, because I have done all of it. But I will teac
 | | |
 |---|---|
 | **Instructor** | James F. Mulhern |
-| **Location** | Community Room, 2601, Philadelphia |
+| **Format** | In person or on Zoom |
 | **Day & Time** | Weekly, 90 minutes — day and time to be set by the group |
 | **Duration** | 16 sessions |
 | **Cost** | Free — no enrollment cap |
@@ -845,7 +845,7 @@ I want to be honest with you about the economics, too, because honesty is the on
 
 So here is what I am asking you to do. Take the breakthrough story and set it down. It is not coming, and waiting for it will only make you bitter. Pick up the other story instead — the long, quiet, patient one. Submit your work. Track it. Persist through the rejections. Build a body of work over years and decades. Take the small acceptances as the real victories they are. And measure your life as a writer not by the verdict of any gatekeeper, but by the only thing that was ever truly yours: the work, and your refusal to stop making it.
 
-That is the writing life. It is harder than the myth, and far better. I will see you in the community room.
+That is the writing life. It is harder than the myth, and far better. I will see you in the room.
 
 — James F. Mulhern
 
@@ -861,10 +861,10 @@ And I have been the **writer**, sealing the envelopes. I have published novels �
 
 I run a small press of my own, **Silver Current Press**, which has taught me what an author-run imprint can and cannot do — knowledge I will share with you honestly, once, as an example and never as a sales pitch. Beyond all of this I am a **Professor of English**, a former Department Chair, an AP Consultant, and the recipient of a **fully funded Writing Fellowship at Exeter College, University of Oxford** — but it is the dual experience, editor and submitting writer both, that makes this particular course possible.
 
-No one else in this building can teach this, and the residents asked. The work of becoming a published writer is a craft adjacent to writing itself but genuinely distinct from it — and almost no one is ever taught it. I would like to teach it to you. Not as a gatekeeper. As a neighbor who has walked the whole road and is still walking it.
+No one else can teach this, and the residents asked. The work of becoming a published writer is a craft adjacent to writing itself but genuinely distinct from it — and almost no one is ever taught it. I would like to teach it to you. Not as a gatekeeper. As a neighbor who has walked the whole road and is still walking it.
 
 ---
 
-*The Writing Life: Getting Published is offered free of charge to residents of 2601, Philadelphia. No prior publication history is required or expected. To express interest, please email Professor Mulhern at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).*
+*The Writing Life: Getting Published is offered free of charge to adult readers and writers, Philadelphia. No prior publication history is required or expected. To express interest, please email Professor Mulhern at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).*
 
 *Instructor website: [authorjamesmulhern.com](https://authorjamesmulhern.com)*

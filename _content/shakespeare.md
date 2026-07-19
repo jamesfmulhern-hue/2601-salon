@@ -1,7 +1,7 @@
 # Shakespeare's Sonnets and Famous Speeches
 
-**A Free 16-Week Community Course for Residents of 2601**
-Taught by James F. Mulhern · Community Room · 90 Minutes Weekly
+**A Free 16-Week Community Course for adult readers and writers**
+Taught by James F. Mulhern · the room · 90 Minutes Weekly
 
 ---
 
@@ -29,7 +29,7 @@ This course is my invitation to you to find that out for yourself.
 
 ## What This Course Is
 
-This is a free, non-graded, sixteen-week reading group for adult residents of 2601. Each week we will read **one Shakespeare sonnet** and **one famous speech or soliloquy** — short, self-contained texts that stand completely on their own. You will never feel lost because you missed a previous week. Every session begins fresh.
+This is a free, non-graded, sixteen-week reading group for adult adult readers and writers. Each week we will read **one Shakespeare sonnet** and **one famous speech or soliloquy** — short, self-contained texts that stand completely on their own. You will never feel lost because you missed a previous week. Every session begins fresh.
 
 We will:
 
@@ -78,7 +78,7 @@ All texts are freely available online. Nothing to buy, nothing to print unless y
 | | |
 |---|---|
 | **Texts** | Shakespeare's Sonnets + Famous Speeches and Soliloquies |
-| **Location** | Community Room, 2601 |
+| **Format** | In person or on Zoom |
 | **Duration** | 16 weeks · 90 minutes per session |
 | **Cost** | Free |
 | **Instructor** | James F. Mulhern — Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford |
@@ -793,7 +793,7 @@ I am a Professor of English who has taught literature, writing, and Shakespeare 
 
 But what I care about more than any of those credentials is the moment — the specific, unmistakable moment — when someone who came in nervous encounters a line of Shakespeare and finds it true. Finds it immediate. Finds it about their own life. That moment happens every time I teach Shakespeare to a first-time reader. Every time, without exception. After thirty years, it still surprises me.
 
-This course is for you — whether you live in this building and have always meant to read Shakespeare and never quite got there; whether you read him in school and found him cold; whether you've never opened a page; whether you loved him once and want that feeling back. You are exactly the right person for this course. There is no more qualified reader.
+This course is for you — whether you live and have always meant to read Shakespeare and never quite got there; whether you read him in school and found him cold; whether you've never opened a page; whether you loved him once and want that feeling back. You are exactly the right person for this course. There is no more qualified reader.
 
 I look forward to reading with you.
 
@@ -801,4 +801,4 @@ I look forward to reading with you.
 
 *All course readings are freely available online through public-domain sources. The Poetry Foundation, MIT Shakespeare, and Folger Digital Texts are all free to access without login or subscription.*
 
-*This course is offered free of charge to residents of 2601, Philadelphia. No registration required beyond showing up.*
+*This course is offered free of charge to adult readers and writers, Philadelphia. No registration required beyond showing up.*

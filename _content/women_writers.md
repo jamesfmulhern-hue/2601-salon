@@ -1,8 +1,8 @@
 # Women in American Literature
-### A Free Community Course for Residents of 2601
+### A Free Community Course for adult readers and writers
 **Instructor:** James F. Mulhern
 Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford
-**Meeting:** Weekly, 90 minutes · Community Room · Non-graded · Discussion-Based
+**Meeting:** Weekly, 90 minutes · the room · Non-graded · Discussion-Based
 
 ---
 
@@ -12,7 +12,7 @@ Professor of English · Former Department Chair · Writing Fellow, Exeter Colleg
 
 You are invited to a free literary conversation — sixteen sessions, one evening a week, right here in the building you already live in.
 
-No enrollment form. No tuition. No credential required. The only thing you need to bring is a willingness to read carefully and to speak honestly about what you find on the page. The Community Room will do the rest.
+No enrollment form. No tuition. No credential required. The only thing you need to bring is a willingness to read carefully and to speak honestly about what you find on the page. The the room will do the rest.
 
 This course has grown out of a simple observation: some of the most powerful writing in the American tradition was produced by women, and that writing is still not as widely read, as deeply discussed, or as generously praised as it deserves. We are going to fix that, at least in this room, over sixteen weeks.
 
@@ -46,7 +46,7 @@ Questions of gender, race, class, and historical context will arise naturally �
 
 **Course title:** Women in American Literature
 **Instructor:** James F. Mulhern, Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
-**Location:** Community Room, 2601
+**Format:** In person or on Zoom
 **Format:** Weekly, 90 minutes per session
 **Total sessions:** 16
 **Grading:** None. This is a non-graded course. There are no quizzes, no papers, no tests. You will not be evaluated.
@@ -935,13 +935,13 @@ We are going to read them that way. With both hands, in good light. Finally.
 
 I am James Mulhern. I have taught English literature and writing for most of my professional life — in university classrooms, in graduate seminars, and during a fully funded Writing Fellowship at Exeter College, University of Oxford. I served for several years as Chair of my English Department. I have written extensively, taught widely, and come to believe, over decades of this work, that the best conversations about literature happen in small rooms between people who have agreed to read carefully and speak honestly.
 
-I live at 2601. You are my neighbors. That is why this course exists.
+I live. You are my fellow readers. That is why this course exists.
 
 I have no agenda here beyond the texts themselves. I am not trying to convince you of a political position or a literary ideology. I am trying to do what I have always tried to do in a classroom: put powerful writing in front of people who are willing to look at it, and then get out of the way.
 
 The writers on this syllabus changed how I read and how I think. I hope they do the same for you.
 
-Come to the Community Room. Bring the poem. Bring your questions. Sixteen weeks is not very long, but it is long enough for something to happen.
+Come to the the room. Bring the poem. Bring your questions. Sixteen weeks is not very long, but it is long enough for something to happen.
 
 I'll see you there.
 
@@ -951,4 +951,4 @@ I'll see you there.
 
 *This course is free. Nothing here is for sale. All public domain texts are linked above. All copyrighted texts are available as free digital borrows through the [Internet Archive](https://archive.org) — no library card, subscription, or purchase required. If you have any difficulty accessing any reading, let me know before the session and we will find a way.*
 
-*Course materials developed for residents of 2601, Philadelphia. See also: [art-of-telling.com](https://art-of-telling.com)*
+*Course materials developed for adult readers and writers, Philadelphia. See also: [art-of-telling.com](https://art-of-telling.com)*

@@ -14,9 +14,11 @@ def topnav(path_prefix=""):
     <a class="brand" href="{path_prefix}index.html">2601 · Free Courses</a>
     <div class="links">
       <a href="{path_prefix}index.html#courses">Courses</a>
+      <a href="{path_prefix}index.html#formats">Formats</a>
       <a href="{path_prefix}index.html#about">About</a>
       <a href="{path_prefix}philosophy-of-writing.html">Philosophy</a>
-      <a href="{path_prefix}index.html#contact">Contact</a>
+      <a href="{path_prefix}index.html#contact">Enroll or Book</a>
+      <a href="{path_prefix}index.html#elsewhere">Elsewhere</a>
     </div>
   </div>
 </nav>
@@ -28,7 +30,7 @@ TOPNAV = topnav("")
 FOOTER = """
 <footer>
   <div class="sig">— James F. Mulhern</div>
-  <div>Free literary courses for the residents of 2601 · Philadelphia · 2026</div>
+  <div>Free literary courses for adult readers and writers · Philadelphia · 2026</div>
   <div style="margin-top:6px;font-size:0.82rem;">All readings are free to access. All sessions are free to attend.</div>
 </footer>
 """.strip()

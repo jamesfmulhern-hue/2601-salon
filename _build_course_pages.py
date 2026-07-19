@@ -15,57 +15,62 @@ COURSES = {
     "american_lit": {
         "title": "Survey of American Literature",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week community course in American literature for residents of 2601.",
+        "desc": "A free 16-week course in American literature, taught by James F. Mulhern — open to adult readers, offered in person or online.",
     },
     "poetry": {
         "title": "Reading Poetry: A Beginner's Welcome",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week beginners' poetry course for residents of 2601.",
+        "desc": "A free 16-week beginners' poetry course for adult readers, taught by James F. Mulhern — offered in person or online.",
     },
     "memoir": {
         "title": "The Personal Essay & Memoir",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week course on personal essay and memoir for residents of 2601.",
+        "desc": "A free 16-week course on personal essay and memoir for adult readers and writers, taught by James F. Mulhern — offered in person or online.",
     },
     "shakespeare": {
         "title": "Shakespeare's Sonnets & Famous Speeches",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week course on Shakespeare's sonnets and most famous monologues for residents of 2601.",
+        "desc": "A free 16-week course on Shakespeare's sonnets and most famous monologues, taught by James F. Mulhern — open to adult readers, offered in person or online.",
     },
     "women_writers": {
         "title": "Women in American Literature",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week course on American women writers, for residents of 2601.",
+        "desc": "A free 16-week course on American women writers, taught by James F. Mulhern — open to adult readers, offered in person or online.",
     },
     "minority_voices": {
         "title": "Minority Voices in American Literature",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week course on Black, Latinx, Asian American, Native American, and immigrant American voices, for residents of 2601.",
+        "desc": "A free 16-week course on Black, Latinx, Asian American, Native American, and immigrant American voices, taught by James F. Mulhern — offered in person or online.",
     },
     "jewish_writers": {
         "title": "Jewish Writers: A Literary Tradition",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week course on Jewish American and international Jewish literature, for residents of 2601.",
+        "desc": "A free 16-week course on Jewish American and international Jewish literature, taught by James F. Mulhern — open to adult readers, offered in person or online.",
     },
     "irish_lit": {
         "title": "The Irish Literary Imagination",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week course on Irish literature, for residents of 2601.",
+        "desc": "A free 16-week course on Irish literature, taught by James F. Mulhern — open to adult readers, offered in person or online.",
     },
     "revision_workshop": {
         "title": "The Craft of Revision — A Writers' Workshop",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week writers' workshop on revision, for residents of 2601.",
+        "desc": "A free 16-week writers' workshop on revision, taught by James F. Mulhern — for adult writers, offered in person or online.",
     },
     "lit_and_history": {
         "title": "Literature & American History — A Cross-Reading",
         "subtitle": "Sixteen Sessions",
-        "desc": "A free 16-week course pairing primary historical documents with the literary works that answer them, for residents of 2601.",
+        "desc": "A free 16-week course pairing primary historical documents with the literary works that answer them, taught by James F. Mulhern — offered in person or online.",
     },
     "writing_life": {
         "title": "The Writing Life: Getting Published",
         "subtitle": "Sixteen Sessions",
         "desc": "The literary magazine scene, cover letters and queries, agents, small presses, contests \u2014 the practical work of becoming a published writer, taught by a working writer and former editor.",
+    },
+    "art_of_telling": {
+        "title": "The Art of Telling",
+        "subtitle": "Ten Sessions",
+        "desc": "A free 10-session salon in short story, poetry, and memoir \u2014 the course that gave the salon its name.",
     },
 }
 
@@ -265,7 +270,7 @@ def build_course(slug):
   <h1>{meta['title']}</h1>
   <span class="subtitle">{meta['subtitle']}</span>
   <p style="color:#E9D8A6;margin:14px auto 0;max-width:540px;font-size:1.0rem;">
-    A free literary course for the residents of 2601 · taught by James F. Mulhern
+    A free literary course for adult readers and writers · taught by James F. Mulhern
   </p>
 </div>
 

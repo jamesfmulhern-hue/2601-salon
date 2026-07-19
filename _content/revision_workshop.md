@@ -1,8 +1,8 @@
 # The Craft of Revision: A Writers' Workshop
 
-**A Free Community Course for Residents of 2601 | Philadelphia**
+**A Free Community Course for adult readers and writers | Philadelphia**
 **Instructor: James F. Mulhern**
-**16 Weeks | 90 Minutes per Session | Community Room**
+**16 Weeks | 90 Minutes per Session | the room**
 
 ---
 
@@ -14,7 +14,7 @@ You sat down. You wrote something. It may be a short story you have been carryin
 
 This workshop is about what comes next — the work that transforms a draft into something you are genuinely proud to hand another person. It is called revision, and it is not fixing; it is not polishing; it is not correcting. It is re-seeing. It is the part of writing that published writers spend most of their time doing, and it is almost never taught.
 
-That ends here, in the community room, on Tuesday evenings.
+That ends here, in the room, on weekly.
 
 I have spent the better part of forty years helping writers make their work better — as an editor at Houghton Mifflin and Clark Boardman Callaghan, as an AP Consultant and as a Writing Fellow at Exeter College, University of Oxford, as a professor and department chair, as a manuscript evaluator, and as a writer who has had his own work improved by editors who were willing to be honest. I am bringing all of that to this room — not as a gatekeeper, not as a judge, but as a fellow writer who has learned, mostly through error, what revision actually requires.
 
@@ -26,7 +26,7 @@ This course is free. It is for you. Let's get to work.
 
 ## Welcome
 
-The Craft of Revision: A Writers' Workshop meets sixteen times over sixteen weeks in the community room at 2601. It is designed for adult residents who have already drafted something — anything — and want serious, professional guidance on how to improve it. There is no charge, no grade, no credential at the end. What you will have at the end is a piece of writing you have revised under the close attention of an experienced editor and teacher, surrounded by a small group of committed peers.
+The Craft of Revision: A Writers' Workshop meets sixteen times over sixteen weeks in the room. It is designed for adults who have already drafted something — anything — and want serious, professional guidance on how to improve it. There is no charge, no grade, no credential at the end. What you will have at the end is a piece of writing you have revised under the close attention of an experienced editor and teacher, surrounded by a small group of committed peers.
 
 Workshop only works when there are enough voices to generate genuine dialogue — and few enough that everyone is heard every week. We will keep the group sized accordingly.
 
@@ -59,7 +59,7 @@ By the end of the term, you will have a substantially revised piece of writing. 
 | | |
 |---|---|
 | **Instructor** | James F. Mulhern |
-| **Location** | Community Room, 2601, Philadelphia |
+| **Format** | In person or on Zoom |
 | **Day & Time** | Weekly, 90 minutes — day and time to be set by the group |
 | **Duration** | 16 sessions |
 | **Cost** | Free |
@@ -865,7 +865,7 @@ That is what this workshop is about. Not producing new pages, but making the pag
 
 Bring your pages. Bring your patience. Bring a pencil with an eraser.
 
-I will see you in the community room.
+I will see you in the room.
 
 — James F. Mulhern
 
@@ -883,12 +883,12 @@ Beyond my editorial work, I have served as an **AP Consultant**, training teache
 
 I am a **published writer** myself, which means I know what it feels like to hand pages to an editor, to receive notes in the margins of something you worked hard on, to revise something three times and then revise it again. I know what it costs. I also know what it gives back.
 
-I live in Philadelphia, which is why the chance to run this workshop for my neighbors at 2601 means something to me personally. I have run workshops in university classrooms and professional development settings. I have never run one in a community room for the people who live down the hall. I intend to bring the same rigor to this room that I brought to every editorial meeting I was ever part of — and I intend to enjoy it more.
+I live in Philadelphia, which is why the chance to run this workshop for adult writers means something to me. I have run workshops in university classrooms and professional development settings. I have never run one in a the room for the people who live down the hall. I intend to bring the same rigor to this room that I brought to every editorial meeting I was ever part of — and I intend to enjoy it more.
 
 If you are a resident of 2601 with pages you want to make better, this workshop is for you. I look forward to reading your work.
 
 ---
 
-*The Craft of Revision: A Writers' Workshop is offered free of charge to residents of 2601, Philadelphia. No prior publication history is required or expected. To express interest, please email Professor Mulhern at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).*
+*The Craft of Revision: A Writers' Workshop is offered free of charge to adult readers and writers, Philadelphia. No prior publication history is required or expected. To express interest, please email Professor Mulhern at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).*
 
 *Instructor website companion reference: [art-of-telling.com](https://art-of-telling.com)*

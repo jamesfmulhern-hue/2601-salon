@@ -1,8 +1,8 @@
 # The Irish Literary Imagination
 
-**A Free Community Course for Residents of 2601**
+**A Free Community Course for adult readers and writers**
 Taught by James F. Mulhern
-16 Sessions · Community Room · 90 Minutes · Weekly · Non-Graded
+16 Sessions · the room · 90 Minutes · Weekly · Non-Graded
 
 ---
 
@@ -22,7 +22,7 @@ Come.
 
 Welcome to **The Irish Literary Imagination**.
 
-This course is free for all residents of 2601. It meets once a week in the community room. It lasts ninety minutes. There are no grades, no papers, no quizzes, and nothing required of you beyond showing up and engaging with the reading.
+This course is free for adult readers and writers. It meets once a week in the room. It lasts ninety minutes. There are no grades, no papers, no quizzes, and nothing required of you beyond showing up and engaging with the reading.
 
 What I ask is that you read — not always a great deal, but carefully. That you come with at least one thought. That you be willing to listen to the thoughts of others, including thoughts that differ from your own. And that you trust, over sixteen weeks, a body of literature that is worthy of your trust.
 
@@ -54,10 +54,10 @@ Nor is this a political course, though Irish literature is inextricably politica
 
 **Course Title:** The Irish Literary Imagination
 **Instructor:** James F. Mulhern
-**Location:** Community Room, 2601
+**Format:** In person or on Zoom
 **Format:** Weekly, 90 minutes, discussion-based
 **Length:** 16 sessions
-**Cost:** Free for all residents of 2601
+**Cost:** Free for adult readers and writers
 **Grading:** None
 **Required text:** None — all readings provided via public domain links or free Internet Archive borrows
 
@@ -870,7 +870,7 @@ My name is James F. Mulhern. I am a Professor of English, a former Department Ch
 
 I am, in other words, not approaching this material from the outside. My grandparents and great-grandparents came from Ireland. I grew up in a Boston household where Irishness was present in the food, the religion, the humor, the music, and the particular way we talked about suffering — never directly, always at an angle, usually with a joke. That is, I now understand, a distinctly Irish habit of mind. It shows up in every writer on this syllabus.
 
-I have taught Irish literature in university classrooms and I have taught it in rooms very much like the one we will share at 2601. I have found that the second kind of teaching is almost always richer. People who read for love read differently from people who read for grades. The conversation is more honest. The stakes — for the individual reader, for the room — feel real.
+I have taught Irish literature in university classrooms and I have taught it in rooms very much like the one we will share. I have found that the second kind of teaching is almost always richer. People who read for love read differently from people who read for grades. The conversation is more honest. The stakes — for the individual reader, for the room — feel real.
 
 This course is the one I was born to teach. I do not say that lightly.
 
@@ -880,6 +880,6 @@ If you have questions, or if you want to reach me, please write to [jamesfmulher
 
 ---
 
-*The Irish Literary Imagination is offered free of charge to all residents of 2601. No grades. No papers. No prior experience required. Just the reading, the room, and the conversation.*
+*The Irish Literary Imagination is offered free of charge to all adult readers and writers. No grades. No papers. No prior experience required. Just the reading, the room, and the conversation.*
 
 *— James F. Mulhern*

@@ -1,9 +1,9 @@
 # Literature & American History: A Cross-Reading
-### A Free Community Course for Residents of 2601
+### A Free Community Course for adult readers and writers
 **Instructor:** James F. Mulhern
 Professor of English | Former Department Chair, English | Former Department Chair, Social Studies | AP Consultant | Writing Fellow, Exeter College, University of Oxford
 
-**Location:** Community Room, 2601 | **Format:** Weekly, 90 minutes | **Non-graded, Discussion-Based**
+**Format:** In person or on Zoom
 
 ---
 
@@ -21,7 +21,7 @@ I have spent my career teaching both. That is not an accident; it is the premise
 
 ## Welcome
 
-This course meets in the community room of 2601, and it is free, non-graded, and open to all adult residents. You do not need a background in literature or history. You need only a willingness to read closely and to think out loud with your neighbors. All readings will be provided or linked; nothing will cost you anything. The only requirement is showing up with the reading done and something on your mind.
+This course meets in the classroom or the Zoom room, and it is free, non-graded, and open to all adults. You do not need a background in literature or history. You need only a willingness to read closely and to think out loud with your fellow readers. All readings will be provided or linked; nothing will cost you anything. The only requirement is showing up with the reading done and something on your mind.
 
 ---
 
@@ -29,7 +29,7 @@ This course meets in the community room of 2601, and it is free, non-graded, and
 
 This is a sixteen-session course that pairs a **primary historical document** with a **literary work** from or responding to the same historical moment. Each session asks two questions: *What does the document tell us that the literature cannot?* And *What does the literature tell us that the document cannot?*
 
-The course is possible — and, I would argue, uniquely possible — because of a fact about my career. I have served as Department Chair in both English and Social Studies. Most teachers spend their lives in one discipline or the other. I have had formal authority over both curricula, both sets of standards, both bodies of knowledge. This course is the direct result of that double life. It is the course I have always wanted to teach, and your building is where I want to teach it.
+The course is possible — and, I would argue, uniquely possible — because of a fact about my career. I have served as Department Chair in both English and Social Studies. Most teachers spend their lives in one discipline or the other. I have had formal authority over both curricula, both sets of standards, both bodies of knowledge. This course is the direct result of that double life. It is the course I have always wanted to teach.
 
 The architecture is simple: a primary source and a literary text. A speech and a poem. A constitutional amendment and a great essay. A presidential address and a novel's opening chapter. We read the document first — on its own terms, as a document — and then we read the literary work, and then we put them in conversation. In that conversation, history and literature do something neither discipline can do alone.
 
@@ -70,7 +70,7 @@ The architecture is simple: a primary source and a literary text. A speech and a
 
 ## Course Details
 
-**Where:** Community Room, 2601
+**Where:** in person or on Zoom
 **When:** Weekly, 90 minutes — day and time to be confirmed
 **Cost:** Free
 **Credit:** None
@@ -816,11 +816,11 @@ I did not plan it that way when I began teaching. It happened because I was will
 
 This course is the direct expression of that belief. It is not a literature course that happens to include some history, nor a history course that uses literature as illustration. It is a course built on the premise that the two disciplines need each other — that they are, at their deepest level, both trying to answer the same question: *What happened to us, and what does it mean?*
 
-I am glad to be teaching it here, in this building, for this community. I have studied at Oxford during my Exeter College Writing Fellowship and taught in university lecture halls and in high school classrooms. I do not think any of those settings is more important than this one. The conversation that happens when neighbors who have lived different versions of American history sit down together to read the documents and literature of that history — that conversation is the one I have most wanted to be in.
+I am glad to be teaching it here,, for this room. I have studied at Oxford during my Exeter College Writing Fellowship and taught in university lecture halls and in high school classrooms. I do not think any of those settings is more important than this one. The conversation that happens when fellow readers who have lived different versions of American history sit down together to read the documents and literature of that history — that conversation is the one I have most wanted to be in.
 
 Come as you are. Bring the text. Bring your questions.
 
-The community room is open.
+The the room is open.
 
 ---
 

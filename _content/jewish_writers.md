@@ -1,6 +1,6 @@
 # Jewish Writers: A Literary Tradition
 
-**A Free Community Course at 2601 | Community Room**
+**A Free Community Course | the room**
 Taught by James F. Mulhern
 Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford
 
@@ -8,11 +8,11 @@ Professor of English · Former Department Chair · Writing Fellow, Exeter Colleg
 
 ## An Invitation
 
-You do not need to know anything about Jewish history to take this course. You do not need to practice any faith, speak any language beyond English, or have read a single word of Jewish literature before you walk through that community room door. What you need — what every good reader has always needed — is a willingness to sit with a story, to ask why a sentence moves you, and to share what you notice with the people sitting beside you.
+You do not need to know anything about Jewish history to take this course. You do not need to practice any faith, speak any language beyond English, or have read a single word of Jewish literature before you walk through that the room door. What you need — what every good reader has always needed — is a willingness to sit with a story, to ask why a sentence moves you, and to share what you notice with the people sitting beside you.
 
 Jewish writers have been telling stories for a very long time. Longer than empires. Longer than most of the literary traditions we call "classic." And within that vast inheritance lives every kind of human experience: exile and belonging, faith and doubt, humor so dark it becomes its own form of courage, grief that insists on also being beautiful. This course is an introduction to that inheritance, spanning ancient texts and living voices, from the streets of a Polish shtetl to the apartments of New York to the ruins of Auschwitz to a Tel Aviv café.
 
-Sixteen Wednesday evenings. Ninety minutes each. No tests, no grades, no prerequisites. Just books, neighbors, and conversation.
+Sixteen weekly. Ninety minutes each. No tests, no grades, no prerequisites. Just books, neighbors, and conversation.
 
 I hope you'll join us.
 
@@ -22,7 +22,7 @@ I hope you'll join us.
 
 ## Welcome
 
-Hello, neighbor. I'm Jim Mulhern — I live here at 2601 and I teach literature for a living. I've taught at the college level for many years, chaired an English department, and held a fully funded Writing Fellowship at Exeter College, University of Oxford — a grant that brought together writers selected from around the world. But the courses I care about most are the ones that happen outside institutional walls: in community rooms like ours, with adult readers who bring real lives to real texts.
+Hello. I'm Jim Mulhern — I teach literature for a living. I've taught at the college level for many years, chaired an English department, and held a fully funded Writing Fellowship at Exeter College, University of Oxford — a grant that brought together writers selected from around the world. But the courses I care about most are the ones that happen outside institutional walls, with adult readers who bring real lives to real texts.
 
 This course grew out of a conviction: that the Jewish literary tradition is one of the great achievements of human civilization, and that it deserves to be read carefully, talked about honestly, and celebrated openly — by everyone.
 
@@ -80,7 +80,7 @@ Each 90-minute session follows a loose but reliable shape:
 
 - **Read before you come.** The readings are short — in most cases under thirty pages. The conversation is richer when everyone has spent time with the text.
 - **Bring your copy.** Mark it up. Dog-ear it. Write in the margins. A marked text is a read text.
-- **Arrive a few minutes early.** The community room has limited seating; we'll arrange chairs in a circle.
+- **Arrive a few minutes early.** The the room has limited seating; we'll arrange chairs in a circle.
 - **Be patient with silence.** A good question sometimes needs a moment before anyone answers. That silence is part of the work.
 - **Know that your life is relevant.** This is a discussion course. If a story reminds you of something you lived, that belongs in the room.
 
@@ -90,7 +90,7 @@ Each 90-minute session follows a loose but reliable shape:
 
 | | |
 |---|---|
-| **Location** | Community Room, 2601 |
+| **Format** | In person or on Zoom |
 | **Day & Time** | Weekly, 90 minutes — day and time to be confirmed |
 | **Duration** | 16 sessions |
 | **Format** | Discussion-based, non-graded |
@@ -785,9 +785,9 @@ This course is an invitation to that kind of reading. Come as you are.
 
 I'm James Mulhern. I have a PhD in English literature, and I've spent my career teaching writing and literature at the college level — most recently as a professor and former department chair. Some years ago I was awarded a fully funded Writing Fellowship at Exeter College, University of Oxford — a grant that brought together writers selected from around the world — where I spent a very happy year surrounded by books, bad weather, and good conversation. Both of those places taught me what I think any good education teaches: that literature is not an ornament on a well-lived life. It is one of the central ways that human beings have made sense of being alive.
 
-I live here, in this building, in Philadelphia.
+I live here,, in Philadelphia.
 
-I've been offering free courses for neighbors because I believe — and I know how earnest this sounds, but I mean it — that a community room with a circle of chairs, a few good books, and a hour and a half of honest conversation is one of the best things a city has to offer. No exams. No grades. No stakes except the ones the stories themselves create.
+I offer free courses because I believe — and I know how earnest this sounds, but I mean it — that a the room with a circle of chairs, a few good books, and a hour and a half of honest conversation is one of the best things a city has to offer. No exams. No grades. No stakes except the ones the stories themselves create.
 
 I'm looking forward to sixteen evenings with you.
 
@@ -795,6 +795,6 @@ If you have questions before the course begins, please email me at [jamesfmulher
 
 ---
 
-*Jewish Writers: A Literary Tradition is offered free of charge as a community program at 2601. All readings will be distributed as printed handouts (for public-domain texts) or provided as free Internet Archive borrows (no library card required). No purchase required.*
+*Jewish Writers: A Literary Tradition is offered free of charge as a community program. All readings will be distributed as printed handouts (for public-domain texts) or provided as free Internet Archive borrows (no library card required). No purchase required.*
 
 *Course designed and taught by James F. Mulhern. Site reference: [art-of-telling.com](https://art-of-telling.com)*

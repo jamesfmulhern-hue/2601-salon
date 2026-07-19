@@ -1,5 +1,5 @@
 # The Personal Essay & Memoir: Writing From a Life
-### A Free Sixteen-Week Community Course for Residents of 2601
+### A Free Sixteen-Week Community Course for adult readers and writers
 **Taught by James F. Mulhern**
 
 ---
@@ -10,13 +10,13 @@ Somewhere inside you there is a story that only you can tell.
 
 Not because it is dramatic. Not because it is unusual. But because it happened to *you* — and because you have been carrying it long enough that you now have some distance on it, and because that distance, combined with care and attention, is exactly what turns a life into literature.
 
-This course is an open door. Walk through it at whatever pace you need. You do not have to be a writer. You do not have to have written anything before. You only have to be willing to sit still for ninety minutes a week, read a little, listen a lot, and put pen to paper in the company of neighbors who are doing the same.
+This course is an open door. Walk through it at whatever pace you need. You do not have to be a writer. You do not have to have written anything before. You only have to be willing to sit still for ninety minutes a week, read a little, listen a lot, and put pen to paper in the company of fellow readers who are doing the same.
 
 ---
 
 ## Welcome
 
-Welcome to *The Personal Essay & Memoir: Writing From a Life* — a free sixteen-week course meeting right here at 2601, in the community room, for residents who want to explore the craft of true personal writing.
+Welcome to *The Personal Essay & Memoir: Writing From a Life* — a free sixteen-week course meeting for adult readers and writers, for residents who want to explore the craft of true personal writing.
 
 Over sixteen weeks we will read some of the finest essayists and memoirists working in English, talk about what makes their writing work, and then do a little writing of our own — by hand, on paper, in the room together. No screens. No keyboards. Just a pen, a blank page, and whatever you decide to bring to it.
 
@@ -66,11 +66,11 @@ He lives in Philadelphia.
 |---|---|
 | **Course Title** | The Personal Essay & Memoir: Writing From a Life |
 | **Instructor** | James F. Mulhern |
-| **Location** | Community Room, 2601 |
+| **Format** | In person or on Zoom |
 | **Day & Time** | Weekly, 90 minutes |
 | **Duration** | Sixteen weeks |
 | **Cost** | Free |
-| **Class Size** | Open to all 2601 residents |
+| **Class Size** | Open enrollment |
 | **Materials** | Pen and paper (provided if needed) |
 | **Grading** | None |
 
@@ -876,10 +876,10 @@ I am a Professor of English and a former Department Chair, and I am the recipien
 
 I am a published memoirist. My own writing is concerned with memory, family, working-class experience, and the ordinary tragedies and joys that make up most of a life. I believe memoir is one of the most democratic of literary forms — it requires no specialized knowledge, no particular credential, no extraordinary life. It requires only the willingness to look honestly at what you have lived and to try, with care and patience, to put it into words.
 
-I live in Philadelphia. I am glad to be teaching here, in this building, for these neighbors.
+I live in Philadelphia. I am glad to be teaching here,, for these readers.
 
 If you have questions, or if you want to talk about a piece of writing you are already working on, please email me at [jamesfmulhern@gmail.com](mailto:jamesfmulhern@gmail.com).
 
 ---
 
-*This course is offered free of charge to residents of 2601, Philadelphia. All materials are for educational use within the course community.*
+*This course is offered free of charge to adult readers and writers, Philadelphia. All materials are for educational use within the course.*
