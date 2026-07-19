@@ -138,6 +138,85 @@
     display: block;
   }
 
+  .instructor-bio .bio-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 22px;
+    margin-top: 20px;
+  }
+  @media (min-width: 780px) {
+    .instructor-bio .bio-grid {
+      grid-template-columns: 2fr 1fr;
+      grid-template-areas:
+        "headline headline"
+        "body links";
+      gap: 30px;
+    }
+    .bio-headline { grid-area: headline; }
+    .bio-body { grid-area: body; }
+    .bio-links { grid-area: links; }
+  }
+  .bio-headline {
+    padding-bottom: 18px;
+    border-bottom: 1px solid rgba(184,137,58,0.35);
+  }
+  .bio-name {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--navy);
+    letter-spacing: 0.01em;
+  }
+  .bio-role {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.85rem;
+    letter-spacing: 0.06em;
+    color: var(--gold);
+    margin-top: 6px;
+    text-transform: none;
+  }
+  .bio-body p {
+    margin-bottom: 14px;
+  }
+  .bio-body p:last-child { margin-bottom: 0; }
+  .bio-links {
+    background: #FBF7EC;
+    border-left: 3px solid var(--gold);
+    padding: 18px 22px;
+    align-self: start;
+  }
+  .bio-link-heading {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 12px;
+  }
+  .bio-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .bio-links li {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 0.98rem;
+    line-height: 1.45;
+    padding: 8px 0;
+    border-bottom: 1px dotted rgba(184,137,58,0.3);
+  }
+  .bio-links li:last-child { border-bottom: none; }
+  .bio-links a {
+    color: var(--navy);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(26,35,50,0.25);
+  }
+  .bio-links a:hover {
+    color: var(--gold);
+    border-bottom-color: var(--gold);
+  }
+
   .catalog {
     width: 100%;
     border-collapse: collapse;
@@ -297,8 +376,33 @@
   </div>
 </div>
 
+<div class="partners-section instructor-bio">
+  <h2><span class="kicker">Section III</span>About the Instructor</h2>
+  <div class="bio-grid">
+    <div class="bio-headline">
+      <div class="bio-name">James F. Mulhern</div>
+      <div class="bio-role">Novelist · Professor Emeritus of English · Oxford Writing Fellow · Founder of Silver Current Press</div>
+    </div>
+    <div class="bio-body">
+      <p>James F. Mulhern has spent his working life inside two disciplines that reinforce each other: the disciplined reading of literature, and the disciplined making of it. He taught English for more than three decades — in secondary and college classrooms, as a department chair, and as a mentor to writers at every level from apprentice to publishing professional. His novels and short fiction have received a Kirkus Starred Review, a place on Kirkus’s Best Books of 2019 list, a Pushcart Prize nomination in fiction, and an Aesthetica Creative Writing Award shortlist in poetry. In 2015 Exeter College at the University of Oxford awarded him a fully funded writing fellowship, an unusually competitive honor for a mid-career American writer.</p>
+      <p>He is the author of eight books — <em>Give Them Unquiet Dreams</em>, <em>Molly Bonamici</em>, <em>The Weight of Small Mercies</em>, <em>All We Ever Needed</em>, <em>Mia Bambina and Other Stories</em>, <em>Crossings</em>, and companion volumes in publishing and craft — available on Amazon and through Silver Current Press. Since retiring from full-time teaching, he has directed his practice toward what he considers the most useful next act for a writer with his years and credentials: teaching adults to read literature and to write it, together, in the format that first made him love the work — the salon.</p>
+      <p>He lives and works in Philadelphia. The courses in this catalog are the courses he most wants to teach and the ones he has been teaching, in one form or another, for years. Bringing them to a partner venue is not a favor to him — it is the shape of his continuing practice.</p>
+    </div>
+    <div class="bio-links">
+      <div class="bio-link-heading">Independent verification</div>
+      <ul>
+        <li><a href="https://www.kirkusreviews.com/book-reviews/james-mulhern/give-them-unquiet-dreams/">Kirkus Reviews — starred review of <em>Give Them Unquiet Dreams</em></a></li>
+        <li><a href="https://www.amazon.com/stores/James-Mulhern/author/B00HS4D2AQ">Amazon Author Page — all eight titles</a></li>
+        <li><a href="https://www.authorjamesmulhern.com">Author site — biography, press packet, and interviews</a></li>
+        <li><a href="https://jamesfmulhern-hue.github.io/press-kit/">Downloadable press kit for program directors</a></li>
+        <li><a href="philosophy-of-writing.html">Philosophy of writing — the essay that grounds the catalog</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 <div class="partners-section">
-  <h2><span class="kicker">Section III</span>The Courses I Can Teach</h2>
+  <h2><span class="kicker">Section IV</span>The Courses I Can Teach</h2>
   <p>Any course in the salon can be adapted to a partner venue's calendar and audience — full sixteen-week series, four-session workshops, single evening talks, or one-day masterclasses. Course descriptions and sample sessions are on this site; click any title to see a syllabus.</p>
   <table class="catalog">
     <thead>
@@ -328,7 +432,7 @@
 </div>
 
 <div class="partners-section">
-  <h2><span class="kicker">Section IV</span>How I Can Deliver a Course</h2>
+  <h2><span class="kicker">Section V</span>How I Can Deliver a Course</h2>
   <div class="format-list">
     <div class="fmt"><strong>In person.</strong> At libraries, bookstores, community centers, universities, retirement communities, and literary nonprofits — anywhere in the Philadelphia region, and, on request, elsewhere in the Northeast.</div>
     <div class="fmt"><strong>Online.</strong> By Zoom or a comparable platform. Works equally well for a small circle of committed readers or a larger open enrollment.</div>
@@ -340,7 +444,7 @@
 </div>
 
 <div class="partners-section">
-  <h2><span class="kicker">Section V</span>Sample Materials at a Glance</h2>
+  <h2><span class="kicker">Section VI</span>Sample Materials at a Glance</h2>
   <ul class="samples">
     <li>
       <a href="courses/art_of_telling.html">A course page — The Art of Telling</a>
@@ -377,7 +481,7 @@
 </div>
 
 <div class="partners-section">
-  <h2><span class="kicker">Section VI</span>About the Use of These Materials</h2>
+  <h2><span class="kicker">Section VII</span>About the Use of These Materials</h2>
   <p>Everything on this site was written and designed by James F. Mulhern for Silver Current Press. Individual readers are always welcome to enjoy, print, and share these materials for personal use. Teachers, program directors, and institutions considering the use of syllabi, reading lists, discussion questions, or course design in a classroom, syllabus, publication, or paid program are asked to write first. A short email is enough; the answer will almost always be a warm yes, with a note on attribution. Please contact <a href="mailto:jamesfmulhern@gmail.com">jamesfmulhern@gmail.com</a>.</p>
 </div>
 
