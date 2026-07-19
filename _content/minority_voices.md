@@ -315,11 +315,11 @@ Write about a mask you wear — or have worn. What does it protect? What does it
 
 ### Reading
 
-- Langston Hughes, "The Negro Speaks of Rivers" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44261/the-negro-speaks-of-rivers) — public domain.
+- Langston Hughes, "The Negro Speaks of Rivers" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44428/the-negro-speaks-of-rivers) — public domain.
 - Langston Hughes, "I, Too" (1926). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/47558/i-too) — public domain.
 - Langston Hughes, "Mother to Son" (1922). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/47559/mother-to-son) — public domain.
 - Claude McKay, "If We Must Die" (1919). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44694/if-we-must-die) — public domain.
-- Claude McKay, "America" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44693/america-56d225b2c94ec) — public domain.
+- Claude McKay, "America" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44691/america-56d223e1ac025) — public domain.
 
 ### Critical Reception
 
@@ -797,11 +797,11 @@ There is no homework after the final session — only an invitation. Keep one wr
 - Booker T. Washington, *Up from Slavery*, Chapter 14 (1901) — [Project Gutenberg](https://www.gutenberg.org/files/2376/2376-h/2376-h.htm)
 - W.E.B. Du Bois, *The Souls of Black Folk*, Chapter 1 (1903) — [Project Gutenberg](https://www.gutenberg.org/ebooks/408)
 - Paul Laurence Dunbar — "Sympathy" — [Poetry Foundation](https://www.poetryfoundation.org/poems/46459/sympathy-56d22658afbc0); "The Haunted Oak" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44195/the-haunted-oak); "When Malindy Sings" — [Poets.org](https://poets.org/poem/when-malindy-sings); "Frederick Douglass" — [Poetry Foundation](https://www.poetryfoundation.org/poems/46460/frederick-douglass)
-- Langston Hughes, "The Negro Speaks of Rivers" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44261/the-negro-speaks-of-rivers)
+- Langston Hughes, "The Negro Speaks of Rivers" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44428/the-negro-speaks-of-rivers)
 - Langston Hughes, "I, Too" — [Poetry Foundation](https://www.poetryfoundation.org/poems/47558/i-too)
 - Langston Hughes, "Mother to Son" — [Poetry Foundation](https://www.poetryfoundation.org/poems/47559/mother-to-son)
 - Claude McKay, "If We Must Die" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44694/if-we-must-die)
-- Claude McKay, "America" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44693/america-56d225b2c94ec)
+- Claude McKay, "America" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44691/america-56d223e1ac025)
 - Zora Neale Hurston, "How It Feels to Be Colored Me" (1928) — [Project Gutenberg](http://www.gutenberg.org/ebooks/73549)
 - Jean Toomer, *Cane* (1923), "Blood-Burning Moon" — [Project Gutenberg](https://www.gutenberg.org/ebooks/60093)
 - Sarah Winnemucca, *Life Among the Piutes* (1883) — [Internet Archive](https://digital.library.upenn.edu/women/winnemucca/piutes/piutes.html)

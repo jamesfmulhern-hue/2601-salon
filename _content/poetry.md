@@ -233,7 +233,7 @@ Write four lines about any season — now, the one you are in. Try to enjamb at 
 - William Carlos Williams, "The Red Wheelbarrow" — [Poetry Foundation](https://www.poetryfoundation.org/poems/45502/the-red-wheelbarrow)
 - William Carlos Williams, "Spring and All" (opening section) — [Poetry Foundation](https://www.poetryfoundation.org/poems/46977/spring-and-all)
 - H.D. (Hilda Doolittle), "Sea Rose" — [Poetry Foundation](https://www.poetryfoundation.org/poems/48188/sea-rose)
-- Ezra Pound, "In a Station of the Metro" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44312/in-a-station-of-the-metro)
+- Ezra Pound, "In a Station of the Metro" — [Poetry Foundation](https://www.poetryfoundation.org/poetrymagazine/poems/12675/in-a-station-of-the-metro)
 
 ### Critical Reception
 
@@ -443,8 +443,8 @@ Write 14 lines on any subject that preoccupies you right now. They do not need t
 
 ### Reading
 
-- Robert Frost, "Design" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44695/design)
-- Edna St. Vincent Millay, "What lips my lips have kissed, and where, and why" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44707/what-lips-my-lips-have-kissed-and-where-and-why)
+- Robert Frost, "Design" — [Poetry Foundation](https://www.poetryfoundation.org/poems/46711/design-56d226aed2c95)
+- Edna St. Vincent Millay, "What lips my lips have kissed, and where, and why" — [Poetry Foundation](https://www.poetryfoundation.org/poems/46557/what-lips-my-lips-have-kissed-and-where-and-why)
 - Claude McKay, "If We Must Die" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44694/if-we-must-die)
 
 ### Critical Reception
@@ -657,7 +657,7 @@ Write an ode — a poem of praise — for something ordinary: a coffee maker, a 
 - Walt Whitman, "I Hear America Singing" — [Poetry Foundation](https://www.poetryfoundation.org/poems/46480/i-hear-america-singing)
 - Langston Hughes, "I, Too" — [Poetry Foundation](https://www.poetryfoundation.org/poems/47558/i-too)
 - Langston Hughes, "Harlem" ("What happens to a dream deferred?") — [Poetry Foundation](https://www.poetryfoundation.org/poems/46548/harlem)
-- Claude McKay, "The Tropics in New York" — [Poetry Foundation](https://www.poetryfoundation.org/poems/44694/the-tropics-in-new-york) *(or search title at poetryfoundation.org)*
+- Claude McKay, "The Tropics in New York" — [Poetry Foundation](https://rpo.library.utoronto.ca/content/tropics-new-york) *(or search title at poetryfoundation.org)*
 
 ### Critical Reception
 
@@ -697,7 +697,7 @@ Finish the poem you started in class, or write a new one set anywhere in this ci
 
 ### Reading
 
-- Gwendolyn Brooks, "The Mother" — [Poetry Foundation](https://www.poetryfoundation.org/poems/43309/the-mother-56d2220f3fee7)
+- Gwendolyn Brooks, "The Mother" — [Poetry Foundation](https://www.poetryfoundation.org/poems/43309/the-mother-56d2220767a02)
 - Robert Hayden, "Middle Passage" (opening section) — [Academy of American Poets](https://poets.org/poem/middle-passage)
 - Yusef Komunyakaa, "Facing It" — [Poetry Foundation](https://www.poetryfoundation.org/poems/47867/facing-it)
 
@@ -856,7 +856,7 @@ All texts are freely available online. Links are current as of the time of writi
 - William Carlos Williams, "The Red Wheelbarrow" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/45502/the-red-wheelbarrow)
 - William Carlos Williams, "Spring and All" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/46977/spring-and-all)
 - H.D. (Hilda Doolittle), "Sea Rose" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/48188/sea-rose)
-- Ezra Pound, "In a Station of the Metro" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/44312/in-a-station-of-the-metro)
+- Ezra Pound, "In a Station of the Metro" — [poetryfoundation.org](https://www.poetryfoundation.org/poetrymagazine/poems/12675/in-a-station-of-the-metro)
 - Robert Hayden, "Those Winter Sundays" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/46461/those-winter-sundays)
 - Elizabeth Bishop, "The Fish" — [poets.org](https://poets.org/poem/fish)
 - Theodore Roethke, "My Papa's Waltz" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/43330/my-papas-waltz)
@@ -875,8 +875,8 @@ All texts are freely available online. Links are current as of the time of writi
 - William Shakespeare, Sonnet 18 — [poetryfoundation.org](https://www.poetryfoundation.org/poems/45087/sonnet-18-shall-i-compare-thee-to-a-summers-day)
 - William Shakespeare, Sonnet 73 — [poetryfoundation.org](https://www.poetryfoundation.org/poems/45099/sonnet-73-that-time-of-year-thou-mayst-in-me-behold)
 - William Shakespeare, Sonnet 29 — [poetryfoundation.org](https://www.poetryfoundation.org/poems/45090/sonnet-29-when-in-disgrace-with-fortune-and-mens-eyes)
-- Robert Frost, "Design" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/44695/design)
-- Edna St. Vincent Millay, "What lips my lips have kissed" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/44707/what-lips-my-lips-have-kissed-and-where-and-why)
+- Robert Frost, "Design" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/46711/design-56d226aed2c95)
+- Edna St. Vincent Millay, "What lips my lips have kissed" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/46557/what-lips-my-lips-have-kissed-and-where-and-why)
 - Claude McKay, "If We Must Die" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/44694/if-we-must-die)
 
 **Sessions 9–10 · Free Verse and Open Lines**
@@ -898,10 +898,10 @@ All texts are freely available online. Links are current as of the time of writi
 - Walt Whitman, "I Hear America Singing" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/46480/i-hear-america-singing)
 - Langston Hughes, "I, Too" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/47558/i-too)
 - Langston Hughes, "Harlem" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/46548/harlem)
-- Claude McKay, "The Tropics in New York" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/44694/the-tropics-in-new-york)
+- Claude McKay, "The Tropics in New York" — [poetryfoundation.org](https://rpo.library.utoronto.ca/content/tropics-new-york)
 
 **Session 14 · Poetry of Witness**
-- Gwendolyn Brooks, "The Mother" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/43309/the-mother-56d2220f3fee7)
+- Gwendolyn Brooks, "The Mother" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/43309/the-mother-56d2220767a02)
 - Robert Hayden, "Middle Passage" — [poets.org](https://poets.org/poem/middle-passage)
 - Yusef Komunyakaa, "Facing It" — [poetryfoundation.org](https://www.poetryfoundation.org/poems/47867/facing-it)
 

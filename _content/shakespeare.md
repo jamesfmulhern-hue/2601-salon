@@ -278,7 +278,7 @@ Describe a person you find beautiful without using a single conventional complim
 6. **Both dramatize a mind at war with itself.** Each speaker is trapped inside thought — one escapes through love, the other only deepens the impasse — making the session a study in how the same predicament can free or imprison.
 
 ### Reading
-- Sonnet 29 — "When in disgrace with fortune and men's eyes" · [Poetry Foundation](https://www.poetryfoundation.org/poems/45071/sonnet-29-when-in-disgrace-with-fortune-and-mens-eyes) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/)
+- Sonnet 29 — "When in disgrace with fortune and men's eyes" · [Poetry Foundation](https://www.poetryfoundation.org/poems/45090/sonnet-29-when-in-disgrace-with-fortune-and-mens-eyes) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/)
 - Hamlet, "To be, or not to be" — *Hamlet* 3.1 · [MIT Shakespeare](https://shakespeare.mit.edu/hamlet/full.html) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/hamlet/)
 
 ### Critical Reception
@@ -348,7 +348,7 @@ Write a paragraph about the difference between loving someone and possessing the
 6. **Both texts lean on others to survive loss.** A remembered friend and a band of brothers each sustain the speaker — but the sonnet asks for private consolation while the speech demands collective courage, two different things we ask of the people beside us.
 
 ### Reading
-- Sonnet 30 — "When to the sessions of sweet silent thought" · [Poetry Foundation](https://www.poetryfoundation.org/poems/45074/sonnet-30-when-to-the-sessions-of-sweet-silent-thought) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/)
+- Sonnet 30 — "When to the sessions of sweet silent thought" · [Poetry Foundation](https://www.poetryfoundation.org/poems/45091/sonnet-30-when-to-the-sessions-of-sweet-silent-thought) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/)
 - Henry V, St. Crispin's Day speech — *Henry V* 4.3 · [MIT Shakespeare](https://shakespeare.mit.edu/henryv/full.html) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/henry-v/)
 
 ### Critical Reception
@@ -488,7 +488,7 @@ Write two sentences about a time you suppressed a feeling because you thought it
 6. **Both texts show the mind outrunning its situation.** Whether that movement is escape from circumstance or a deeper form of attention to what matters is the open question the session holds, joining a tired lover and a king's musing on art.
 
 ### Reading
-- Sonnet 27 — "Weary with toil, I haste me to my bed" · [Poetry Foundation](https://www.poetryfoundation.org/poems/45068/sonnet-27-weary-with-toil-i-haste-me-to-my-bed) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/)
+- Sonnet 27 — "Weary with toil, I haste me to my bed" · [Poetry Foundation](https://en.wikisource.org/wiki/Sonnet_27_(Shakespeare)) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/)
 - Theseus, "The lunatic, the lover, and the poet" — *A Midsummer Night's Dream* 5.1 · [MIT Shakespeare](https://shakespeare.mit.edu/midsummer/full.html) · [Folger Digital Texts](https://www.folger.edu/explore/shakespeares-works/a-midsummer-nights-dream/)
 
 ### Critical Reception
@@ -697,9 +697,9 @@ All texts are free and in the public domain. No purchase is required.
 |--------|------------------|----------------------|
 | Complete Sonnets | [poetryfoundation.org/poems/detail/45087](https://www.poetryfoundation.org/poems/45087) | [folger.edu — Sonnets](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
 | Sonnet 18 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45087/sonnet-18-shall-i-compare-thee-to-a-summers-day) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
-| Sonnet 27 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45068/sonnet-27-weary-with-toil-i-haste-me-to-my-bed) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
-| Sonnet 29 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45071/sonnet-29-when-in-disgrace-with-fortune-and-mens-eyes) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
-| Sonnet 30 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45074/sonnet-30-when-to-the-sessions-of-sweet-silent-thought) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
+| Sonnet 27 | [Poetry Foundation](https://en.wikisource.org/wiki/Sonnet_27_(Shakespeare)) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
+| Sonnet 29 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45090/sonnet-29-when-in-disgrace-with-fortune-and-mens-eyes) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
+| Sonnet 30 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45091/sonnet-30-when-to-the-sessions-of-sweet-silent-thought) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
 | Sonnet 57 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45095/sonnet-57-being-your-slave-what-should-i-do-but-tend) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
 | Sonnet 60 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45098/sonnet-60-like-as-the-waves-make-towards-the-pebbled-shore) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |
 | Sonnet 62 | [Poetry Foundation](https://www.poetryfoundation.org/poems/45100/sonnet-62-sin-of-self-love-possesseth-all-mine-eye) | [Folger](https://www.folger.edu/explore/shakespeares-works/shakespeares-sonnets/) |

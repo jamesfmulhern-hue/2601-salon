@@ -574,11 +574,11 @@ Write a letter to a younger relative — real or imagined — that attempts what
 
 ### Reading
 - **Historical document:** Martin Luther King Jr., *"Letter from Birmingham Jail"* (April 16, 1963) — [full text, University of Pennsylvania African Studies Center](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html) (public record).
-- **Literary work:** Gwendolyn Brooks, *"The Lovers of the Poor"* (1960) — [full text, Poetry Foundation](https://www.poetryfoundation.org/poems/43309/the-lovers-of-the-poor) (freely available).
+- **Literary work:** Gwendolyn Brooks, *"The Lovers of the Poor"* (1960) — [full text, Poetry Foundation](https://www.poetryfoundation.org/poems/43317/the-lovers-of-the-poor) (freely available).
 
 ### Critical Reception
 - *Letter from Birmingham Jail* (overview and analysis) — [Martin Luther King, Jr. Research and Education Institute, Stanford University](https://kinginstitute.stanford.edu/letter-birmingham-jail) — the authoritative scholarly account of the letter's circumstances, argument, and reception.
-- *"The Lovers of the Poor"* (poem and context) — [Poetry Foundation](https://www.poetryfoundation.org/poems/43309/the-lovers-of-the-poor) — the authoritative text with framing of Brooks's satire of philanthropic condescension.
+- *"The Lovers of the Poor"* (poem and context) — [Poetry Foundation](https://www.poetryfoundation.org/poems/43317/the-lovers-of-the-poor) — the authoritative text with framing of Brooks's satire of philanthropic condescension.
 - *Letter from Birmingham Jail: Rhetorical Analysis* — [scholarly close reading of King's logic and form](http://static1.1.sqspcdn.com/static/f/9135/27476871/1488555064463/Analysis+of+MLK+Letter+from+Birmingham.pdf) — examines King's syllogisms, ethos, and the just/unjust-law distinction.
 
 ### In-Class Practice
@@ -741,7 +741,7 @@ Write a letter addressed to the next cohort of residents who will take this cour
 | 10 | Steinbeck, *Grapes of Wrath*, Ch. 1; Hughes, "Let America Be America Again" | [Internet Archive — Steinbeck](https://archive.org/details/in.ernet.dli.2015.261773); [Poetry Foundation — Hughes](https://www.poetryfoundation.org/poems/147907/let-america-be-america-again) |
 | 11 | War-era poetry (packet distributed) | Public domain — distributed in class |
 | 12 | Baldwin, "My Dungeon Shook" | [Internet Archive — *Notes of a Native Son*](https://archive.org/details/notesofnativeson00bald); instructor distributes excerpt |
-| 13 | Brooks, "The Lovers of the Poor" | [Poetry Foundation](https://www.poetryfoundation.org/poems/43309/the-lovers-of-the-poor) |
+| 13 | Brooks, "The Lovers of the Poor" | [Poetry Foundation](https://www.poetryfoundation.org/poems/43317/the-lovers-of-the-poor) |
 | 14 | O'Brien, "The Things They Carried" | [Internet Archive](https://archive.org/details/thingstheycarrie0000obri_t7v9) |
 | 15 | Morrison, Nobel Lecture (1993) | [Nobel Prize Organization](https://www.nobelprize.org/prizes/literature/1993/morrison/lecture/) |
 | 16 | TBD — chosen by class | TBD |

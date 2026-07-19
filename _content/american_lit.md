@@ -828,7 +828,7 @@ All texts below are in the public domain unless noted. Links lead to free, legal
 
 **Session 4 — Slavery & the Counter-Narrative**
 - Olaudah Equiano, *The Interesting Narrative* — [Project Gutenberg](https://www.gutenberg.org/ebooks/15399)
-- Phillis Wheatley, selected poems — [Poetry Foundation](https://www.poetryfoundation.org/poems/45465/on-being-brought-from-africa-to-america) ("On Being Brought from Africa to America"); [Poets.org](https://poets.org/poem/university-cambridge-new-england) ("To the University of Cambridge")
+- Phillis Wheatley, selected poems — [Poetry Foundation](https://www.poetryfoundation.org/poems/45465/on-being-brought-from-africa-to-america) ("On Being Brought from Africa to America"); [Poets.org](https://anthology.lib.virginia.edu/work/Wheatley/wheatley-cambridge) ("To the University of Cambridge")
 
 **Session 5 — Romanticism & Transcendentalism**
 - Ralph Waldo Emerson, "Self-Reliance" — [Project Gutenberg](https://www.gutenberg.org/ebooks/16643)

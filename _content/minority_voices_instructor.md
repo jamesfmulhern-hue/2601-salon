@@ -532,12 +532,12 @@ The period was also intensely political. The "Red Summer" of 1919 saw white mobs
 
 ### The Text(s) for This Session
 
-- Langston Hughes, "The Negro Speaks of Rivers" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44261/the-negro-speaks-of-rivers).
+- Langston Hughes, "The Negro Speaks of Rivers" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44428/the-negro-speaks-of-rivers).
 - Langston Hughes, "The Weary Blues" (1925). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/47347/the-weary-blues).
 - Langston Hughes, "Let America Be America Again" (1936). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/147907/let-america-be-america-again).
 - Langston Hughes, "I look at the world" (1930; pub. 2009). **Freely available:** [Academy of American Poets](https://poets.org/poem/i-look-world).
 - Claude McKay, "If We Must Die" (1919). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44694/if-we-must-die).
-- Claude McKay, "America" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44693/america-56d225b2c94ec).
+- Claude McKay, "America" (1921). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44691/america-56d223e1ac025).
 - Claude McKay, "The Tropics in New York" (1922). **Freely available:** [Poetry Foundation](https://www.poetryfoundation.org/poems/44697/the-tropics-in-new-york).
 
 ### Lecture Script
