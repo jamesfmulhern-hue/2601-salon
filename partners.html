@@ -217,6 +217,52 @@
     border-bottom-color: var(--gold);
   }
 
+  /* Testimonials */
+  .testimonial-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 18px;
+    margin-top: 8px;
+  }
+  @media (min-width: 780px) {
+    .testimonial-grid {
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .testimonial-primary { grid-column: 1 / -1; }
+  }
+  .testimonial-grid blockquote {
+    background: #FBF7EC;
+    border-left: 3px solid var(--gold);
+    margin: 0;
+    padding: 18px 22px;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+  .testimonial-grid blockquote p {
+    margin: 0;
+    font-family: inherit;
+    font-size: 1.02rem;
+    line-height: 1.55;
+    color: var(--navy);
+  }
+  .testimonial-grid .quote-lead {
+    font-size: 1.4rem;
+    line-height: 1.4;
+    font-style: italic;
+    color: var(--navy);
+    margin-bottom: 12px;
+  }
+  .testimonial-grid .quote-attr {
+    margin-top: 12px;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    color: var(--muted);
+    font-style: normal;
+  }
+  .testimonial-grid .quote-attr strong { color: var(--gold); font-weight: 600; }
+  .testimonial-grid .quote-attr a { color: var(--navy); }
+
   .catalog {
     width: 100%;
     border-collapse: collapse;
@@ -402,8 +448,45 @@
   </div>
 </div>
 
+<div class="partners-section testimonials">
+  <h2><span class="kicker">Section IV</span>Selected Reviews of the Author's Work</h2>
+  <p style="color:var(--muted);font-style:italic;margin-bottom:22px">Program directors sometimes ask for third-party validation before offering a first program. What follows are quotations from independent reviews of James F. Mulhern's fiction and poetry.</p>
+  <div class="testimonial-grid">
+    <blockquote class="testimonial-primary">
+      <p class="quote-lead">“A luminous, beautifully told fairy tale grounded in history and elevated by spirit.”</p>
+      <p class="quote-attr">— <strong>Kirkus Reviews</strong> (starred review), <em>Give Them Unquiet Dreams</em> · Kirkus Best Book of 2019</p>
+    </blockquote>
+
+    <blockquote>
+      <p>“Mulhern’s prose is strong, delivering readers a sense of the child in Aiden’s voice and a thorough, descriptive view of the world around him … the writing is elevated by a liberal use of quotes and sayings ranging from Bible verses to Thoreau and Yeats … it’s the rich characters who bring the novel to its greatest heights.”</p>
+      <p class="quote-attr">— <strong>Kirkus Reviews</strong>, from the starred review of <em>Give Them Unquiet Dreams</em></p>
+    </blockquote>
+
+    <blockquote>
+      <p>“A gleefully and wonderfully odd protagonist eases readers into a bare-bones plot … While she may have a cold exterior, her distinctiveness is an appealing quality and often amusing.”</p>
+      <p class="quote-attr">— <strong>Kirkus Reviews</strong>, on <em>Molly Bonamici</em></p>
+    </blockquote>
+
+    <blockquote>
+      <p>“A gripping, superbly written story with a strong-willed, unpredictable protagonist. Highly recommended.”</p>
+      <p class="quote-attr">— <strong>The Wishing Shelf</strong> (five-star review), <em>Molly Bonamici</em></p>
+    </blockquote>
+
+    <blockquote>
+      <p>“Mulhern’s writing displays all of the storytelling prowess of the contemporary Irish masters, yet manages to blend it in exquisitely with the use of modern-day American settings.”</p>
+      <p class="quote-attr">— quoted on the author’s <a href="https://www.authorjamesmulhern.com">official press page</a></p>
+    </blockquote>
+
+    <blockquote>
+      <p>“Impressed the editorial staff with its well-written, complex characters, themes of the piece, and its fantastic voice.”</p>
+      <p class="quote-attr">— <strong>The Missouri Review</strong>, on the novelette “A Prayer for Home”</p>
+    </blockquote>
+  </div>
+  <p style="font-size:0.9rem;color:var(--muted);margin-top:20px">Read the full <a href="https://www.kirkusreviews.com/book-reviews/james-mulhern/give-them-unquiet-dreams/">starred Kirkus review</a> or browse all reviews on the <a href="https://www.kirkusreviews.com/author/james-mulhern/">Kirkus author page</a>.</p>
+</div>
+
 <div class="partners-section">
-  <h2><span class="kicker">Section IV</span>The Courses I Can Teach</h2>
+  <h2><span class="kicker">Section V</span>The Courses I Can Teach</h2>
   <p>Any course in the salon can be adapted to a partner venue's calendar and audience — full sixteen-week series, four-session workshops, single evening talks, or one-day masterclasses. Course descriptions and sample sessions are on this site; click any title to see a syllabus.</p>
   <table class="catalog">
     <thead>
@@ -433,7 +516,7 @@
 </div>
 
 <div class="partners-section">
-  <h2><span class="kicker">Section V</span>How I Can Deliver a Course</h2>
+  <h2><span class="kicker">Section VI</span>How I Can Deliver a Course</h2>
   <div class="format-list">
     <div class="fmt"><strong>In person.</strong> At libraries, bookstores, community centers, universities, retirement communities, and literary nonprofits — anywhere in the Philadelphia region, and, on request, elsewhere in the Northeast.</div>
     <div class="fmt"><strong>Online.</strong> By Zoom or a comparable platform. Works equally well for a small circle of committed readers or a larger open enrollment.</div>
@@ -445,7 +528,7 @@
 </div>
 
 <div class="partners-section">
-  <h2><span class="kicker">Section VI</span>Sample Materials at a Glance</h2>
+  <h2><span class="kicker">Section VII</span>Sample Materials at a Glance</h2>
   <ul class="samples">
     <li>
       <a href="courses/art_of_telling.html">A course page — The Art of Telling</a>
@@ -482,7 +565,7 @@
 </div>
 
 <div class="partners-section">
-  <h2><span class="kicker">Section VII</span>About the Use of These Materials</h2>
+  <h2><span class="kicker">Section VIII</span>About the Use of These Materials</h2>
   <p>Everything on this site was written and designed by James F. Mulhern for Silver Current Press. Individual readers are always welcome to enjoy, print, and share these materials for personal use. Teachers, program directors, and institutions considering the use of syllabi, reading lists, discussion questions, or course design in a classroom, syllabus, publication, or paid program are asked to write first. A short email is enough; the answer will almost always be a warm yes, with a note on attribution. Please contact <a href="mailto:jamesfmulhern@gmail.com">jamesfmulhern@gmail.com</a>.</p>
 </div>
 

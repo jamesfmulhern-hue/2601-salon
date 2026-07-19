@@ -68,7 +68,7 @@ It is **not** intimidating. I promise.
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 16 weeks
 - **Cost:** Contact for current terms
-- **Enrollment:** Open to all residents
+- **Enrollment:** Open to all adults; no application required
 - **Grading:** None
 - **Required texts:** None to purchase. All readings are free and linked in this document.
 - **Materials to bring:** This document (printed or on your phone/tablet), something to write with, and something to write on

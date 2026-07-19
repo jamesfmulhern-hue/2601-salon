@@ -108,6 +108,7 @@ def page(title, body_html, course_running_head=None, og_desc="", slug=None):
 <body>
 {topnav("../")}
 <main class="wrap" data-running-head="{running_head}">
+{f'<div class="partner-band"><span class="partner-band-text"><strong>For program partners:</strong> This course can be brought to any adult reading audience — in person or on Zoom. See the <a href="../partners.html">partners page</a> or download a <a href="../flyers/{slug}_flyer.pdf">one-page flyer for this course</a>.</span></div>' if slug else ''}
 {body_html}
 </main>
 {FOOTER}
