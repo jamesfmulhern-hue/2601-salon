@@ -17,12 +17,12 @@
   <div class="topnav-inner">
     <a class="brand" href="index.html">2601 · Free Courses</a>
     <div class="links">
+      <a href="index.html#toc">Table of Contents</a>
       <a href="index.html#courses">Courses</a>
       <a href="index.html#formats">Formats</a>
       <a href="index.html#about">About</a>
       <a href="philosophy-of-writing.html">Philosophy</a>
       <a href="index.html#contact">Enroll or Book</a>
-      <a href="index.html#elsewhere">Elsewhere</a>
     </div>
   </div>
 </nav>
@@ -32,6 +32,188 @@
 <div class="notice">
   <div class="label">A WELCOME</div>
   <p style="margin-bottom:0;">Professor Mulhern — a novelist, short story writer, poet, and essayist — offers the following free courses for adult readers and writers. Each course meets weekly for ninety minutes. Each is built around close reading and generous conversation.</p>
+</div>
+
+<style>
+.network-toc {
+  background: #FBF7EC;
+  border: 1px solid rgba(184,137,58,0.35);
+  border-radius: 3px;
+  padding: 28px 32px;
+  margin: 24px 0;
+}
+.network-toc h2 {
+  margin-top: 0;
+  text-align: center;
+  color: var(--navy);
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+}
+.network-toc .lede {
+  text-align: center;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+  color: var(--muted);
+  max-width: 60ch;
+  margin: 0 auto 20px;
+}
+.network-toc details {
+  border-bottom: 1px solid rgba(184,137,58,0.25);
+  padding: 10px 0;
+}
+.network-toc details:last-child { border-bottom: none; }
+.network-toc details > summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 6px 0;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--navy);
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+}
+.network-toc details > summary::-webkit-details-marker { display: none; }
+.network-toc details > summary::before {
+  content: "B8";
+  color: var(--gold);
+  font-size: 0.9em;
+  transition: transform .2s ease;
+  display: inline-block;
+  width: 14px;
+}
+.network-toc details[open] > summary::before {
+  content: "BE";
+}
+.network-toc summary .toc-count {
+  margin-left: auto;
+  font-family: 'Outfit', system-ui, sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 500;
+}
+.network-toc ul {
+  list-style: none;
+  padding-left: 28px;
+  margin: 8px 0 14px;
+}
+.network-toc ul li {
+  padding: 6px 0;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.network-toc ul li a { color: var(--maroon); border-bottom: 1px dotted rgba(107,31,42,0.35); }
+.network-toc ul li a:hover { color: var(--gold); border-bottom-color: var(--gold); }
+.network-toc ul li .note {
+  color: var(--muted);
+  font-size: 0.94rem;
+  font-style: italic;
+}
+.network-toc .toc-actions {
+  text-align: center;
+  margin-top: 18px;
+  font-family: 'Outfit', system-ui, sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+.network-toc .toc-actions a {
+  color: var(--gold);
+  border: none;
+  margin: 0 12px;
+  cursor: pointer;
+}
+</style>
+
+<div class="card network-toc" id="toc">
+  <h2>Table of Contents</h2>
+  <p class="lede">One nested map of the whole teaching and publishing network. Click any heading to expand.</p>
+
+  <div class="toc-actions">
+    <a href="#" onclick="document.querySelectorAll('.network-toc details').forEach(d=>d.open=true);return false;">Expand All</a>
+    <a href="#" onclick="document.querySelectorAll('.network-toc details').forEach(d=>d.open=false);return false;">Collapse All</a>
+  </div>
+
+  <details open>
+    <summary>The Salon <span class="toc-count">13 free courses</span></summary>
+    <ul>
+      <li><a href="courses/american_lit.html">Survey of American Literature</a></li>
+      <li><a href="courses/women_writers.html">Women in American Literature</a></li>
+      <li><a href="courses/minority_voices.html">Minority Voices in American Literature</a></li>
+      <li><a href="courses/jewish_writers.html">Jewish Writers: A Literary Tradition</a></li>
+      <li><a href="courses/irish_lit.html">The Irish Literary Imagination</a></li>
+      <li><a href="courses/lit_and_history.html">Literature &amp; American History — A Cross-Reading</a></li>
+      <li><a href="courses/poetry.html">Reading Poetry: A Beginner's Welcome</a></li>
+      <li><a href="courses/shakespeare.html">Shakespeare's Sonnets &amp; Famous Speeches</a></li>
+      <li><a href="courses/memoir.html">The Personal Essay &amp; Memoir</a></li>
+      <li><a href="courses/revision_workshop.html">The Craft of Revision — A Writers' Workshop</a></li>
+      <li><a href="courses/writing_life.html">The Writing Life: Getting Published</a></li>
+      <li><a href="courses/art_of_telling.html">The Art of Telling</a> <span class="note">— a salon in short story, poetry, and memoir</span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Companion Course Sites <span class="toc-count">Deep-dive workshops</span></summary>
+    <ul>
+      <li><a href="https://art-of-telling.com">The Art of Telling</a> <span class="note">— the ten-session salon site</span></li>
+      <li><a href="https://companion.art-of-telling.com">Because There Wasn't Time to Tell Everything</a> <span class="note">— companion volume with expanded readings, discussion answers, and craft essays</span></li>
+      <li><a href="https://chekhov-endings.silvercurrentpress.com">How Chekhov Ends</a> <span class="note">— a four-session close-reading workshop on the last paragraph</span></li>
+      <li><a href="https://joyces-sentences.silvercurrentpress.com">Joyce's Sentences</a> <span class="note">— a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy</span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>The Mulhern Library <span class="toc-count">Reading resources</span></summary>
+    <ul>
+      <li><a href="https://shortstories.silvercurrentpress.com">Short Stories</a> <span class="note">— a curated library with reading notes, discussion guides, and downloadable PDFs</span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Publishing Guides for Writers <span class="toc-count">Free field guides</span></summary>
+    <ul>
+      <li><a href="https://publishingpoetry.silvercurrentpress.com">Publishing Poetry</a> <span class="note">— poems and chapbooks to literary magazines, contests, and small presses</span></li>
+      <li><a href="https://submittingshortstories.silvercurrentpress.com">Submitting Short Stories</a> <span class="note">— the working submissions playbook for the short story</span></li>
+      <li><a href="https://submittingmemoirs.silvercurrentpress.com">Submitting Memoirs</a> <span class="note">— essay, memoir excerpt, and full-manuscript submissions in creative nonfiction</span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>The Author <span class="toc-count">Books and background</span></summary>
+    <ul>
+      <li><a href="https://www.authorjamesmulhern.com">authorjamesmulhern.com</a> <span class="note">— reviews, awards, credentials, and news</span></li>
+      <li><a href="https://jamesfmulhern-hue.github.io/press-kit/">Press Packet</a> <span class="note">— for journalists, program directors, and event bookers</span></li>
+      <li><a href="philosophy-of-writing.html">Philosophy of Writing</a> <span class="note">— the author statement under every course here</span></li>
+      <li><a href="https://www.kirkusreviews.com/book-reviews/james-mulhern/give-them-unquiet-dreams/">Kirkus Starred Review</a> <span class="note">— <em>Give Them Unquiet Dreams</em>, a Kirkus Best Book of 2019</span></li>
+      <li><a href="https://shelfmediagroup.com/interview/interview-james-mulhern-author-of-molly-bonamici/">Shelf Media Group Interview</a> <span class="note">— on <em>Molly Bonamici</em></span></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>The Books <span class="toc-count">8 titles</span></summary>
+    <ul>
+      <li><em>Give Them Unquiet Dreams</em> <span class="note">— novel, 2019; Kirkus starred review; Kirkus Best Book of 2019</span></li>
+      <li><em>Molly Bonamici</em> <span class="note">— novel, 2016; dark comic mystery of Boston and South Florida</span></li>
+      <li><em>A Prayer for Home</em> <span class="note">— novelette, 2016; praised by <em>The Missouri Review</em></span></li>
+      <li><em>Assumptions and Other Stories</em> <span class="note">— story collection, 2016</span></li>
+      <li><em>Mia Bambina and Other Stories</em> <span class="note">— story collection</span></li>
+      <li><em>About Aiden: Selected Stories</em> <span class="note">— 2018; a compact selection of the Aiden stories</span></li>
+      <li><em>Blindfolded and Other Stories</em> <span class="note">— story collection</span></li>
+      <li><em>Crossings</em> <span class="note">— poetry chapbook; shortlisted, Aesthetica Creative Writing Award 2021</span></li>
+      <li><a href="https://www.amazon.com/stores/James-Mulhern/author/B00HS4D2AQ">See the full catalog on Amazon</a></li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>The Press <span class="toc-count">Publishing home</span></summary>
+    <ul>
+      <li><a href="https://silvercurrentpress.com">Silver Current Press</a> <span class="note">— the Philadelphia literary imprint behind these courses</span></li>
+    </ul>
+  </details>
 </div>
 
 <div class="hero">
