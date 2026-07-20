@@ -153,7 +153,7 @@ def build():
 }}
 .network-toc details > summary::-webkit-details-marker {{ display: none; }}
 .network-toc details > summary::before {{
-  content: "\25B8";
+  content: "\\25B8";
   color: var(--gold);
   font-size: 0.9em;
   transition: transform .2s ease;
@@ -161,7 +161,7 @@ def build():
   width: 14px;
 }}
 .network-toc details[open] > summary::before {{
-  content: "\25BE";
+  content: "\\25BE";
 }}
 .network-toc summary .toc-count {{
   margin-left: auto;
