@@ -72,6 +72,41 @@ COURSES = {
         "subtitle": "Ten Sessions",
         "desc": "A ten-session salon in short story, poetry, and memoir \u2014 the course that gave the salon its name.",
     },
+    "chekhov_endings": {
+        "title": "How Chekhov Ends",
+        "subtitle": "Four Sessions",
+        "desc": "A four-session close-reading workshop on the last paragraph of the modern short story, taught by James F. Mulhern \u2014 offered in person or online.",
+    },
+    "joyces_sentences": {
+        "title": "Joyce's Sentences",
+        "subtitle": "Two Sessions",
+        "desc": "A two-session close-reading weekend on The Dead and Molly Bloom's soliloquy, taught by James F. Mulhern \u2014 offered in person or online.",
+    },
+    "emerson": {
+        "title": "Reading Emerson",
+        "subtitle": "Four Sessions",
+        "desc": "A four-session close-reading of Ralph Waldo Emerson's essential essays \u2014 Nature, Self-Reliance, The American Scholar, and Circles, taught by James F. Mulhern.",
+    },
+    "dickinson": {
+        "title": "Reading Dickinson",
+        "subtitle": "Four Sessions",
+        "desc": "A four-session close-reading of Emily Dickinson's poems \u2014 interior landscapes, poems on death, nature, and the great late lyrics, taught by James F. Mulhern.",
+    },
+    "thoreau": {
+        "title": "Reading Thoreau",
+        "subtitle": "Four Sessions",
+        "desc": "A four-session close-reading of Walden and Civil Disobedience, taught by James F. Mulhern.",
+    },
+    "whitman": {
+        "title": "Reading Whitman",
+        "subtitle": "Four Sessions",
+        "desc": "A four-session close-reading of Walt Whitman's Song of Myself and the Civil War poems, taught by James F. Mulhern.",
+    },
+    "presidential_speeches": {
+        "title": "The Presidential Speech",
+        "subtitle": "Six Sessions",
+        "desc": "A six-session close-reading of the great American speeches \u2014 Washington's Farewell, Lincoln's Second Inaugural, FDR, JFK, Dr. King, and Reagan on the Challenger \u2014 their craft, rhetorical devices, historical context, and enduring power. Taught by James F. Mulhern.",
+    },
 }
 
 # Sections that belong in each of the three top-level collapsibles.

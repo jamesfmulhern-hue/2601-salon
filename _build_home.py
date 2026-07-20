@@ -88,6 +88,55 @@ COURSES = [
         "blurb": "A salon in short story, poetry, and memoir. Ten Sundays across the three great narrative forms \u2014 the course that gave the salon its name, now on the shelf beside the others.",
         "hours": "10 sessions · 90 minutes each",
     },
+    {
+        "slug": "chekhov_endings",
+        "title": "How Chekhov Ends",
+        "tag": "Four Sessions",
+        "blurb": "A close-reading workshop on the last paragraph of the modern short story. Four Chekhov stories, read slowly, with attention to the ending Chekhov taught fiction how to make.",
+        "hours": "4 sessions · 90 minutes each",
+    },
+    {
+        "slug": "joyces_sentences",
+        "title": "Joyce's Sentences",
+        "tag": "Two Sessions",
+        "blurb": "A close-reading weekend on the last pages of The Dead and on Molly Bloom's soliloquy at the end of Ulysses. Two of the most famous passages in modern English prose, read aloud and slowly.",
+        "hours": "2 sessions · 90 minutes each",
+    },
+    {
+        "slug": "emerson",
+        "title": "Reading Emerson",
+        "tag": "Four Sessions",
+        "blurb": "Four Emerson essays read slowly \u2014 Nature, Self-Reliance, The American Scholar, and Circles. The founding voice of American thought, at the pace he asks to be read.",
+        "hours": "4 sessions · 90 minutes each",
+    },
+    {
+        "slug": "dickinson",
+        "title": "Reading Dickinson",
+        "tag": "Four Sessions",
+        "blurb": "Emily Dickinson at close range \u2014 the dashes, the slant rhymes, the small rooms that hold whole universes. Twenty-four of her finest poems, unhurried.",
+        "hours": "4 sessions · 90 minutes each",
+    },
+    {
+        "slug": "thoreau",
+        "title": "Reading Thoreau",
+        "tag": "Four Sessions",
+        "blurb": "Walden and Civil Disobedience, read as literature and as challenge. Three sessions in the cabin at the pond, one in the Concord jail.",
+        "hours": "4 sessions · 90 minutes each",
+    },
+    {
+        "slug": "whitman",
+        "title": "Reading Whitman",
+        "tag": "Four Sessions",
+        "blurb": "Song of Myself in three unhurried passes, then the Civil War poems that gave Whitman his deepest music. Read aloud, always.",
+        "hours": "4 sessions · 90 minutes each",
+    },
+    {
+        "slug": "presidential_speeches",
+        "title": "The Presidential Speech",
+        "tag": "Six Sessions",
+        "blurb": "Six great American speeches close-read for their craft, rhetorical devices, and historical context. Washington's Farewell, Lincoln's Second Inaugural, FDR, JFK, Dr. King, and Reagan on the Challenger.",
+        "hours": "6 sessions · 90 minutes each",
+    },
 ]
 
 
@@ -214,6 +263,21 @@ def build():
     <a href="#" onclick="document.querySelectorAll('.network-toc details').forEach(d=>d.open=true);return false;">Expand All</a>
     <a href="#" onclick="document.querySelectorAll('.network-toc details').forEach(d=>d.open=false);return false;">Collapse All</a>
   </div>
+  <script>
+    // When any TOC summary is toggled, scroll the summary line back into view
+    // at the top of the viewport so users don't lose their place after clicking.
+    document.querySelectorAll('.network-toc details').forEach(function(det) {{
+      det.querySelector('summary').addEventListener('click', function(e) {{
+        // wait for the toggle to complete before scrolling
+        setTimeout(function() {{
+          const rect = det.getBoundingClientRect();
+          // Only scroll if the summary is above or too far below the visible area
+          const target = window.scrollY + rect.top - 20;
+          window.scrollTo({{ top: target, behavior: 'smooth' }});
+        }}, 50);
+      }});
+    }});
+  </script>
 
   <details open>
     <summary>For Program Partners <span class="toc-count">Instructor portfolio</span></summary>
@@ -223,7 +287,7 @@ def build():
   </details>
 
   <details open>
-    <summary>The Salon <span class="toc-count">13 courses</span></summary>
+    <summary>The Salon <span class="toc-count">19 courses</span></summary>
     <ul>
       <li><a href="courses/american_lit.html">Survey of American Literature</a></li>
       <li><a href="courses/women_writers.html">Women in American Literature</a></li>
@@ -237,6 +301,13 @@ def build():
       <li><a href="courses/revision_workshop.html">The Craft of Revision — A Writers' Workshop</a></li>
       <li><a href="courses/writing_life.html">The Writing Life: Getting Published</a></li>
       <li><a href="courses/art_of_telling.html">The Art of Telling</a> <span class="note">— a salon in short story, poetry, and memoir</span></li>
+      <li><a href="courses/emerson.html">Reading Emerson</a> <span class="note">— four essays close-read</span></li>
+      <li><a href="courses/dickinson.html">Reading Dickinson</a> <span class="note">— the poems, close-read</span></li>
+      <li><a href="courses/thoreau.html">Reading Thoreau</a> <span class="note">— Walden and Civil Disobedience</span></li>
+      <li><a href="courses/whitman.html">Reading Whitman</a> <span class="note">— Leaves of Grass and the Civil War poems</span></li>
+      <li><a href="courses/chekhov_endings.html">How Chekhov Ends</a> <span class="note">— four sessions on the last paragraph</span></li>
+      <li><a href="courses/joyces_sentences.html">Joyce's Sentences</a> <span class="note">— The Dead and Molly Bloom</span></li>
+      <li><a href="courses/presidential_speeches.html">The Presidential Speech</a> <span class="note">— rhetoric, craft, and history</span></li>
     </ul>
   </details>
 
@@ -245,8 +316,8 @@ def build():
     <ul>
       <li><a href="https://art-of-telling.com">The Art of Telling</a> <span class="note">— the ten-session salon site</span></li>
       <li><a href="https://companion.art-of-telling.com">Because There Wasn't Time to Tell Everything</a> <span class="note">— companion volume with expanded readings, discussion answers, and craft essays</span></li>
-      <li><span style="color:var(--muted)">How Chekhov Ends</span> <span class="note">— a four-session close-reading workshop on the last paragraph. <em>Companion site in preparation; contact for the current syllabus.</em></span></li>
-      <li><span style="color:var(--muted)">Joyce's Sentences</span> <span class="note">— a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy. <em>Companion site in preparation; contact for the current syllabus.</em></span></li>
+      <li><a href="courses/chekhov_endings.html">How Chekhov Ends</a> <span class="note">— a four-session close-reading workshop on the last paragraph of the modern short story</span></li>
+      <li><a href="courses/joyces_sentences.html">Joyce's Sentences</a> <span class="note">— a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy</span></li>
     </ul>
   </details>
 
@@ -377,8 +448,8 @@ def build():
   <ul>
     <li><a href="https://art-of-telling.com">The Art of Telling</a> — the ten-session course that gave the salon its name.</li>
     <li><a href="https://companion.art-of-telling.com"><em>Because There Wasn't Time to Tell Everything</em></a> — the companion site to The Art of Telling. Expanded biographies, close readings, historical context, answers to every discussion question, craft essays, and a downloadable sixty-eight-page Word booklet for readers who want to go deeper.</li>
-    <li><span style="color:var(--muted)">How Chekhov Ends</span> — a four-session close-reading workshop on the last paragraph of the modern short story. <em>Companion site in preparation; contact for the current syllabus.</em></li>
-    <li><span style="color:var(--muted)">Joyce's Sentences</span> — a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy. <em>Companion site in preparation; contact for the current syllabus.</em></li>
+    <li><a href="courses/chekhov_endings.html">How Chekhov Ends</a> — a four-session close-reading workshop on the last paragraph of the modern short story.</li>
+    <li><a href="courses/joyces_sentences.html">Joyce's Sentences</a> — a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy.</li>
   </ul>
 
   <h3>The Mulhern Library</h3>
