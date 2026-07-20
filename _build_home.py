@@ -245,8 +245,8 @@ def build():
     <ul>
       <li><a href="https://art-of-telling.com">The Art of Telling</a> <span class="note">— the ten-session salon site</span></li>
       <li><a href="https://companion.art-of-telling.com">Because There Wasn't Time to Tell Everything</a> <span class="note">— companion volume with expanded readings, discussion answers, and craft essays</span></li>
-      <li><a href="https://chekhov-endings.silvercurrentpress.com">How Chekhov Ends</a> <span class="note">— a four-session close-reading workshop on the last paragraph</span></li>
-      <li><a href="https://joyces-sentences.silvercurrentpress.com">Joyce's Sentences</a> <span class="note">— a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy</span></li>
+      <li><span style="color:var(--muted)">How Chekhov Ends</span> <span class="note">— a four-session close-reading workshop on the last paragraph. <em>Companion site in preparation; contact for the current syllabus.</em></span></li>
+      <li><span style="color:var(--muted)">Joyce's Sentences</span> <span class="note">— a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy. <em>Companion site in preparation; contact for the current syllabus.</em></span></li>
     </ul>
   </details>
 
@@ -377,8 +377,8 @@ def build():
   <ul>
     <li><a href="https://art-of-telling.com">The Art of Telling</a> — the ten-session course that gave the salon its name.</li>
     <li><a href="https://companion.art-of-telling.com"><em>Because There Wasn't Time to Tell Everything</em></a> — the companion site to The Art of Telling. Expanded biographies, close readings, historical context, answers to every discussion question, craft essays, and a downloadable sixty-eight-page Word booklet for readers who want to go deeper.</li>
-    <li><a href="https://chekhov-endings.silvercurrentpress.com">How Chekhov Ends</a> — a four-session close-reading workshop on the last paragraph of the modern short story.</li>
-    <li><a href="https://joyces-sentences.silvercurrentpress.com">Joyce's Sentences</a> — a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy.</li>
+    <li><span style="color:var(--muted)">How Chekhov Ends</span> — a four-session close-reading workshop on the last paragraph of the modern short story. <em>Companion site in preparation; contact for the current syllabus.</em></li>
+    <li><span style="color:var(--muted)">Joyce's Sentences</span> — a two-session close-reading weekend on <em>The Dead</em> and Molly Bloom's soliloquy. <em>Companion site in preparation; contact for the current syllabus.</em></li>
   </ul>
 
   <h3>The Mulhern Library</h3>
