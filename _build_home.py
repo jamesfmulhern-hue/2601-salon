@@ -350,6 +350,7 @@ def build():
       <li><a href="https://www.authorjamesmulhern.com">authorjamesmulhern.com</a> <span class="note">— reviews, awards, credentials, and news</span></li>
       <li><a href="https://jamesfmulhern-hue.github.io/press-kit/">Press Packet</a> <span class="note">— for journalists, program directors, and event bookers</span></li>
       <li><a href="philosophy-of-writing.html">Philosophy of Writing</a> <span class="note">— the author statement under every course here</span></li>
+      <li><a href="thin-places.html">Thin Places</a> <span class="note">— a craft essay on permeability, recurrence, and the writing life</span></li>
       <li><a href="https://www.kirkusreviews.com/book-reviews/james-mulhern/give-them-unquiet-dreams/">Kirkus Starred Review</a> <span class="note">— <em>Give Them Unquiet Dreams</em>, a Kirkus Best Book of 2019</span></li>
       <li><a href="https://shelfmediagroup.com/interview/interview-james-mulhern-author-of-molly-bonamici/">Shelf Media Group Interview</a> <span class="note">— on <em>Molly Bonamici</em></span></li>
     </ul>
@@ -426,6 +427,7 @@ def build():
     <li><a href="https://www.authorjamesmulhern.com">authorjamesmulhern.com</a> — the author site: reviews, awards, credentials, and news.</li>
     <li><a href="https://jamesfmulhern-hue.github.io/press-kit/">Press Packet</a> — for journalists, program directors, and event bookers: Kirkus starred review, high-resolution author photo, cover images, bio in three lengths, contact.</li>
     <li><a href="philosophy-of-writing.html">Philosophy of Writing</a> — the author statement that sits under every course in this salon.</li>
+    <li><a href="thin-places.html">Thin Places</a> — a craft essay on thin psychological boundaries, recurrence, and why the same images keep returning in a body of work.</li>
     <li><a href="https://www.kirkusreviews.com/book-reviews/james-mulhern/give-them-unquiet-dreams/">Kirkus starred review</a> of <em>Give Them Unquiet Dreams</em>, a Kirkus Best Book of 2019.</li>
     <li><a href="https://shelfmediagroup.com/interview/interview-james-mulhern-author-of-molly-bonamici/">Shelf Media Group interview</a> on <em>Molly Bonamici</em>.</li>
   </ul>

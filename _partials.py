@@ -18,6 +18,7 @@ def topnav(path_prefix=""):
       <a href="{path_prefix}index.html#courses">Courses</a>
       <a href="{path_prefix}index.html#formats">Formats</a>
       <a href="{path_prefix}philosophy-of-writing.html">Philosophy</a>
+      <a href="{path_prefix}thin-places.html">Thin Places</a>
       <a href="{path_prefix}index.html#contact">Enroll or Book</a>
     </div>
   </div>
