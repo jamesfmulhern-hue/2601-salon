@@ -10,6 +10,7 @@
   --navy:           #0F1E3D;
   --navy-soft:      #14224A;
   --gold:           #6E4A0E;
+  --gold-on-dark:   #E3C673;   /* lighter gold for text on navy backgrounds — kept legible */
   --maroon:         #5A0F22;
   --maroon-dark:    #3D0916;
   --text:           #10182E;
@@ -191,7 +192,7 @@ li { margin-bottom: 0.4em; }
   margin: 0 0 10px;
   font-size: 2.6rem;
 }
-.hero .subtitle { color: var(--gold); display: block; }
+.hero .subtitle { color: var(--gold-on-dark); display: block; }
 
 /* ---------- cards / sections ---------- */
 
@@ -248,7 +249,7 @@ details.topbar > summary {
 details.topbar > summary::-webkit-details-marker { display: none; }
 details.topbar > summary:hover { background: var(--navy-soft); }
 details.topbar > summary .chev {
-  color: var(--gold);
+  color: var(--gold-on-dark);
   font-size: 1rem;
   transition: transform 0.2s ease;
 }
@@ -284,7 +285,7 @@ details.info-item > summary {
 details.info-item > summary::-webkit-details-marker { display: none; }
 details.info-item > summary:hover { background: var(--navy-soft); }
 details.info-item > summary .chev {
-  color: var(--gold);
+  color: var(--gold-on-dark);
   font-size: 0.9rem;
   transition: transform 0.2s ease;
   margin-left: 12px;
@@ -470,7 +471,7 @@ a.toc-item.toc-whiteboard:hover { background: var(--maroon-dark); }
   flex: 1;
 }
 .toc details.toc-item > summary .chev {
-  color: var(--gold);
+  color: var(--gold-on-dark);
   font-size: 0.9rem;
   transition: transform 0.2s ease;
   margin-left: 10px;
@@ -522,7 +523,7 @@ a.toc-item.toc-whiteboard:hover { background: var(--maroon-dark); }
   letter-spacing: 0.01em;
 }
 .menu-btn:hover { background: var(--navy-soft); transform: translateY(-1px); }
-.menu-btn .chev { color: var(--gold); font-size: 1.1rem; margin-left: 12px; }
+.menu-btn .chev { color: var(--gold-on-dark); font-size: 1.1rem; margin-left: 12px; }
 
 .cta-btn, a.cta-btn {
   display: block;
