@@ -107,6 +107,11 @@ COURSES = {
         "subtitle": "Six Sessions",
         "desc": "A six-session close-reading of the great American speeches \u2014 Washington's Farewell, Lincoln's Second Inaugural, FDR, JFK, Dr. King, and Reagan on the Challenger \u2014 their craft, rhetorical devices, historical context, and enduring power. Taught by James F. Mulhern.",
     },
+    "2601_essays": {
+        "title": "Our Building, Our Story: Writing the Life of 2601",
+        "subtitle": "Ten Sessions",
+        "desc": "A ten-session personal essay course for the residents of 2601 \u2014 craft fundamentals, the ethics of writing about real people, and five essay forms (arrival, portrait, joy, hardship, comedy, and the unforgettable) that build toward a shared, publishable resident anthology. Taught by James F. Mulhern.",
+    },
 }
 
 # Sections that belong in each of the three top-level collapsibles.

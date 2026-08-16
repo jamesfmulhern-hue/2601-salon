@@ -137,6 +137,13 @@ COURSES = [
         "blurb": "Six great American speeches close-read for their craft, rhetorical devices, and historical context. Washington's Farewell, Lincoln's Second Inaugural, FDR, JFK, Dr. King, and Reagan on the Challenger.",
         "hours": "6 sessions · 90 minutes each",
     },
+    {
+        "slug": "2601_essays",
+        "title": "Our Building, Our Story: Writing the Life of 2601",
+        "tag": "Ten Sessions · For 2601 Residents",
+        "blurb": "A course written for our own building — craft fundamentals, the ethics of writing about real neighbors, and the arrival, portrait, happy, hard, and funniest-experience essays that become a shared, publishable resident anthology.",
+        "hours": "10 sessions · 90 minutes each",
+    },
 ]
 
 
