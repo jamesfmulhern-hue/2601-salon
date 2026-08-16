@@ -154,7 +154,7 @@ def build():
     for c in COURSES:
         cards.append(f"""
 <a class="menu-btn" href="courses/{c['slug']}.html">
-  <span>{c['title']}<br><span style="font-size:0.78rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold);font-family:Lora,serif;font-weight:600;">{c['tag']}</span></span>
+  <span>{c['title']}<br><span style="font-size:0.78rem;letter-spacing:0.14em;text-transform:uppercase;color:var(--gold-on-dark);font-family:Lora,serif;font-weight:600;">{c['tag']}</span></span>
   <span class="chev">›</span>
 </a>
 <p style="margin:-6px 0 22px;padding:0 6px;color:var(--muted);font-size:0.98rem;">{c['blurb']}</p>
