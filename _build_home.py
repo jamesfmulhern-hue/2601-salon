@@ -408,11 +408,9 @@ def build():
 
 <div class="card" id="formats">
   <h2>Formats &amp; Availability</h2>
-  <p>Courses are offered in three formats, and Professor Mulhern will adapt any of the courses in this catalog to fit a partner venue's calendar and audience.</p>
+  <p>All courses are taught in person. Professor Mulhern will adapt any of the courses in this catalog to fit a partner venue's calendar and audience.</p>
   <ul>
     <li><strong>In person</strong> — at libraries, bookstores, community centers, universities, retirement communities, and literary nonprofits in the Philadelphia region and, on request, elsewhere in the Northeast.</li>
-    <li><strong>Online</strong> — by Zoom or comparable platform, to any group of adult readers anywhere.</li>
-    <li><strong>Hybrid</strong> — a combination of in-person sessions and online continuation, tailored to the host.</li>
   </ul>
   <p>Full sixteen-session courses, four-session workshops, single evening talks, and one-day masterclasses are all available. Please write with your calendar and I will propose a shape that fits.</p>
 </div>

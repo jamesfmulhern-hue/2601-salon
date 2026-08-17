@@ -2,7 +2,7 @@
 
 **A four-session close-reading course on Walt Whitman's *Leaves of Grass***
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
-Weekly · 90 minutes · in person or on Zoom
+Weekly · 90 minutes · in person
 
 ---
 
@@ -20,7 +20,7 @@ This four-session course reads Whitman slowly. Not the way an anthology reads hi
 - Selections from *Leaves of Grass* plus *Drum-Taps*
 - Ninety minutes per session, discussion-based
 - Non-graded, non-competitive, open to any adult reader
-- In person or on Zoom, adaptable to any partner venue's calendar
+- In person, adaptable to any partner venue's calendar
 
 ## What This Course Is Not
 
@@ -35,7 +35,7 @@ James F. Mulhern is a Kirkus-starred novelist, Oxford Writing Fellow, poet, and 
 ## Course Details
 
 - **Instructor:** James F. Mulhern
-- **Location:** in person or on Zoom
+- **Location:** in person
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 4 weeks
 - **Cost:** Contact for current terms

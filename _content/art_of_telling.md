@@ -66,7 +66,7 @@ He lives in Philadelphia.
 |---|---|
 | **Course Title** | The Art of Telling: A Salon in Short Story, Poetry, and Memoir |
 | **Instructor** | James F. Mulhern |
-| **Format** | In person or on Zoom |
+| **Format** | In person |
 | **Meeting Length** | 90 minutes |
 | **Duration** | Ten sessions |
 | **Cost** | Contact for current terms |

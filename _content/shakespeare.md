@@ -1,7 +1,7 @@
 # Shakespeare's Sonnets and Famous Speeches
 
 **A Free 16-Week Community Course for adult readers and writers**
-Taught by James F. Mulhern · In person or on Zoom · 90 Minutes Weekly
+Taught by James F. Mulhern · In person · 90 Minutes Weekly
 
 ---
 
@@ -78,7 +78,7 @@ All texts are freely available online. Nothing to buy, nothing to print unless y
 | | |
 |---|---|
 | **Texts** | Shakespeare's Sonnets + Famous Speeches and Soliloquies |
-| **Format** | In person or on Zoom |
+| **Format** | In person |
 | **Duration** | 16 weeks · 90 minutes per session |
 | **Cost** | Contact for current terms |
 | **Instructor** | James F. Mulhern — Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford |

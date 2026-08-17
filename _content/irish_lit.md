@@ -2,7 +2,7 @@
 
 **A Community Course for adult readers and writers**
 Taught by James F. Mulhern
-16 Sessions · In person or on Zoom · 90 Minutes · Weekly · Non-Graded
+16 Sessions · In person · 90 Minutes · Weekly · Non-Graded
 
 ---
 
@@ -54,7 +54,7 @@ Nor is this a political course, though Irish literature is inextricably politica
 
 **Course Title:** The Irish Literary Imagination
 **Instructor:** James F. Mulhern
-**Format:** In person or on Zoom
+**Format:** In person
 **Format:** Weekly, 90 minutes, discussion-based
 **Length:** 16 sessions
 **Cost:** Contact for current terms for adult readers and writers

@@ -2,7 +2,7 @@
 
 **A four-session close-reading course on Walden and "Civil Disobedience"**
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
-Weekly · 90 minutes · in person or on Zoom
+Weekly · 90 minutes · in person
 
 ---
 
@@ -20,7 +20,7 @@ Three sessions on *Walden* (we cannot cover the whole book, but we can read enou
 - Selected chapters of Walden plus the full essay "Civil Disobedience"
 - Ninety minutes per session, discussion-based
 - Non-graded, non-competitive, open to any adult reader
-- In person or on Zoom, adaptable to any partner venue's calendar
+- In person, adaptable to any partner venue's calendar
 
 ## What This Course Is Not
 
@@ -35,7 +35,7 @@ James F. Mulhern is a Kirkus-starred novelist, Oxford Writing Fellow, and Profes
 ## Course Details
 
 - **Instructor:** James F. Mulhern
-- **Location:** in person or on Zoom
+- **Location:** in person
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 4 weeks
 - **Cost:** Contact for current terms

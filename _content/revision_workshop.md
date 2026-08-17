@@ -2,7 +2,7 @@
 
 **A Community Course for adult readers and writers**
 **Instructor: James F. Mulhern**
-**16 Weeks · 90 Minutes per Session · In person or on Zoom**
+**16 Weeks · 90 Minutes per Session · In person**
 
 ---
 
@@ -59,7 +59,7 @@ By the end of the term, you will have a substantially revised piece of writing. 
 | | |
 |---|---|
 | **Instructor** | James F. Mulhern |
-| **Format** | In person or on Zoom |
+| **Format** | In person |
 
 | **Duration** | 16 sessions |
 | **Cost** | Contact for current terms |

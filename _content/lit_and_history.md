@@ -3,7 +3,7 @@
 **Instructor:** James F. Mulhern
 Professor of English | Former Department Chair, English | Former Department Chair, Social Studies | AP Consultant | Writing Fellow, Exeter College, University of Oxford
 
-**Format:** In person or on Zoom
+**Format:** In person
 
 ---
 
@@ -21,7 +21,7 @@ I have spent my career teaching both. That is not an accident; it is the premise
 
 ## Welcome
 
-This course meets in the classroom or the Zoom room, and it is free, non-graded, and open to all adults. You do not need a background in literature or history. You need only a willingness to read closely and to think out loud with your fellow readers. All readings will be provided or linked; The only requirement is showing up with the reading done and something on your mind.
+This course meets in the classroom, and it is free, non-graded, and open to all adults. You do not need a background in literature or history. You need only a willingness to read closely and to think out loud with your fellow readers. All readings will be provided or linked; The only requirement is showing up with the reading done and something on your mind.
 
 ---
 
@@ -70,7 +70,7 @@ The architecture is simple: a primary source and a literary text. A speech and a
 
 ## Course Details
 
-**Where:** in person or on Zoom
+**Where:** in person
 **When:** Weekly, 90 minutes — day and time to be confirmed
 **Cost:** Contact for current terms
 **Credit:** None

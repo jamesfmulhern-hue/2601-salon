@@ -2,7 +2,7 @@
 
 **A six-session close-reading course on the great American speeches — their craft, their rhetorical devices, and the history that produced them**
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
-Weekly · 90 minutes · in person or on Zoom
+Weekly · 90 minutes · in person
 
 ---
 
@@ -20,7 +20,7 @@ The course is for adult readers who love American history, who have always meant
 - One speech per session, all delivered by American presidents, all in the public domain
 - Ninety minutes per session, discussion-based
 - Non-graded, non-competitive, open to any adult reader
-- In person or on Zoom, adaptable to any partner venue's calendar
+- In person, adaptable to any partner venue's calendar
 
 ## What This Course Is Not
 
@@ -35,7 +35,7 @@ James F. Mulhern is a Kirkus-starred novelist, Oxford Writing Fellow, and Profes
 ## Course Details
 
 - **Instructor:** James F. Mulhern
-- **Location:** in person or on Zoom
+- **Location:** in person
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 6 weeks
 - **Cost:** Contact for current terms

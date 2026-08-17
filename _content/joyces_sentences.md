@@ -2,7 +2,7 @@
 
 **A two-session close-reading weekend on *The Dead* and Molly Bloom's soliloquy**
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
-Two sessions · 90 minutes each · in person or on Zoom
+Two sessions · 90 minutes each · in person
 
 ---
 
@@ -32,7 +32,7 @@ James F. Mulhern is a Kirkus-starred novelist, Oxford Writing Fellow, and Profes
 ## Course Details
 
 - **Instructor:** James F. Mulhern
-- **Location:** in person or on Zoom
+- **Location:** in person
 - **Format:** Two sessions, 90 minutes each, one weekend
 - **Duration:** 2 sessions
 - **Cost:** Contact for current terms

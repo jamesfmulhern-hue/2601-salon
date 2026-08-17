@@ -12,5 +12,5 @@ delete every entry). The Notices band will then show nothing.
 ---
 posted: Current
 
-Welcome to The 2601 Salon — a working catalog of literary courses for adult readers and writers, offered in person or on Zoom. To learn more, express interest, or bring a course to your venue, email Professor Mulhern at <a href="mailto:jamesfmulhern@gmail.com">jamesfmulhern@gmail.com</a>. The Whiteboard is available on every course page for live in-class notes.
+Welcome to The 2601 Salon — a working catalog of literary courses for adult readers and writers, offered in person. To learn more, express interest, or bring a course to your venue, email Professor Mulhern at <a href="mailto:jamesfmulhern@gmail.com">jamesfmulhern@gmail.com</a>. The Whiteboard is available on every course page for live in-class notes.
 ---

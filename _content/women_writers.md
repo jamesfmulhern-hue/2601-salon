@@ -2,7 +2,7 @@
 ### A Community Course for adult readers and writers
 **Instructor:** James F. Mulhern
 Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford
-**Meeting:** Weekly, 90 minutes · In person or on Zoom · Non-graded · Discussion-Based
+**Meeting:** Weekly, 90 minutes · In person · Non-graded · Discussion-Based
 
 ---
 
@@ -10,7 +10,7 @@ Professor of English · Former Department Chair · Writing Fellow, Exeter Colleg
 
 ### Welcome
 
-You are invited to a literary conversation — sixteen sessions of ninety minutes each, weekly, in person or on Zoom.
+You are invited to a literary conversation — sixteen sessions of ninety minutes each, weekly, in person.
 
 No enrollment form. No credential required. The only thing you need to bring is a willingness to read carefully and to speak honestly about what you find on the page. The reading will do the rest.
 
@@ -46,7 +46,7 @@ Questions of gender, race, class, and historical context will arise naturally �
 
 **Course title:** Women in American Literature
 **Instructor:** James F. Mulhern, Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
-**Format:** In person or on Zoom
+**Format:** In person
 **Format:** Weekly, 90 minutes per session
 **Total sessions:** 16
 **Grading:** None. This is a non-graded course. There are no quizzes, no papers, no tests. You will not be evaluated.

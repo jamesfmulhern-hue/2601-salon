@@ -2,7 +2,7 @@
 
 **A 16-week course for adult readers and writers**
 **Taught by James F. Mulhern**
-**In person or on Zoom · 90 minutes · Weekly**
+**In person · 90 minutes · Weekly**
 
 ---
 
@@ -64,7 +64,7 @@ It is **not** intimidating. I promise.
 
 - **Course title:** Reading Poetry: A Beginner's Welcome
 - **Instructor:** James F. Mulhern
-- **Location:** in person or on Zoom
+- **Location:** in person
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 16 weeks
 - **Cost:** Contact for current terms

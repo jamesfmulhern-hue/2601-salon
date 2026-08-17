@@ -66,7 +66,7 @@ He lives in Philadelphia.
 |---|---|
 | **Course Title** | The Personal Essay & Memoir: Writing From a Life |
 | **Instructor** | James F. Mulhern |
-| **Format** | In person or on Zoom |
+| **Format** | In person |
 
 | **Duration** | Sixteen weeks |
 | **Cost** | Contact for current terms |

@@ -2,7 +2,7 @@
 
 **A four-session close-reading workshop on the last paragraph of the modern short story**
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
-Weekly · 90 minutes · in person or on Zoom
+Weekly · 90 minutes · in person
 
 ---
 
@@ -20,7 +20,7 @@ The workshop is for adult readers who love short fiction, for writers who want t
 - One story per session, all by Chekhov, all available free online
 - Ninety minutes per session, discussion-based, no lecture
 - Non-graded, non-competitive, open to any adult reader
-- In person or on Zoom, adaptable to any partner venue's calendar
+- In person, adaptable to any partner venue's calendar
 
 ## What This Course Is Not
 
@@ -36,7 +36,7 @@ James F. Mulhern is a Kirkus-starred novelist, Oxford Writing Fellow, and Profes
 ## Course Details
 
 - **Instructor:** James F. Mulhern
-- **Location:** in person or on Zoom
+- **Location:** in person
 - **Format:** Weekly, 90 minutes per session
 - **Duration:** 4 weeks
 - **Cost:** Contact for current terms

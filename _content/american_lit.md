@@ -2,7 +2,7 @@
 
 **A sixteen-week course for adult readers and writers**
 **James F. Mulhern — Professor of English · Former Department Chair · Writing Fellow, Exeter College, University of Oxford**
-Weekly · 90 minutes · in person or on Zoom
+Weekly · 90 minutes · in person
 
 ---
 
@@ -82,7 +82,7 @@ There are no wrong answers. There are only answers you cannot yet support.
 
 **Title:** Survey of American Literature
 **Instructor:** James F. Mulhern, Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
-**Format:** In person or on Zoom
+**Format:** In person
 **Schedule:** Weekly, 90 minutes
 **Cost:** Contact for current terms
 **Credits:** None

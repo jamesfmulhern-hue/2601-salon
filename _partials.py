@@ -109,7 +109,7 @@ def page(title, body_html, course_running_head=None, og_desc="", slug=None):
 <body>
 {topnav("../")}
 <main class="wrap" data-running-head="{running_head}">
-{f'<div class="partner-band"><span class="partner-band-text"><strong>For program partners:</strong> This course can be brought to any adult reading audience — in person or on Zoom. See the <a href="../partners.html">partners page</a> or download a <a href="../flyers/{slug}_flyer.pdf">one-page flyer for this course</a>.</span></div>' if slug else ''}
+{f'<div class="partner-band"><span class="partner-band-text"><strong>For program partners:</strong> This course can be brought to any adult reading audience — in person. See the <a href="../partners.html">partners page</a> or download a <a href="../flyers/{slug}_flyer.pdf">one-page flyer for this course</a>.</span></div>' if slug else ''}
 {body_html}
 </main>
 {FOOTER}
@@ -170,7 +170,7 @@ def home_page(title, body_html, og_desc="", canonical_path="/"):
   "areaServed": [
     {"@type": "City", "name": "Philadelphia"},
     {"@type": "Country", "name": "United States"},
-    {"@type": "Place", "name": "Online (Zoom, worldwide)"}
+    {"@type": "Place", "name": "Philadelphia, Pennsylvania"}
   ],
   "contactPoint": {
     "@type": "ContactPoint",
@@ -192,7 +192,7 @@ def home_page(title, body_html, og_desc="", canonical_path="/"):
   ]
 }
 </script>"""
-    keywords = "literary courses, adult creative writing, memoir workshop, poetry for beginners, close reading, Shakespeare course, American literature course, Irish literature course, Jewish writers course, women writers course, minority voices, revision workshop, getting published, literary salon, Philadelphia writing course, Zoom literature course, James F. Mulhern, Silver Current Press, Kirkus starred review, Oxford writing fellowship, professor emeritus, adult continuing education, lifelong learning, OLLI course, library workshop, bookstore author event, program partner, book club leader, literature lecture series, memoir consulting"
+    keywords = "literary courses, adult creative writing, memoir workshop, poetry for beginners, close reading, Shakespeare course, American literature course, Irish literature course, Jewish writers course, women writers course, minority voices, revision workshop, getting published, literary salon, Philadelphia writing course, in-person literature course, James F. Mulhern, Silver Current Press, Kirkus starred review, Oxford writing fellowship, professor emeritus, adult continuing education, lifelong learning, OLLI course, library workshop, bookstore author event, program partner, book club leader, literature lecture series, memoir consulting"
     return f"""<!doctype html>
 <html lang="en">
 <head>

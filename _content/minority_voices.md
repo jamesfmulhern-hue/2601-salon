@@ -1,7 +1,7 @@
 # Minority Voices in American Literature
 ### A Community Course for adult readers and writers
 **Instructor:** James F. Mulhern — Professor of English; former Department Chair; Writing Fellow, Exeter College, University of Oxford
-**Format:** In person or on Zoom
+**Format:** In person
 **Format:** Weekly, 90 minutes, non-graded, discussion-based
 **Enrollment:** Open to all adults; no application required
 
@@ -69,7 +69,7 @@ It is not a space for performance. No one will be called on. No one will be grad
 |---|---|
 | **Instructor** | James F. Mulhern |
 | **Meetings** | Weekly, 90 minutes |
-| **Format** | In person or on Zoom |
+| **Format** | In person |
 | **Cost** | Contact for current terms |
 | **Credit** | None |
 | **Grades** | None |
@@ -872,7 +872,7 @@ There is a version of American literary history that begins with the Puritans, r
 
 The writers in this course did not fail to make the original list because they were minor talents. Frederick Douglass was writing in the 1840s with a command of rhetoric and argument that any American essayist of his era would have been proud to match. Zora Neale Hurston was, by almost any measure, among the finest prose stylists of the twentieth century. Zitkala-Ša's account of the boarding school system is one of the most important firsthand testimonies in American literature. These writers were not absent from the canon because their work was insufficient. They were absent because the people who built the canon, for most of American history, did not think their experience was the kind of experience that literature was supposed to be about.
 
-What we are doing in this course — sixteen weeks, ninety minutes, a room in Philadelphia or a Zoom link anywhere — is not remediation. We are not filling in gaps in a deficient education. We are reading some of the best American literature ever written, literature that happens to have been systematically undercelebrated for reasons that had nothing to do with its quality.
+What we are doing in this course — sixteen weeks, ninety minutes, a room in Philadelphia — is not remediation. We are not filling in gaps in a deficient education. We are reading some of the best American literature ever written, literature that happens to have been systematically undercelebrated for reasons that had nothing to do with its quality.
 
 That distinction matters. If you come to Harriet Jacobs thinking you are being asked to read a historical document about people less fortunate than yourself, you will read her wrong. She is not asking for your pity. She is a writer of extraordinary intelligence and strategic cunning, navigating an audience she did not trust, telling the truth about her life in a way that could not be dismissed. The same is true of every writer in this course. They are not here because they represent something. They are here because they wrote something.
 
