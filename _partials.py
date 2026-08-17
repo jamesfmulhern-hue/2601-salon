@@ -220,6 +220,7 @@ def home_page(title, body_html, og_desc="", canonical_path="/"):
 {body_html}
 </main>
 {FOOTER}
+<script src="site-search.js" defer></script>
 </body>
 </html>
 """
