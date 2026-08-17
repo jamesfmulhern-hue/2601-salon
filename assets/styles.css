@@ -101,40 +101,57 @@ li { margin-bottom: 0.4em; }
   position: sticky;
   top: 0;
   z-index: 50;
-  background: var(--bg-page);
-  border-bottom: 1px solid var(--border);
+  background: var(--navy);
+  border-bottom: 3px solid var(--gold);
+  box-shadow: 0 2px 8px rgba(15,30,61,0.25);
 }
 .topnav-inner {
-  max-width: var(--content-max);
+  max-width: 1080px;
   margin: 0 auto;
-  padding: 12px 24px;
+  padding: 14px 28px;
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px 18px;
+  flex-wrap: nowrap;
+  gap: 8px 20px;
   align-items: center;
   justify-content: space-between;
 }
 .topnav .brand {
   font-family: "Cormorant Garamond", Georgia, serif;
-  color: var(--navy);
+  color: #F5EFE1;
   font-weight: 700;
-  font-size: 1.1rem;
+  font-size: 1.35rem;
   text-decoration: none;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.015em;
+  white-space: nowrap;
 }
+.topnav .brand:hover { color: var(--gold-on-dark); }
 .topnav .links {
   display: flex;
-  gap: 18px;
-  flex-wrap: wrap;
+  gap: 22px;
+  flex-wrap: nowrap;
+  align-items: center;
 }
 .topnav .links a {
-  color: var(--navy);
+  color: #F5EFE1;
   text-decoration: none;
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   font-weight: 600;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  padding: 4px 2px;
+  border-bottom: 1px solid transparent;
+  transition: color .15s ease, border-color .15s ease;
 }
-.topnav .links a:hover { color: var(--maroon); }
+.topnav .links a:hover { color: var(--gold-on-dark); border-bottom-color: var(--gold-on-dark); }
+
+/* Narrow-viewport: wrap and reduce sizing so the nav doesn't overflow */
+@media (max-width: 820px) {
+  .topnav-inner { flex-wrap: wrap; padding: 12px 18px; gap: 10px 14px; }
+  .topnav .brand { font-size: 1.15rem; flex: 1 1 100%; }
+  .topnav .links { gap: 14px; }
+  .topnav .links a { font-size: 0.78rem; letter-spacing: 0.04em; }
+}
 
 /* ---------- layout containers ---------- */
 
