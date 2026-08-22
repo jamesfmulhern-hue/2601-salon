@@ -747,3 +747,17 @@ details.info-item > summary,
 a { font-weight: 600; }
 /* Table headers and important labels */
 th, dt, strong, b { font-weight: 800 !important; }
+
+/* Safety net: long uppercase/tracked labels (domain names, kickers) and
+   heading text inside bordered cards must wrap instead of bleeding past
+   the card edge on narrow viewports. */
+.card, .notice-card, .resource, .offering, .audience-card {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+.card h1, .card h2, .card h3, .card h4,
+.notice-card .date, .resource h3, .resource .subline,
+.offering h3, .offering .subline {
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
