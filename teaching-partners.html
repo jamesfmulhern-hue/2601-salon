@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Teaching — For Program Partners · The 2601 Salon</title>
+<meta name="description" content="A one-page summary for program directors, librarians, and venue partners: the literary courses, salons, and consultations James F. Mulhern offers, who they suit, and how to bring one to your venue. In person only — no Zoom, no hybrid.">
+<meta property="og:title" content="Teaching — For Program Partners · The 2601 Salon">
+<meta property="og:description" content="A one-page summary for program partners: offerings, audiences, and how to inquire. In person only — no Zoom, no hybrid.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<nav class="topnav">
+  <div class="topnav-inner">
+    <a class="brand" href="index.html">The 2601 Salon</a>
+    <div class="links">
+      <a href="teaching.html">Teaching</a>
+      <a href="partners.html">For Partners</a>
+      <a href="index.html#toc">Table of Contents</a>
+      <a href="index.html#contact">Enroll or Book</a>
+    </div>
+  </div>
+</nav>
+<main class="wrap">
+
+<style>
+  .tp-hero {
+    background: #FBF7EC;
+    border: 1px solid rgba(184,137,58,0.35);
+    border-radius: 3px;
+    padding: 36px 42px;
+    margin: 24px 0 26px;
+    text-align: center;
+  }
+  .tp-hero .eyebrow {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.76rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+    margin-bottom: 12px;
+    display: block;
+  }
+  .tp-hero h1 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: clamp(1.7rem, 2.3vw, 2.4rem);
+    color: var(--navy);
+    font-weight: 600;
+    margin: 0 0 12px;
+    line-height: 1.15;
+  }
+  .tp-hero p.lead {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: var(--muted);
+    max-width: 60ch;
+    margin: 0 auto;
+    line-height: 1.5;
+  }
+  .tp-hero .policy {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.84rem;
+    color: var(--navy);
+    background: #fff;
+    border: 1px solid rgba(184,137,58,0.35);
+    border-radius: 3px;
+    padding: 11px 18px;
+    margin: 20px auto 0;
+    max-width: 58ch;
+    line-height: 1.5;
+  }
+
+  .tp-section { margin: 34px 0; }
+  .tp-section > h2 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.4rem;
+    color: var(--navy);
+    font-weight: 600;
+    margin: 0 0 14px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid rgba(184,137,58,0.35);
+  }
+
+  /* Compact offering list — table-like rows instead of full cards */
+  .offer-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 4px;
+    padding: 14px 0;
+    border-bottom: 1px dotted rgba(184,137,58,0.35);
+  }
+  .offer-row:last-child { border-bottom: none; }
+  @media (min-width: 720px) {
+    .offer-row {
+      grid-template-columns: 1.4fr 2fr 1fr;
+      gap: 18px;
+      align-items: baseline;
+    }
+  }
+  .offer-row h3 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.12rem;
+    color: var(--navy);
+    font-weight: 600;
+    margin: 0;
+  }
+  .offer-row p {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 0.98rem;
+    color: var(--text);
+    margin: 0;
+    line-height: 1.45;
+  }
+  .offer-row .fit {
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.04em;
+    color: var(--gold);
+    margin: 0;
+  }
+
+  .audience-line {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--text);
+  }
+  .audience-line strong { color: var(--navy); }
+
+  .format-strip {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 12px;
+    margin: 14px 0 0;
+  }
+  .format-strip .fmt {
+    background: #FBF7EC;
+    border-left: 3px solid var(--gold);
+    padding: 12px 16px;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 0.96rem;
+  }
+  .format-strip .fmt strong { color: var(--navy); }
+
+  .inquire-compact {
+    background: var(--navy);
+    color: var(--gold-on-dark);
+    border-radius: 3px;
+    padding: 28px 34px;
+    margin: 38px 0 16px;
+    text-align: center;
+  }
+  .inquire-compact h2 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    color: #FBF7EC;
+    font-size: 1.45rem;
+    font-weight: 600;
+    margin: 0 0 8px;
+    border: none;
+    padding: 0;
+  }
+  .inquire-compact p {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-style: italic;
+    font-size: 1rem;
+    color: #E9D8A6;
+    max-width: 58ch;
+    margin: 0 auto 16px;
+    line-height: 1.5;
+  }
+  .inquire-compact .btn-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px 12px;
+  }
+  .inquire-compact a.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: var(--gold);
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 2px;
+  }
+  .inquire-compact a.btn:hover { background: #F5EFE0; color: var(--navy); }
+  .inquire-compact a.btn-secondary {
+    background: transparent;
+    color: #FBF7EC;
+    border: 1px solid rgba(251,247,236,0.5);
+  }
+  .inquire-compact a.btn-secondary:hover { background: rgba(251,247,236,0.12); color: #FBF7EC; }
+
+  .more-link {
+    text-align: center;
+    margin: 8px 0 0;
+    font-family: 'Lora', Georgia, serif;
+    font-size: 0.92rem;
+  }
+  .more-link a { color: var(--maroon); border-bottom: 1px dotted rgba(107,31,42,0.35); text-decoration: none; }
+  .more-link a:hover { color: var(--gold); border-color: var(--gold); }
+</style>
+
+<div class="tp-hero">
+  <span class="eyebrow">For Program Partners</span>
+  <h1>Bringing James F. Mulhern to Your Venue</h1>
+  <p class="lead">A one-page summary of what's on offer, who it suits, and how to say yes — for libraries, bookstores, retirement communities, universities, and literary nonprofits.</p>
+  <p class="policy"><strong>Delivery:</strong> Every course, salon, and consultation is taught in person, in the Philadelphia region or on request elsewhere in the Northeast. There is no Zoom, no hybrid, and no remote option.</p>
+</div>
+
+<div class="tp-section">
+  <h2>What's on Offer</h2>
+  <div class="offer-row">
+    <h3>The 2601 Salon Catalog</h3>
+    <p>Twelve-plus literary courses — surveys, close-reading workshops, and writing workshops. Adapted to any length: single talk to sixteen sessions.</p>
+    <p class="fit">Full catalog and sample syllabi &rarr;</p>
+  </div>
+  <div class="offer-row">
+    <h3>The Art of Telling</h3>
+    <p>A ten-session creative-writing salon across short story, poetry, and memoir. Proven format, ready to repeat at a new venue.</p>
+    <p class="fit">Community rooms, senior centers</p>
+  </div>
+  <div class="offer-row">
+    <h3>Single Talks &amp; Masterclasses</h3>
+    <p>An evening author talk or a one-day masterclass — including <em>Pathways to Publication</em>, a 75-minute lecture on traditional, hybrid, and self-publishing.</p>
+    <p class="fit">Bookstore or library evenings</p>
+  </div>
+  <div class="offer-row">
+    <h3>Memoir Consulting</h3>
+    <p>One-to-one work for memoirists in your community — free orientation, paid manuscript review and structural guidance.</p>
+    <p class="fit">Writers' groups, referral partners</p>
+  </div>
+  <div class="more-link"><a href="partners.html#courses">See the full course catalog with syllabi and sample sessions &rarr;</a></div>
+</div>
+
+<div class="tp-section">
+  <h2>Who It's For</h2>
+  <p class="audience-line">
+    <strong>Adult readers and writers</strong> looking for serious, discussion-based literary programming &middot;
+    <strong>retirement-community and senior-living residents</strong> &middot;
+    <strong>libraries and bookstores</strong> building an author-talk or course series &middot;
+    <strong>universities and lifelong-learning programs</strong> &middot;
+    <strong>literary nonprofits and festivals</strong> seeking a credentialed, Kirkus-recognized instructor &middot;
+    <strong>secondary schools</strong> booking a writing or literary-analysis session for students.
+  </p>
+</div>
+
+<div class="tp-section">
+  <h2>How It's Delivered</h2>
+  <div class="format-strip">
+    <div class="fmt"><strong>Where.</strong> Your venue — a room the host provides. Philadelphia region; elsewhere in the Northeast on request.</div>
+    <div class="fmt"><strong>Length.</strong> Single evening to sixteen-session series, shaped to your calendar.</div>
+    <div class="fmt"><strong>Materials.</strong> Syllabus, discussion questions, and readings supplied — all public-domain or open-access, so students never buy a book.</div>
+    <div class="fmt"><strong>Cost.</strong> A first session is often offered without charge as a proof of concept. Ongoing terms fit the host.</div>
+  </div>
+</div>
+
+<div class="inquire-compact">
+  <h2>How to Say Yes</h2>
+  <p>A short email is enough — your venue, an approximate audience size, and a proposed date window. A reply comes within two business days with a shape that fits.</p>
+  <div class="btn-row">
+    <a class="btn" href="mailto:james@silvercurrentpress.com?subject=Program%20partnership%20inquiry">Email james@silvercurrentpress.com</a>
+    <a class="btn btn-secondary" href="partners.html">Read the Full Partner Portfolio</a>
+  </div>
+</div>
+
+</main>
+<footer>
+  <div class="sig">— James F. Mulhern</div>
+  <div>Literary courses for adult readers and writers · Philadelphia</div>
+  <div style="margin-top:14px;padding-top:12px;border-top:1px solid rgba(184,137,58,0.25);font-size:0.78rem;line-height:1.55;max-width:780px;margin-left:auto;margin-right:auto;color:var(--muted);">
+    &copy; James F. Mulhern &amp; Silver Current Press. All rights reserved.
+    For classroom, institutional, or commercial use of syllabi, reading lists, or course design,
+    please write to <a href="mailto:james@silvercurrentpress.com" style="color:var(--gold);">james@silvercurrentpress.com</a> for permission.
+  </div>
+</footer>
+<div id="mulhern-gathering-room-bar" style="background:#F8F1DD;color:#1E2947;text-align:center;padding:10px 16px;font-family:Georgia,'EB Garamond',serif;font-size:13px;border-top:1px solid #d4c69e;">See James Mulhern&rsquo;s full body of work &mdash; fiction, courses, and publishing &mdash; in <a href="https://silvercurrentpress.com/elsewhere.html" style="color:#7B1F35;font-weight:600;text-decoration:none;">The Gathering Room &rarr;</a></div>
+<script src="return-ribbon.js" defer></script>
+<script src="site-search.js" defer></script>
+</body>
+</html>
