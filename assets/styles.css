@@ -127,7 +127,7 @@ li { margin-bottom: 0.4em; }
 .topnav .brand:hover { color: var(--gold-on-dark); }
 .topnav .links {
   display: flex;
-  gap: 22px;
+  gap: 16px;
   flex-wrap: nowrap;
   align-items: center;
 }
