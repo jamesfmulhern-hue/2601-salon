@@ -53,7 +53,7 @@ By Session 10, every participant will have a folder of five to seven short perso
 
 ## About the Instructor
 
-**James F. Mulhern** is a Professor of English and a former Department Chair, and the recipient of a fully funded Writing Fellowship at Exeter College, University of Oxford. He is a published author whose short fiction, essays, and poetry have appeared in more than 350 literary journals, and he is the founder of Silver Current Press. He has taught writing at the university level for many years and has a particular, long-standing interest in the way ordinary communities — families, workplaces, neighborhoods, buildings — hold literature inside them that no one has yet written down.
+**James F. Mulhern** is a Professor of English and a former Department Chair, and the recipient of a fully funded Writing Fellowship at Exeter College, University of Oxford. James Mulhern has been published over 300 times in literary magazines, journals, and anthologies in the United States and around the world. He is the founder of Silver Current Press. He has taught writing at the university level for many years and has a particular, long-standing interest in the way ordinary communities — families, workplaces, neighborhoods, buildings — hold literature inside them that no one has yet written down.
 
 He lives at 2601.
 
@@ -451,7 +451,7 @@ By the end, you will not just have learned to write personal essays. You will ha
 
 ## About Me
 
-I am a Professor of English and a former Department Chair, and I am the recipient of a fully funded Writing Fellowship at Exeter College, University of Oxford. My own short fiction, essays, and poetry have appeared in more than 350 literary journals, and I am the founder of Silver Current Press, an independent publishing house. I have taught writing at the university level for most of my adult life.
+I am a Professor of English and a former Department Chair, and I am the recipient of a fully funded Writing Fellowship at Exeter College, University of Oxford. I have been published over 300 times in literary magazines, journals, and anthologies in the United States and around the world. I am the founder of Silver Current Press, an independent publishing house. I have taught writing at the university level for most of my adult life.
 
 I also live at 2601, which is why this course exists. I have my own arrival story, my own portraits of neighbors I have loved, my own hard memories and my own very funny ones — and I believe, without reservation, that every one of my neighbors has at least one essay in them worth reading, and that together, we have a book worth making.
 
